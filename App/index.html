@@ -69,8 +69,10 @@
                     <td>
                         <select>
                             <option value="food">Food</option>
+                            <option value="clothing">Clothing</option>
                             <option value="transport">Transport</option>
-                            <option value="entertainment">Entertainment</option>
+                            <option value="alcohol_entertainment">Alcohol & Entertainment</option>
+                            <option value="home_appliances">Home & Appliances</option>
                             <option value="other">Other</option>
                         </select>
                     </td>
@@ -97,6 +99,23 @@
             <input type="date" id="end-date" max="">
             
             <button id="update-chart" onclick="updatePieChart()">Update Chart</button>
+        </div>
+    </div>
+
+    <!--Line Chart Section-->
+    <div class="line-chart-container">
+        <h3>Daily Spending Trend</h3>
+        <canvas id="dailySpendingChart" width="400" height="400"></canvas>
+    
+        <!-- Date Range Filter for Line Chart -->
+        <div class="date-filter-container">
+            <label for="start-date-line">Start Date:</label>
+            <input type="date" id="start-date-line" max="">
+    
+            <label for="end-date-line">End Date:</label>
+            <input type="date" id="end-date-line" max="">
+    
+            <button id="update-linechart">Update Line Chart</button>
         </div>
     </div>
 

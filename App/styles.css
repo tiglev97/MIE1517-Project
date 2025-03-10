@@ -182,7 +182,7 @@ button:hover {
 
 /* Pie chart container */
 .pie-chart-container {
-    width: 60%;
+    width: 45%;
     background-color: #fff;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -193,6 +193,17 @@ button:hover {
 
 .date-filter-container{
     margin-top: 20px;
+}
+
+/* Line Chart container */
+.line-chart-container{
+    background-color: #fff;
+    margin-top: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 45%;
+    border-radius: 10px;
+    padding: 20px;
+    
 }
 
 /* Form Styles */

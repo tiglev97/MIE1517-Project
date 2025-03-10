@@ -43,8 +43,10 @@ document.getElementById('add-item').addEventListener('click', function() {
         <td>
             <select>
                 <option value="food">Food</option>
+                <option value="clothing">Clothing</option>
                 <option value="transport">Transport</option>
-                <option value="entertainment">Entertainment</option>
+                <option value="alcohol_entertainment">Alcohol & Entertainment</option>
+                <option value="home_appliances">Home & Appliances</option>
                 <option value="other">Other</option>
             </select>
         </td>
@@ -56,11 +58,13 @@ document.getElementById('add-item').addEventListener('click', function() {
     // Add event listener to remove the item
     newRow.querySelector('.remove-item').addEventListener('click', function() {
         newRow.remove();
-        updatePieChart();  // Update chart when a row is removed
+        updatePieChart();
+        updateLineChart(); // Update chart when a row is removed
     });
 
     // Update pie chart when a new item is added
     updatePieChart();
+    updateLineChart();
 });
 
 // Remove item functionality - remove the clicked row
@@ -69,6 +73,7 @@ document.querySelectorAll('.remove-item').forEach(function(button) {
         var row = button.closest('tr');
         row.remove();
         updatePieChart();
+        updateLineChart();
     });
 });
 
@@ -81,8 +86,10 @@ function updatePieChart() {
     // Get all category data and their corresponding prices
     var categoryAmounts = {
         food: 0,
+        clothing: 0,
         transport: 0,
-        entertainment: 0,
+        alcohol_entertainment: 0,
+        home_appliances: 0,
         other: 0
     };
 
@@ -94,7 +101,7 @@ function updatePieChart() {
 
         // If a date filter is applied, only count entries that fall within the date range
         if ((startDate && new Date(date) < new Date(startDate)) || (endDate && new Date(date) > new Date(endDate))) {
-            return; // Skip this row if the date is outside the range
+            return; 
         }
 
         // Add the price to the correct category
@@ -102,7 +109,7 @@ function updatePieChart() {
     });
 
     // If no valid data is found within the range, do not display the chart
-    if (categoryAmounts.food + categoryAmounts.transport + categoryAmounts.entertainment + categoryAmounts.other === 0) {
+    if (categoryAmounts.food + categoryAmounts.clothing + categoryAmounts.transport + categoryAmounts.alcohol_entertainment + categoryAmounts.other + categoryAmounts.home_appliances === 0) {
         alert("No items found within the selected date range.");
         return;
     }
@@ -114,17 +121,17 @@ function updatePieChart() {
     }
 
     // Calculate the total amount spent across all categories
-    var totalAmount = categoryAmounts.food + categoryAmounts.transport + categoryAmounts.entertainment + categoryAmounts.other;
+    var totalAmount = categoryAmounts.food + categoryAmounts.transport + categoryAmounts.clothing + categoryAmounts.alcohol_entertainment + categoryAmounts.home_appliances + categoryAmounts.other;
 
     // Create a new pie chart with updated data
     window.pieChart = new Chart(ctx, {
         type: 'pie',
         data: {
-            labels: ['Food', 'Transport', 'Entertainment', 'Other'],
+            labels: ['Food', 'Clothing', 'Transport', 'Alcohol & Entertainment', 'Home & Appliances', 'Other'],
             datasets: [{
-                data: [categoryAmounts.food, categoryAmounts.transport, categoryAmounts.entertainment, categoryAmounts.other],
-                backgroundColor: ['#ff9999', '#66b3ff', '#99ff99', '#ffcc99'],
-                hoverOffset: 4
+                data: [categoryAmounts.food, categoryAmounts.clothing, categoryAmounts.transport, categoryAmounts.alcohol_entertainment, categoryAmounts.home_appliances, categoryAmounts.other],
+                backgroundColor: ['#ff9999', '#66b3ff', '#ff00ff', '#663300' , '#000099' , '#660066'],
+                hoverOffset: 6
             }]
         },
         options: {
@@ -168,11 +175,85 @@ function updatePieChart() {
     });
 }
 
+
+// Function to update the line chart showing daily spending trends
+function updateLineChart() {
+    // Get the selected start and end date
+    var startDate = document.getElementById('start-date-line').value;
+    var endDate = document.getElementById('end-date-line').value;
+
+    var dailySpending = {};
+
+    var rows = document.querySelectorAll('#receipt-table tbody tr');
+    rows.forEach(function(row) {
+        var date = row.querySelector('input[type="date"]').value;
+        var price = parseFloat(row.querySelector('input[type="number"]').value);
+
+        // Filter data based on selected date range
+        if ((startDate && new Date(date) < new Date(startDate)) || (endDate && new Date(date) > new Date(endDate))) {
+            return; 
+        }
+
+        if (dailySpending[date]) {
+            dailySpending[date] += price;
+        } else {
+            dailySpending[date] = price;
+        }
+    });
+
+    // Sort dates
+    var sortedDates = Object.keys(dailySpending).sort();
+
+    var ctx = document.getElementById('dailySpendingChart').getContext('2d');
+    if (window.lineChart) {
+        window.lineChart.destroy();
+    }
+
+    window.lineChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: sortedDates,
+            datasets: [{
+                label: 'Daily Spending ($)',
+                data: sortedDates.map(date => dailySpending[date]),
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: true
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { position: 'top' },
+                tooltip: {
+                    callbacks: {
+                        label: function(tooltipItem) {
+                            return '$' + tooltipItem.raw.toFixed(2);
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: { title: { display: true, text: 'Date' } },
+                y: { title: { display: true, text: 'Spending ($)' }, beginAtZero: true }
+            }
+        }
+    });
+}
+
+
+
 // Add event listener to update chart when clicking "Update Chart" button
 document.getElementById('update-chart').addEventListener('click', function() {
     updatePieChart();
 });
 
+document.getElementById('update-linechart').addEventListener('click', function() {
+    updateLineChart();
+});
+
 
 // Initialize the pie chart with default data
 updatePieChart();
+updateLineChart();
