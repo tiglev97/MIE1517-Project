@@ -1,0 +1,551 @@
+date,item,price,class
+2022-12-08,GG RTE RICE,14.49,food
+2022-10-19,SPARKLNG ICE,8.72,food
+2023-07-06,SO DELICIOUS,14.27,food
+2022-06-14,GOGO SQUEEZ MD,13.94,food
+2022-08-31,FOLGERS,2.76,food
+2022-07-02,GG CONDIMENT,10.18,food
+2022-11-19,EGGS,36.12,food
+2022-01-15,CAMPBELLS MD,27.64,food
+2023-03-30,FRZ PZA PEPP,1.06,food
+2023-07-31,gv chnk chkn,23.51,food
+2022-02-15,PB ORG CRMY 500ML,1.68,food
+2022-02-03,GV PARM 160Z,19.1,food
+2023-05-28,FOLGERS,6.52,food
+2023-10-01,BTR MLK BIS 2PK,38.16,food
+2022-09-23,QUAKER CHEWY 2PK,44.01,food
+2023-11-13,OLD EL PASO SM,19.14,food
+2022-09-17,oreo mini,43.52,food
+2022-01-31,12 pk coke,25.18,food
+2023-09-04,FOLGERS,37.74,food
+2022-07-24,GV PARM 160Z,36.21,food
+2023-03-15,SPARKLNG ICE,8.3,food
+2022-07-17,GGRTERICE,16.79,food
+2022-12-25,FRZ PZA PEPP,15.84,food
+2022-07-30,pb org crmy,11.77,food
+2022-02-22,GG RTE RICE,39.45,food
+2022-05-13,CAMPBELLS,42.03,food
+2023-05-09,nestle,18.74,food
+2022-06-18,GV CHNK CHKN,38.2,food
+2022-03-12,GV PARM 160Z,20.88,food
+2023-10-27,GG CONDIMENT,24.68,food
+2022-11-06,BTR MLK BIS,37.11,food
+2022-06-23,GOGO SQUEEZ,42.54,food
+2022-07-09,12 PK COKE,39.78,food
+2023-01-09,OREO MINI,3.71,food
+2022-08-21,SPARKLNG ICE,33.86,food
+2023-06-11,GV CHNK CHKN,44.43,food
+2022-03-13,PB ORG CRMY,15.64,food
+2023-08-06,eggs 500ml,28.04,food
+2022-02-22,SC TWIST UP,1.49,food
+2022-12-06,SPARKLNG ICE,2.65,food
+2022-02-05,PBORGCRMY,6.1,food
+2022-07-24,SC TWIST UP,24.81,food
+2022-03-27,OREO MINI,25.99,food
+2022-02-17,EGGS,12.32,food
+2023-05-01,CAMPBELLS,23.12,food
+2022-08-26,EGGS,5.01,food
+2023-09-17,GV CHNK CHKN,1.17,food
+2023-11-12,GG CONDIMENT,24.45,food
+2023-08-04,GOGO SQUEEZ,18.36,food
+2023-08-23,PB ORG CRMY,3.31,food
+2023-03-18,SC TWIST UP SM,28.71,food
+2023-08-21,GV CHNK CHKN SM,21.43,food
+2023-11-14,GG RTE RICE,34.38,food
+2023-10-23,PROGRESSO,42.87,food
+2022-06-09,PB ORG CRMY 500ML,36.03,food
+2023-10-03,SC TWIST UP,25.52,food
+2023-07-28,SPARKLNG ICE,36.74,food
+2022-04-28,pb org crmy,2.57,food
+2022-03-31,12 PK COKE,4.44,food
+2022-06-04,GV CHNK CHKN,9.83,food
+2023-11-09,OREO MINI,34.33,food
+2022-11-17,12PKCOKE,29.78,food
+2023-08-18,SC TWIST UP,28.57,food
+2022-09-22,QUAKER CHEWY 16OZ,30.4,food
+2022-08-13,GVPARM160Z500ML,11.79,food
+2023-02-25,CAMPBELLS,14.2,food
+2022-11-12,SO DELICIOUS 2PK,27.99,food
+2022-06-09,GV CHNK CHKN XL,16.22,food
+2023-05-05,OLD EL PASO,39.82,food
+2022-12-22,EGGS,33.23,food
+2023-01-11,SO DELICIOUS,28.22,food
+2023-03-28,GV CHNK CHKN,0.72,food
+2023-09-05,FOLGERS,4.97,food
+2023-07-01,progresso,8.98,food
+2022-03-17,SO DELICIOUS,25.13,food
+2023-10-16,SPARKLNG ICE 16OZ,6.98,food
+2022-02-17,SPARKLNG ICE XL,20.89,food
+2022-10-24,BTR MLK BIS,18.45,food
+2023-03-22,GGRTERICE,24.92,food
+2022-07-01,GV CHNK CHKN,4.59,food
+2022-10-08,BTR MLK BIS,22.61,food
+2022-09-21,CAMPBELLS,11.15,food
+2023-10-30,GV CHNK CHKN 16OZ,44.31,food
+2022-06-05,GV PARM 160Z,39.24,food
+2022-02-10,PB ORG CRMY SM,3.55,food
+2023-07-18,PROGRESSO,1.45,food
+2023-06-07,FOLGERS,39.17,food
+2023-07-29,PB ORG CRMY,3.32,food
+2023-02-25,SPARKLNG ICE,36.97,food
+2023-07-10,SPARKLNG ICE,29.15,food
+2022-10-08,OLDELPASO500ML,6.28,food
+2022-05-24,QUAKER CHEWY,15.38,food
+2023-10-28,FOLGERS,8.2,food
+2023-10-23,SO DELICIOUS,12.67,food
+2022-05-08,OLDELPASO,30.54,food
+2023-05-24,12 PK COKE,42.03,food
+2023-02-18,EGGS,7.55,food
+2023-04-30,GV PARM 160Z XL,36.05,food
+2022-07-25,12 PK COKE,34.25,food
+2022-08-27,CAMPBELLS 2PK,16.57,food
+2023-10-26,CAMPBELLS,43.23,food
+2023-11-25,CAMPBELLS,33.5,food
+2023-05-20,OREO MINI,17.34,food
+2023-08-21,NESTLE,18.45,food
+2022-03-29,FRZ PZA PEPP SM,33.87,food
+2022-10-24,PB ORG CRMY,2.94,food
+2023-05-23,EGGS,34.57,food
+2023-01-13,PB ORG CRMY,13.4,food
+2022-07-27,GV PARM 160Z 2PK,5.42,food
+2022-05-15,12 PK COKE 2PK,25.65,food
+2022-03-15,SC TWIST UP,21.46,food
+2023-06-26,SPARKLNGICE,6.61,food
+2022-10-28,SO DELICIOUS,24.25,food
+2022-03-19,quaker chewy,32.93,food
+2022-06-06,SC TWIST UP SM,6.9,food
+2022-04-26,EGGS,22.95,food
+2023-02-11,OLD EL PASO,22.64,food
+2022-08-11,GV PARM 160Z,36.06,food
+2022-05-01,QUAKER CHEWY XL,16.34,food
+2022-09-24,GG CONDIMENT MD,17.92,food
+2023-07-15,OREO MINI,27.17,food
+2022-10-31,12 PK COKE,7.6,food
+2022-02-02,SC TWIST UP,13.16,food
+2023-06-19,GG RTE RICE,4.71,food
+2022-12-26,EGGS,24.65,food
+2023-05-16,12PKCOKE,41.25,food
+2023-05-08,quaker chewy,1.57,food
+2022-11-01,SPARKLNG ICE,26.37,food
+2022-10-15,GV CHNK CHKN 16OZ,8.31,food
+2022-10-14,OREO MINI,13.85,food
+2022-05-03,12 PK COKE,27.45,food
+2023-11-26,FOLGERS,37.7,food
+2022-07-12,12PKCOKE,23.94,food
+2023-10-13,NESTLE,12.97,food
+2023-10-06,FOLGERS,38.69,food
+2023-04-12,NESTLE,1.18,food
+2022-02-09,CAMPBELLS,17.89,food
+2022-02-15,SPARKLNG ICE,42.84,food
+2023-07-18,GV PARM 160Z,39.42,food
+2023-01-24,EGGS,22.4,food
+2022-07-02,eggs,1.14,food
+2023-02-19,FOLGERS,27.97,food
+2022-10-08,OLD EL PASO,22.58,food
+2022-12-10,NESTLE,8.37,food
+2022-12-22,GGCONDIMENT,18.8,food
+2023-08-18,oreo mini,3.27,food
+2022-12-20,pb org crmy,43.26,food
+2023-11-18,OREO MINI,13.17,food
+2022-11-07,BTR MLK BIS,4.94,food
+2023-03-28,FRZ PZA PEPP,32.93,food
+2023-08-01,toll hwy 407,42.8,transportation
+2023-09-06,PRESTO RELOAD SM,38.53,transportation
+2022-01-07,UBR XL,22.88,transportation
+2022-06-26,TOLL HWY 407,10.17,transportation
+2023-06-02,go tkt zone3,33.17,transportation
+2023-07-03,GAS 10L,43.7,transportation
+2022-08-16,PRESTO RELOAD,21.43,transportation
+2022-05-23,SHELL 20L,13.53,transportation
+2023-05-16,GAS STN,12.14,transportation
+2023-01-01,SRVCE FEE,10.08,transportation
+2023-11-13,DLVRY FEE MD,27.72,transportation
+2023-05-30,UBR TIP,8.54,transportation
+2022-04-11,UBR XL,20.11,transportation
+2022-07-15,SRVCE FEE 16OZ,7.69,transportation
+2023-07-16,GO TKT ZONE3,32.05,transportation
+2023-07-28,VALT PARK 16OZ,23.91,transportation
+2022-06-25,UBR RIDE CNTR 2PK,9.18,transportation
+2022-06-12,GAS STN,39.3,transportation
+2022-04-23,PRESTO RELOAD,8.8,transportation
+2022-07-25,SRVCE FEE,2.08,transportation
+2022-10-27,bikeshare 30m 2pk,38.65,transportation
+2023-10-25,EV CHARGE,20.81,transportation
+2022-09-27,VALT PARK,3.73,transportation
+2023-10-27,SHELL 20L 16OZ,16.71,transportation
+2023-05-25,PARK METER,26.81,transportation
+2022-07-14,UBR TIP MD,8.13,transportation
+2022-10-13,PRESTORELOAD,29.83,transportation
+2023-02-04,ubr ride cntr,16.74,transportation
+2022-06-09,UBR RIDE CNTR,18.97,transportation
+2022-06-01,UBR RIDE CNTR,3.9,transportation
+2023-04-12,LFT TO UNI,26.95,transportation
+2022-03-05,PRESTO RELOAD,11.86,transportation
+2022-10-18,LFT TO UNI,23.68,transportation
+2022-09-24,GAS STN,26.98,transportation
+2023-03-15,SHELL 20L,22.91,transportation
+2022-05-30,PARK METER,27.86,transportation
+2022-05-07,GAS STN,3.85,transportation
+2023-10-13,UBR RIDE CNTR 500ML,2.29,transportation
+2022-05-06,PRESTO RELOAD,36.07,transportation
+2023-09-13,CAR WASH 2PK,0.75,transportation
+2022-07-12,gas 10l,38.49,transportation
+2023-07-25,SHELL 20L,32.86,transportation
+2023-05-09,EV CHARGE,0.72,transportation
+2023-07-27,GAS+CARWASH PKG,1.44,transportation
+2023-11-21,PRESTO RELOAD MD,27.26,transportation
+2023-09-25,UBR RIDE CNTR,38.68,transportation
+2022-03-12,PARK METER SM,26.03,transportation
+2022-12-12,GAS 10L 500ML,16.62,transportation
+2023-07-07,SHELL 20L 2PK,31.49,transportation
+2023-05-09,UBR XL,42.18,transportation
+2023-10-11,ubr xl,42.99,transportation
+2022-03-04,TTC ONE WAY,30.63,transportation
+2022-03-27,SHELL 20L,21.58,transportation
+2022-09-17,TTC ONE WAY 2PK,26.62,transportation
+2022-07-14,ev charge,7.14,transportation
+2023-08-30,GAS STN 16OZ,18.7,transportation
+2022-01-15,CAR WASH,18.46,transportation
+2023-02-15,EV CHARGE,16.83,transportation
+2022-01-02,DLVRY FEE,2.36,transportation
+2023-09-09,PARK METER,38.75,transportation
+2023-09-04,CAR WASH,14.9,transportation
+2023-03-18,bikeshare 30m,20.88,transportation
+2023-05-09,TOLL HWY 407,22.58,transportation
+2022-06-14,CAR WASH,37.28,transportation
+2022-12-13,LFT TO UNI,6.6,transportation
+2023-11-14,BIKESHARE 30M,10.13,transportation
+2022-06-05,toll hwy 407 sm,24.91,transportation
+2022-04-09,srvce fee sm,34.27,transportation
+2022-10-18,SRVCE FEE,8.29,transportation
+2022-10-28,ev charge 16oz,27.5,transportation
+2023-01-21,GAS 10L XL,30.51,transportation
+2022-05-31,GAS STN,3.03,transportation
+2022-02-22,DLVRY FEE,28.78,transportation
+2022-09-14,SRVCE FEE,36.27,transportation
+2023-06-21,VALT PARK,42.0,transportation
+2022-03-14,valt park,28.64,transportation
+2022-01-26,UBR TIP,7.11,transportation
+2022-09-27,TOLL HWY 407,27.47,transportation
+2023-09-17,VALT PARK,23.58,transportation
+2022-06-10,LFT TO UNI,11.17,transportation
+2023-07-05,GAS 10L,43.73,transportation
+2022-12-10,SHELL 20L,11.14,transportation
+2023-07-11,UBR XL,3.88,transportation
+2022-10-06,DLVRY FEE,3.78,transportation
+2023-02-17,BIKESHARE 30M,30.16,transportation
+2023-05-06,TTC ONE WAY,29.74,transportation
+2022-08-07,BIKESHARE 30M,36.0,transportation
+2022-06-19,GAS+CARWASH PKG,5.59,transportation
+2023-08-08,SRVCE FEE 500ML,31.18,transportation
+2023-05-02,SHELL 20L,8.39,transportation
+2023-03-17,DLVRY FEE,35.05,transportation
+2023-11-26,BIKESHARE 30M,0.83,transportation
+2022-08-10,GAS+CARWASHPKG,22.79,transportation
+2022-06-29,GAS STN,18.35,transportation
+2022-03-09,SCOOT APP FEE,35.95,transportation
+2023-03-17,SRVCE FEE,1.84,transportation
+2023-09-20,CAR WASH,27.7,transportation
+2023-07-27,DLVRY FEE,7.36,transportation
+2023-04-26,SHELL 20L,9.91,transportation
+2023-10-10,bikeshare 30m,44.26,transportation
+2022-07-10,kds snow cap,17.57,clothing
+2023-12-02,WRK BOOTS,6.49,clothing
+2022-12-10,MNS PANTS L XL,43.5,clothing
+2022-02-05,GLVS TOUCH,6.38,clothing
+2023-10-23,KDS SNOW CAP 16OZ,31.06,clothing
+2022-07-05,MNSPANTSL,34.04,clothing
+2023-03-25,GYM BAG XL,23.03,clothing
+2023-06-24,H&M MNS SHRT,37.65,clothing
+2022-04-21,KNIT CAP,35.46,clothing
+2022-11-12,TANK TOP,5.39,clothing
+2023-03-05,KDS SNOW CAP,14.38,clothing
+2022-05-30,DRY FIT LS,5.47,clothing
+2022-12-01,GLVS TOUCH,23.77,clothing
+2023-02-01,MNS PANTS L 500ML,34.06,clothing
+2023-01-06,LADYLGGN,25.06,clothing
+2022-03-04,ZRA DNM JNS,30.16,clothing
+2022-12-27,ZRA DNM JNS SM,14.72,clothing
+2022-10-23,WOMNS CREW S 2PK,39.42,clothing
+2022-12-23,MNS PANTS L,17.82,clothing
+2023-07-08,CHMPN HOODIE,6.01,clothing
+2023-03-10,DRY FIT LS,9.42,clothing
+2022-10-30,WRK BOOTS,29.3,clothing
+2022-11-11,GLVS TOUCH,24.51,clothing
+2022-04-08,MNS PANTS L,14.91,clothing
+2023-09-02,HOOD ZIP,37.4,clothing
+2023-01-10,MNS PANTS L,29.33,clothing
+2022-10-08,GYM BAG,22.82,clothing
+2023-01-06,DRY FIT LS 16OZ,40.29,clothing
+2023-04-14,TANK TOP,28.98,clothing
+2022-02-02,GYM BAG,25.8,clothing
+2023-09-26,JKT PUFFER BLK,6.2,clothing
+2022-05-15,zra dnm jns sm,18.79,clothing
+2022-02-03,GLVS TOUCH 2PK,26.34,clothing
+2022-08-20,HOOD ZIP,39.7,clothing
+2022-08-26,UNDWR 3PK,42.97,clothing
+2022-08-16,MNS PANTS L,15.82,clothing
+2022-04-29,KDSSNOWCAP,24.02,clothing
+2023-10-29,mns pants l,25.18,clothing
+2023-05-29,SHOE INSOLE,32.31,clothing
+2023-09-22,TRVL SOCKS,12.45,clothing
+2023-07-30,TANK TOP,35.59,clothing
+2023-05-07,KNITCAPSM,39.69,clothing
+2023-04-09,SHOE INSOLE,34.75,clothing
+2023-07-29,WOMNSCREWS,38.34,clothing
+2023-09-11,JKT PUFFER BLK,23.42,clothing
+2023-03-03,LADY LGGN,18.08,clothing
+2023-09-30,WOMNS CREW S,31.0,clothing
+2022-05-28,TANK TOP MD,21.56,clothing
+2023-03-03,UNDWR 3PK,36.98,clothing
+2022-01-09,CHMPN HOODIE,17.83,clothing
+2023-06-03,TANK TOP XL,40.77,clothing
+2022-05-30,HOOD ZIP,13.3,clothing
+2022-11-13,HOOD ZIP,8.12,clothing
+2022-03-21,GYM BAG,3.69,clothing
+2022-11-19,JKT PUFFER BLK MD,30.94,clothing
+2023-04-01,TRVL SOCKS MD,43.83,clothing
+2022-02-13,MNS PANTS L,35.75,clothing
+2022-12-25,UNDWR 3PK,18.02,clothing
+2023-01-10,hood zip,30.54,clothing
+2023-01-23,LADY LGGN,8.31,clothing
+2022-11-29,DRY FIT LS,10.02,clothing
+2022-10-04,JKT PUFFER BLK,17.9,clothing
+2023-10-23,TRVL SOCKS SM,31.9,clothing
+2023-05-01,kds snow cap,44.35,clothing
+2022-04-11,WOMNSCREWS500ML,16.3,clothing
+2022-09-12,glvs touch,30.96,clothing
+2023-03-04,TRVL SOCKS,24.04,clothing
+2023-04-13,DRY FIT LS,16.01,clothing
+2022-07-21,KNIT CAP 500ML,14.11,clothing
+2022-08-09,TANK TOP,39.93,clothing
+2022-01-22,WRK BOOTS,43.31,clothing
+2022-01-09,DRYFITLS,3.04,clothing
+2023-07-07,HOOD ZIP,31.15,clothing
+2022-10-22,CHMPN HOODIE,31.61,clothing
+2022-05-19,TANK TOP,3.44,clothing
+2022-06-05,DRY FIT LS,4.34,clothing
+2022-10-29,WOMNS CREW S 16OZ,40.47,clothing
+2023-10-21,JKT PUFFER BLK,17.76,clothing
+2022-02-05,ZRA DNM JNS XL,22.95,clothing
+2022-10-01,lady lggn,15.45,clothing
+2023-02-15,trvl pillow,25.64,home/appliances
+2023-08-09,CABLE POUCH MD,26.67,home/appliances
+2022-10-22,HEATER MINI,15.29,home/appliances
+2022-06-07,MOP REFILL 16OZ,25.2,home/appliances
+2023-04-03,MOP REFILL,32.24,home/appliances
+2022-01-18,FEBREZE ORIG,5.22,home/appliances
+2023-05-17,PAPER TOWELS 2PK,10.08,home/appliances
+2023-01-05,FAN TOWER,6.65,home/appliances
+2023-11-22,TOOLKIT MINI,41.36,home/appliances
+2023-06-27,FEBREZE ORIG XL,44.41,home/appliances
+2023-03-19,led bulb 500ml,11.08,home/appliances
+2023-06-22,TP 24 ROLL,15.61,home/appliances
+2022-08-14,TIDE PODS,43.22,home/appliances
+2023-01-15,FAN TOWER 16OZ,30.02,home/appliances
+2022-11-09,basket stor,44.18,home/appliances
+2022-09-09,FANTOWERMD,37.77,home/appliances
+2023-11-12,febreze orig md,29.6,home/appliances
+2022-09-20,TIDE PODS,32.18,home/appliances
+2022-04-18,IKEA SHELF,34.12,home/appliances
+2023-10-06,HEATER MINI,16.47,home/appliances
+2023-03-19,HEATER MINI,9.0,home/appliances
+2022-08-17,MOP REFILL,22.57,home/appliances
+2022-11-03,CABLE POUCH,35.25,home/appliances
+2023-09-11,AIR FRESHNR,2.59,home/appliances
+2022-11-27,TP 24 ROLL,0.72,home/appliances
+2022-12-14,TIDE PODS 16OZ,36.09,home/appliances
+2022-08-22,trvl pillow,38.45,home/appliances
+2023-05-21,TOOLKIT MINI 500ML,41.24,home/appliances
+2023-01-14,HEATER MINI,2.92,home/appliances
+2022-07-03,BASKET STOR,43.49,home/appliances
+2022-11-30,12 CT NITRIL,41.38,home/appliances
+2023-08-09,TIDE PODS,34.81,home/appliances
+2023-04-06,febreze orig,13.29,home/appliances
+2022-01-11,TRVL PILLOW 500ML,15.88,home/appliances
+2023-03-17,paper towels,3.06,home/appliances
+2022-04-28,BASKET STOR,33.46,home/appliances
+2022-02-16,MOP REFILL 2PK,16.52,home/appliances
+2023-06-11,cable pouch,29.96,home/appliances
+2023-01-26,tp 24 roll,11.15,home/appliances
+2023-09-15,TP 24 ROLL,40.08,home/appliances
+2022-07-07,DISH SOAP,39.58,home/appliances
+2023-07-01,PAPER TOWELS,24.64,home/appliances
+2023-06-05,toolkit mini,27.8,home/appliances
+2022-01-30,tide pods,17.9,home/appliances
+2023-08-22,DISHSOAP500ML,8.29,home/appliances
+2023-03-17,MOP REFILL,13.82,home/appliances
+2022-01-08,FEBREZE ORIG XL,28.57,home/appliances
+2022-03-12,BROOM SET,34.09,home/appliances
+2023-09-16,TRVL PILLOW,11.7,home/appliances
+2022-05-04,12 CT NITRIL,24.83,home/appliances
+2022-12-19,TRVL PILLOW 500ML,41.43,home/appliances
+2023-10-15,PLUG CORD 2M,29.17,home/appliances
+2022-04-28,MOP REFILL XL,35.88,home/appliances
+2023-04-20,TP 24 ROLL,27.06,home/appliances
+2023-01-14,LED BULB,31.57,home/appliances
+2023-06-11,RUGMAT500ML,9.73,home/appliances
+2022-03-19,TP 24 ROLL,3.2,home/appliances
+2023-08-14,PAPER TOWELS,36.46,home/appliances
+2023-06-24,PAPER TOWELS MD,39.15,home/appliances
+2023-08-20,LED BULB 500ML,40.74,home/appliances
+2023-07-10,TOOLKITMINI,26.22,home/appliances
+2023-08-23,BASKET STOR 2PK,41.48,home/appliances
+2023-05-25,HEATER MINI,14.9,home/appliances
+2023-07-25,HEATER MINI,16.51,home/appliances
+2023-05-31,FAN TOWER MD,32.51,home/appliances
+2022-08-26,trvl pillow,12.66,home/appliances
+2023-10-22,TOOLKITMINI,24.78,home/appliances
+2022-08-07,trvl pillow,42.89,home/appliances
+2022-02-18,TIDE PODS,36.3,home/appliances
+2022-11-29,TRVL PILLOW 500ML,3.33,home/appliances
+2023-08-28,MICROWV CVR,17.24,home/appliances
+2023-08-12,FEBREZE ORIG,36.26,home/appliances
+2022-09-02,PAPER TOWELS MD,42.09,home/appliances
+2022-04-24,RUG MAT MD,40.75,home/appliances
+2022-01-15,TIDE PODS,3.43,home/appliances
+2023-05-04,BROOM SET,17.4,home/appliances
+2023-11-23,MICROWV CVR MD,18.78,home/appliances
+2023-04-06,12 CT NITRIL,31.9,home/appliances
+2023-03-11,TP 24 ROLL,18.24,home/appliances
+2022-04-12,DISH SOAP MD,21.05,home/appliances
+2022-07-29,MOP REFILL,36.79,home/appliances
+2022-05-29,TOOLKIT MINI 500ML,2.16,home/appliances
+2022-12-25,12 CT NITRIL,21.47,home/appliances
+2022-11-19,TOOLKIT MINI,26.06,home/appliances
+2023-10-13,HEATER MINI,26.16,home/appliances
+2022-08-04,MICROWV CVR,31.69,home/appliances
+2022-04-06,FEBREZE ORIG,10.88,home/appliances
+2022-06-11,HEATER MINI,23.03,home/appliances
+2022-12-04,mop refill,10.82,home/appliances
+2022-01-19,TP24ROLLMD,31.5,home/appliances
+2022-03-07,TEQ SHOT 16OZ,29.49,alcohol/entertainment
+2022-06-01,MVIE TCKT MD,2.88,alcohol/entertainment
+2023-10-25,VID GAME DLC,1.0,alcohol/entertainment
+2022-07-19,ARCADE CRD,5.15,alcohol/entertainment
+2022-03-17,ESCAPE FEE,9.17,alcohol/entertainment
+2022-01-14,live band,44.22,alcohol/entertainment
+2022-01-23,pub night 16oz,6.49,alcohol/entertainment
+2023-06-15,WINE MERLOT,24.65,alcohol/entertainment
+2022-11-11,brew ipa,2.46,alcohol/entertainment
+2023-06-19,WINE MERLOT,41.76,alcohol/entertainment
+2022-04-01,GNRL ADMSN,39.95,alcohol/entertainment
+2023-07-16,MVIETCKT,20.89,alcohol/entertainment
+2023-01-03,arcadecrd,28.63,alcohol/entertainment
+2023-02-15,KTCHEN PRTY,31.95,alcohol/entertainment
+2022-08-18,MVIE TCKT XL,31.25,alcohol/entertainment
+2022-04-20,BREW IPA,6.25,alcohol/entertainment
+2023-08-07,BREW IPA,14.29,alcohol/entertainment
+2023-01-09,ESCAPE FEE,36.33,alcohol/entertainment
+2023-06-23,ARCADE CRD,18.6,alcohol/entertainment
+2023-09-07,PUB NIGHT,16.53,alcohol/entertainment
+2023-10-25,ARCADE CRD,34.22,alcohol/entertainment
+2022-01-26,BAR SNACK,24.11,alcohol/entertainment
+2023-07-28,club covr,40.43,alcohol/entertainment
+2022-09-18,BREW IPA,11.34,alcohol/entertainment
+2022-04-14,2FOR1 MVIE,33.3,alcohol/entertainment
+2022-07-11,BOWLNG NT,23.13,alcohol/entertainment
+2022-10-29,BOWLNG NT,40.44,alcohol/entertainment
+2023-05-16,BAR SNACK,38.58,alcohol/entertainment
+2022-11-19,ESCAPE FEE,30.27,alcohol/entertainment
+2022-02-06,THEATER POP,32.98,alcohol/entertainment
+2022-08-08,BOWLNG NT,1.41,alcohol/entertainment
+2022-08-28,2FOR1 MVIE,22.76,alcohol/entertainment
+2022-05-22,KTCHENPRTY,13.88,alcohol/entertainment
+2022-05-07,KTCHEN PRTY,7.65,alcohol/entertainment
+2022-03-14,ARCADE CRD XL,17.31,alcohol/entertainment
+2023-05-18,VID GAME DLC,23.75,alcohol/entertainment
+2023-04-27,CLUB COVR,44.95,alcohol/entertainment
+2022-02-06,MVIE TCKT 2PK,9.75,alcohol/entertainment
+2023-02-28,THEATER POP,30.08,alcohol/entertainment
+2022-06-19,ARCADE CRD 16OZ,20.89,alcohol/entertainment
+2022-09-13,bud 6pk,4.8,alcohol/entertainment
+2022-06-14,BOWLNGNT,8.16,alcohol/entertainment
+2023-10-08,TEQ SHOT,27.73,alcohol/entertainment
+2022-09-04,LIVE BAND,4.16,alcohol/entertainment
+2022-08-06,KTCHEN PRTY,10.67,alcohol/entertainment
+2023-05-25,WINE MERLOT 16OZ,6.98,alcohol/entertainment
+2023-11-05,BEER TALLCAN,42.71,alcohol/entertainment
+2022-10-26,CLUB COVR MD,32.4,alcohol/entertainment
+2022-01-29,GNRL ADMSN,15.86,alcohol/entertainment
+2022-08-18,KTCHEN PRTY,41.99,alcohol/entertainment
+2022-03-13,ARCADE CRD,17.43,alcohol/entertainment
+2022-07-30,GNRL ADMSN XL,3.14,alcohol/entertainment
+2022-12-04,ARCADE CRD XL,41.12,alcohol/entertainment
+2022-10-25,PUB NIGHT,29.94,alcohol/entertainment
+2022-11-20,KTV RM RENT,10.91,alcohol/entertainment
+2023-01-22,ARCADE CRD,35.85,alcohol/entertainment
+2023-11-14,ARCADE CRD,44.07,alcohol/entertainment
+2023-06-09,TEQ SHOT SM,34.2,alcohol/entertainment
+2023-06-01,KTV RM RENT,36.67,alcohol/entertainment
+2022-02-07,KTVRMRENT,20.59,alcohol/entertainment
+2022-03-02,EXTRA WARRANTY MD,23.93,other
+2022-05-21,EXTRA WARRANTY,30.13,other
+2023-01-26,Target Circle10%,39.89,other
+2022-09-25,PEN GEL 4PK 16OZ,30.0,other
+2023-04-04,MASK 10CT,27.19,other
+2023-03-28,MASK 10CT 500ML,33.67,other
+2023-04-22,PIN PKG,9.49,other
+2023-11-24,CHARITY ROUNDUP,34.84,other
+2022-06-28,pen gel 4pk,8.99,other
+2023-04-13,MASK 10CT,44.93,other
+2022-05-17,BATTERY AAA,22.8,other
+2022-07-07,SRCHRGMD,4.65,other
+2023-01-09,USB CBL,12.49,other
+2022-02-11,PHOTO PRINT,35.67,other
+2022-11-05,applecare 2pk,14.39,other
+2023-11-07,charity roundup,2.25,other
+2022-09-12,GIFT CARD $25,30.35,other
+2023-02-22,BATTERY AAA,22.71,other
+2023-10-26,usb cbl,31.61,other
+2023-03-24,DONATION SM,24.8,other
+2023-07-17,WALMART BAG SM,27.78,other
+2022-09-07,GIFT CARD $25,9.33,other
+2022-12-12,calendar 2024,5.68,other
+2022-07-14,APPLECARE,11.93,other
+2023-10-25,mask10ct,40.1,other
+2022-05-17,CALENDAR 2024,29.21,other
+2023-05-09,GIFT CARD $25,30.89,other
+2022-09-21,NOTEBOOK,30.95,other
+2023-01-10,BATTERY AAA MD,6.42,other
+2023-11-22,GIFTCARD$2516OZ,21.37,other
+2022-03-09,NOTEBOOK,4.15,other
+2022-06-06,GIFT CARD $25,42.4,other
+2022-08-02,gift card $25,17.03,other
+2022-03-02,APPLECARE,7.77,other
+2022-06-25,MASK 10CT,35.51,other
+2022-12-02,STKY NTS,28.35,other
+2023-05-25,ENGRAVED MUG 16OZ,0.67,other
+2022-03-27,PENGEL4PK16OZ,11.43,other
+2023-11-28,DONATION 500ML,6.42,other
+2023-01-07,GIFT CARD $25,36.23,other
+2023-08-21,ENGRAVED MUG,23.67,other
+2022-08-27,ENGRAVED MUG,6.16,other
+2023-02-05,SRCHRG,26.73,other
+2022-03-09,PHOTO PRINT,30.89,other
+2022-12-09,CHARITY ROUNDUP,6.35,other
+2023-06-23,PEN GEL 4PK,7.68,other
+2023-09-01,WALMART BAG,34.06,other
+2023-10-16,BATTERY AAA,12.26,other
+2022-05-01,APPLECARE,42.04,other
+2023-04-24,EXTRA WARRANTY,31.5,other
+2023-11-23,EXTRA WARRANTY,23.77,other
+2023-10-09,BATTERY AAA 500ML,10.65,other
+2022-02-27,BATTERY AAA,28.23,other
+2022-05-11,target circle10% 2pk,3.56,other
+2023-03-27,GIFT CARD $25,3.46,other
+2022-12-03,CHARITY ROUNDUP,39.16,other
+2022-04-16,BATTERY AAA,38.63,other
+2022-06-29,Target Circle10%,25.72,other
+2023-03-26,BAG CHRG,8.37,other
+2023-10-09,BATTERY AAA,1.41,other
+2022-08-31,PEN GEL 4PK,15.67,other
+2023-05-11,bag chrg,30.57,other
+2022-01-15,APPLECARE,18.97,other
+2022-03-15,ENGRAVED MUG,25.45,other
+2023-01-24,EXTRA WARRANTY XL,9.18,other
+2022-07-11,USB CBL 2PK,16.7,other
+2023-03-03,applecaresm,31.28,other
+2023-05-09,SRCHRG,19.13,other
+2022-07-26,CALENDAR 2024,10.09,other
+2022-06-17,amount 500ml,27.18,other
