@@ -1,0 +1,400 @@
+date,item,price,class
+Unknown,Peach,1.07,food
+Unknown,Cheese,Unknown,food
+Unknown,"Cheese ""Lion's Heart""",3.95,food
+Unknown,Liver,1.07,food
+Unknown,"Heart"".",1.07,food
+Unknown,Cucumber,Unknown,food
+Unknown,Cheese Lion's heart.,Unknown,food
+Unknown,Milk,Unknown,food
+Unknown,Chicken,2.19,food
+2018-12-25,SPORT SHOES,1990,clothing
+2023-02-05,Lorem ipsum dolor sit,30,other
+2023-12-12,Lorem wheat,1.5,food
+2023-12-12,Ipsum apple,3.75,food
+2023-12-12,Dolor banana,7.3,food
+2023-12-12,Sit meat,9.5,food
+2023-12-12,Amet candy,0.8,food
+2023-12-12,Consecteur coffe,1.2,food
+2018-07-29,ONIONS RED JUMBO,1.57,food
+2018-07-29,LETTUCE ROMAINE,0.88,food
+2018-07-29,MUSHROOMS,Unknown,food
+2018-07-29,Unknown,1.14,other
+2018-07-29,MUSHROOMS PORTABELLA,3.36,food
+2018-07-29,LONG GRAIN WHITE RIC,Unknown,food
+2018-07-29,ORGANIC GALA APPLES W,2.07,food
+2018-07-29,1 LB STRAWBERRY,2.97,food
+2018-07-29,REUSABLE BAG SAL,0.3,food
+2018-07-29,DARK CHOCOLATE PECAN,3.04,food
+2018-07-29,SILK COCONUT MILK UN,3.99,food
+2018-07-29,BARBARA'S JALAPENO C,3.19,food
+2018-07-29,EL PATO MEXICAN HOT,1.19,food
+2018-07-29,EMBASA CHIPOTLE PEPE W,2.49,food
+2018-07-29,SPROUTS HATCH CHILE,1.59,food
+2018-07-29,SIRLOIN TIP STEAK,6.69,food
+2018-07-29,BANANAS YELLOW,2.3,food
+,HP JET PRINTER,27327,home/appliances
+Unknown,SOY SAUCE 2L,11.49,food
+Unknown,TPD KIKK SOY SAUCE,2,food
+Unknown,PORK SPARE RIBS,30.12,food
+Unknown,TPD SPARE RIB,6,food
+Unknown,QUKES,9.99,food
+Unknown,DRAGON FRUIT 8 PK,34.99,food
+Unknown,HLTH ATTK CRPY FRT,12.99,food
+Unknown,POPCORNERS 24PK,20.99,food
+Unknown,GLICO POCKY DUO,12.99,food
+Unknown,DAWN DISH LIQ2.66L,15.99,home/appliances
+Unknown,TPD-DAWN PLAT 2.66,3,home/appliances
+Unknown,KS ORGANIC SEAWEED,14.99,food
+Unknown,KARA-AGE CHICKEN,28.99,food
+Unknown,CAULI BLOSSOM,6.99,food
+Unknown,PURPLE BROCCOLINI,7.99,food
+Unknown,DJ&A S/BERRY 100G,10.99,food
+2018-09-10,T-Shirt,Unknown,clothing
+2018-09-10,Pants,Unknown,clothing
+2018-09-10,Adobe,Unknown,other
+2011-11-06,BREAD,2.88,food
+2011-11-06,GV PNT BUTTR,3.84,food
+2011-11-06,GV PARM 160Z,4.98,food
+2011-11-06,GV CHNK CHKN,1.98,food
+2011-11-06,12 CT NITRIL,2.78,home/appliances
+2011-11-06,FOLGERS,10.48,food
+2011-11-06,SC TWIST UP,0.84,food
+2011-11-06,EGGS,1.88,food
+2022-11-07,BANANAS,Unknown,food
+2022-01-09,Air Jordan 1 RepReceipt High OG,150,clothing
+2001-12-18,Pack s/e 34*55 tempor #,Unknown,other
+Unknown,DITALINI,1.38,food
+Unknown,HAZL CREAMER,2.98,food
+Unknown,GV BTTR QTRS,3.24,food
+Unknown,POTATOES,1.64,food
+Unknown,SWT POTATOES,0.63,food
+Unknown,CILANTRO,Unknown,food
+Unknown,CHO YOGURT,1,food
+Unknown,VEG BASE BU,3.72,food
+Unknown,MS TORTILLA,3.18,food
+Unknown,TORTILLA,0.38,food
+Unknown,PARSLEY CURL,0.98,food
+Unknown,ZUCCHINI,1.15,food
+2017-04-10,Cappuccino,3.5,food
+2017-04-10,Apple Pie,3,food
+2017-04-10,Brownies,3.5,food
+2023-12-09,"ADI SAMBA OG (M) WHITE/, NO CO",3800,clothing
+2018-01-01,Lorem,6.5,other
+2018-01-01,Ipsum,7.5,other
+2018-01-01,Dolor Sit,48,other
+2018-01-01,Amet,9.3,other
+2018-01-01,Consectetur,11.9,other
+2018-01-01,Adipiscing Elit,1.2,other
+2018-01-01,Sed Do,0.4,other
+2020-07-27,PHILIPS,17,home/appliances
+2020-07-27,"Samsung 65""",499.99,home/appliances
+2020-07-27,SQUARETRADE,75,other
+2020-01-11,2 MILK,1.79,food
+2020-01-11,FREEZER BAGS,4.66,home/appliances
+2020-01-11,OF REPLENISH,14.98,other
+2020-01-11,HE SH SF HN,5.97,other
+2020-01-11,NTG UG CM CL,8.22,other
+2020-01-11,MAY MASCARA,6.78,home/appliances
+2020-01-11,KING SIZE,1.48,home/appliances
+2020-01-11,M MS HZLNT,2.98,food
+2020-01-11,CANDY,1.88,food
+2020-01-11,MUFFINS,2.48,food
+2020-01-11,OS STL CRUI,6.97,other
+2020-01-11,OS BDYWASH,4.97,home/appliances
+2020-01-11,QTIPS SWABS,5.88,home/appliances
+2020-01-11,CLG OW TP,7.96,other
+2020-01-11,TOOTHPASTE,4.83,home/appliances
+2020-01-11,SE FRESH 24,4.98,home/appliances
+2020-01-11,VIVA SIG 6D,9.98,home/appliances
+2020-01-11,RX -20 2IN1,2.97,home/appliances
+2019-07-12,Sd SINH,399000,other
+2016-05-12,Bottesa V.Bass (S),Unknown,food
+2016-05-12,Bottega V. Acc/SLGs,465,clothing
+Unknown,AQFNA WATER,1,food
+Unknown,Class A Common Stock,Unknown,food
+Unknown,Common Stock,Unknown,food
+Unknown,Tank Top,6.31,clothing
+2020-07-21,Canada Hyb Sutton Sn,850,clothing
+2020-07-21,DSQ Icon OTH Show,200,clothing
+2020-07-21,DSQ Tape Tee Sn00,165,clothing
+2020-07-21,Moschino U Tape Swt,124,clothing
+,365,409,other
+2019-02-02,CARGO MAT,19.98,home/appliances
+2019-02-02,MM CHICKEN,19.98,food
+2019-02-02,FIRE EXTING,29.98,home/appliances
+2019-02-02,SALMON PORT,25.98,food
+2019-02-02,IWI OMEGA- 3,19.88,home/appliances
+2019-02-02,ZIPLOC STOR,14.78,home/appliances
+2019-02-02,CLEANVIEW R,99.98,home/appliances
+2019-02-02,MM BLACK FL,19.98,other
+Unknown,CF01N24D-SS,249,home/appliances
+Unknown,WALLET,Unknown,clothing
+Unknown,Adult,1440,other
+Unknown,DOUBLE PLY,Unknown,home/appliances
+2022-05-08,WOMENS SMLG 578765V3963 - 8924 - NOSIZ,Unknown,clothing
+,K's sweat pants,149,clothing
+,K's sweatshirt,149,clothing
+,Shopping-bag,0.5,other
+Unknown,PU-SADNES BOK 3 PS3,Unknown,entertainment/alcohol
+Unknown,PU-BATMAN: AXHMS CITY PS3,Unknown,entertainment/alcohol
+Unknown,"PO-NEED FOR SPEED: THE, AUN PS3",32.79,entertainment/alcohol
+Unknown,PO-BATTLEFIELD 3 PS3,Unknown,entertainment/alcohol
+2019-01-01,Green,Unknown,other
+2019-01-01,Brown,Unknown,other
+2019-01-01,Honey,Unknown,food
+2019-01-01,Orange Juice,5,food
+2019-01-01,White Potato,24.25,food
+2019-01-01,Tomato,15,food
+2019-01-01,AYellow,Unknown,other
+2019-01-01,White Bread,9.25,food
+2019-01-01,Purple Tomato,24.25,food
+2019-01-01,Fish,Unknown,food
+2019-01-01,Sweet Cake,Unknown,food
+2019-01-01,Green Apples,5.3,food
+2019-01-01,Brown Bread,9.25,food
+Unknown,ONE PIECE 0/5=UT,Unknown,clothing
+Unknown,ONE PIECE W/DEUT,Unknown,clothing
+Unknown,ONE PIECE 0/DEUT,Unknown,clothing
+Unknown,ONE PIECE W/D=UT,Unknown,clothing
+2020-04-05,AD-SS SLIM STRP PATC,139,clothing
+2014-07-29,COM 3PC SET,9.44,home/appliances
+2014-07-29,COM 3PK BDS,7.24,home/appliances
+2014-07-29,COM BDS,7.24,home/appliances
+2014-07-29,DR SMITHS,7.97,home/appliances
+2014-07-29,COM 2PK HAIR,4.97,home/appliances
+2014-07-29,BABY WIPES,1.97,home/appliances
+2014-07-29,COM 4PK SOCK,4.97,clothing
+2014-07-29,1P OPU G 0/3,2,other
+2014-07-29,PAMPERS,24.94,home/appliances
+2014-07-29,B BRNMSANML,1.48,other
+2014-07-29,AW PATROL,6.97,entertainment/alcohol
+2015-05-11,02/00 ADI YEEZY BOOST BR,50,clothing
+2021-02-05,SS ELEVATE FLOATING VANIT,249,home/appliances
+2023-11-30,APPLE WATCH 42MM 55 BLACK SPORT-,Unknown,clothing
+2020-05-12,Vel tortor,155,other
+2020-05-12,Duk,4.7,clothing
+2020-05-12,Molls elt,23.65,other
+2020-05-12,Nanc len,14.4,other
+2020-05-12,Fringilla,3.9,other
+2020-05-12,Fasce,Unknown,clothing
+2018-08-31,MENS RTW 43936829687 - 1000 - 50,305,clothing
+2019-11-10,210 MENS SHOES 19/M7G 426188KQWMO - 1948 - M7G,-349,clothing
+2019-11-10,130 MENS SMLG 20/ /0 P 150402BMJIN - 2044 - NA,79,clothing
+2019-11-10,210 MENS SHOES 86/M7G 407362K6D20 - 8680 - M7G,279,clothing
+2018-07-29,ORGANIC GALA APPLES,2.07,food
+2018-07-29,1 LB STRAWBERRY W,2.97,food
+Unknown,Cioss im woter,Unknown,food
+Unknown,Moecenos fruits,1.55,food
+Unknown,Closs Im,4.7,other
+Unknown,Closs Im water,1.55,food
+Unknown,Muerenos fruits,1.55,food
+Unknown,Quis,814,other
+Unknown,Maecenas fruits,6.25,food
+Unknown,Vitae duls congue,0.89,other
+Unknown,Cursus,Unknown,other
+Unknown,Mois ellt,4.7,other
+Unknown,Nunc leo,8.14,other
+Unknown,Duls,Unknown,other
+Unknown,Vitae duis conque,8.14,other
+Unknown,Vitoe duls congue,23.65,other
+Unknown,Consectetur diam,2.25,other
+Unknown,Mollis elit,14.4,other
+Unknown,Mollis ellt,Unknown,other
+Unknown,Soplen 0. 25,5,other
+Unknown,Fringillo,3.9,other
+Unknown,Class Im water,Unknown,food
+Unknown,Class im woter,Unknown,food
+Unknown,Moecends fruits,Unknown,food
+Unknown,Muecenos,6.25,other
+2018-05-05,HASS AVOCADOS,2,food
+2018-05-05,LIMES,2,food
+2018-05-05,ROMA TOMATOES,0.48,food
+2023-10-27,UAWFLOWDYN/NOCOL/7/NODIM,7.995,other
+Unknown,ITEM 1,1,other
+Unknown,ITEM,1,other
+Unknown,3,1,other
+Unknown,ITEM 5,1,other
+Unknown,ITEM 9,1,other
+Unknown,ITEM 10,1,other
+Unknown,BADIA CINNAMN PWDR,Unknown,food
+Unknown,EXXON / MOBIL $50,2.19,transportation
+Unknown,$10 OFF GAS CARD,Unknown,transportation
+Unknown,CPN,-15,other
+Unknown,HOMMER & EN CUTHEE SENTIE,24.99,other
+Unknown,STIMMTE,Unknown,other
+Unknown,SP MODERN :W CLASSIC SHORT,66,clothing
+Unknown,MAFIA IN THE MORNING,,entertainment/alcohol
+Unknown,SORRY NOT SORRY,,entertainment/alcohol
+Unknown,KIDDING ME,,entertainment/alcohol
+Unknown,WILD WILD WEST,,entertainment/alcohol
+Unknown,SHOOT!,,entertainment/alcohol
+Unknown,TENNIS (0:0),,entertainment/alcohol
+Unknown,Suit Jacket,400,clothing
+Unknown,Suit Pants,199.5,clothing
+Unknown,Belt,45,clothing
+Unknown,Shorts,59.5,clothing
+2010-05-03,KRAFT PHILADELPHIA,4.9,food
+2010-05-03,MC SCANNED COUPON,0.55,other
+2023-11-11,CANADA GOOSE MONTEBELLO PARKA HERITAGE,1550,clothing
+Unknown,SUPER SOFT GRAPHIC T-SHI,7.98,clothing
+2020-10-09,GOGO SQUEEZ,7.49,entertainment/alcohol
+2020-10-09,NESTLE,5,food
+2020-10-09,CAMPBELLS,2.49,food
+2020-10-09,GG RTE RICE,1.59,food
+2020-10-09,QUAKER CHEWY,1.74,food
+2020-10-09,GG,1.79,other
+2020-10-09,OLD EL PASO,2.99,food
+2020-10-09,GG OIL,5.99,transportation
+2020-10-09,GG CONDIMENT,3.78,food
+2020-10-09,SPARKLNG ICE,0.95,food
+2020-10-09,Bottle Deposit Fee,0.05,other
+2020-10-09,SO DELICIOUS,1.52,food
+2020-10-09,Target,Unknown,other
+2020-10-09,PROGRESSO,1.59,food
+Unknown,Nike,899,clothing
+2022-03-07,2.5QTPERENNL <A>,5.98,home/appliances
+2022-03-07,K RAISED BD <A>,8.97,home/appliances
+2022-03-07,1CF BLK KOW <A>,11.94,other
+Unknown,Lorem ipsum,Unknown,other
+Unknown,Class aptent taciti,Unknown,other
+Unknown,Sed lacinia,0.64,other
+Unknown,Phasellus eu enim,9.99,other
+Unknown,Quisque,1.49,other
+Unknown,Phasellus magna,37,other
+Unknown,Phasellus,Unknown,other
+Unknown,Cras blandit,19,other
+Unknown,Morbi cursus mattis,9.85,other
+2019-06-05,807703629,400,other
+2016-04-20,CANADA GOOSE,Unknown,clothing
+2016-04-20,OVO TIMBER SHELL,675,clothing
+2016-04-20,BLACK,Unknown,other
+Unknown,AIR ZOOM PEGASUS 38 pr,170,clothing
+2018-09-10,Socks,4,clothing
+Unknown,GUCCI CN,340,clothing
+2017-10-20,SWEATERS,19.97,clothing
+2017-07-25,CHSYBACBREAD,2.31,food
+2017-07-25,CHSY BREADST,2.11,food
+2017-07-25,POTATO WEDGE,3.34,food
+2017-07-25,COOKIES,2.98,food
+2017-07-25,BBQ CHUNKS,6.76,food
+2017-07-25,COLE SLAW,2.17,food
+2017-07-25,DONUT HOLES,2.98,food
+2017-07-25,RUCK SACK,3.72,home/appliances
+2017-07-25,SINGLE ROLL,1.98,food
+2017-07-25,NOTEBOOK,1.97,home/appliances
+2025-01-17,Cushioned Low-Cut Socks 3 P ...,8.95,clothing
+2025-01-17,DELIVERY,3.99,transportation
+2020-02-05,Pendus,380,other
+2020-02-05,Aurous,130,other
+2020-02-05,Tombus,210,other
+2020-02-05,Libero,8755,other
+2020-02-05,Tempore,5412,other
+2020-02-05,Cumsoluta,Unknown,other
+2020-02-05,Nobis,6312,other
+2020-02-05,Esteligen,107,other
+2020-02-05,Diptio,612,other
+2020-02-05,Cumque,7885,other
+2020-02-05,Nihil,758,other
+2018-07-11,SANDALIA,Unknown,clothing
+2018-07-11,BAMBAS,14900,food
+Unknown,STANDARD,Unknown,other
+,2000,1799,other
+,ENCENS,399,home/appliances
+,F 2000,399,other
+Unknown,Line_ Discount,899,other
+Unknown,RL,34.99,clothing
+Unknown,HOILDAY POOPER ASS,1.99,entertainment/alcohol
+Unknown,YEEZY BOOST 350 V2 WHITE/CBLACK/REDBLACK/NOIESS/ROUGE,Unknown,clothing
+Unknown,Packaged T-shirt,5.9,clothing
+Unknown,GOYA LENTILS,2.19,food
+Unknown,GOYA BLACK BEANS,1.58,food
+Unknown,8PK/7.50Z CN COKE,3.34,food
+Unknown,4PK CN CITZ DRTY CID,13.99,other
+Unknown,BOTTLE DEPOSIT,0.4,other
+Unknown,ORG GRAPE TOMATOES,2.99,food
+2017-06-24,06/24 ADI YEEZY BOOST 350 V2,220,clothing
+,The belt,4980,clothing
+Unknown,HANDBAGS,Unknown,clothing
+2017-05-28,PNTNE PRO-V DMR CD,4.49,home/appliances
+2017-05-28,PNTNE D MST RN SH,4.49,home/appliances
+2017-05-28,CPH AD EX STGTH TP,5.99,home/appliances
+2017-05-28,JTB PTWL 128/SNG,1.77,home/appliances
+2017-05-28,MFR COUPON,5,other
+2017-05-28,CVS MFR COUPON,10,other
+2017-05-28,$2 OFF PAPER TOWEL,1.77,home/appliances
+2014-10-10,SILVER EARS,4.97,clothing
+2014-10-10,HSY SNACK SZ,2.5,food
+2014-10-10,MOUTHWASH,5.97,home/appliances
+2014-10-10,GLDFSH BULK,7.48,food
+2014-10-10,COV LSHBLST,6.94,home/appliances
+2014-10-10,PAPER TOWEL,5.47,home/appliances
+2016-11-23,BY9612/RED,220,clothing
+Unknown,TYRLS VINGR SEA,2.75,food
+Unknown,ČP CARRIER BAG,0.05,clothing
+Unknown,Cow,,food
+Unknown,12 1 /2 calf,408,food
+Unknown,Wide,330,clothing
+,MARIMEKKO T-SHIRT,1490,clothing
+,MARIMEKKO LINEN MIX SHIRT DRESS,4990,clothing
+2022-01-09,Shoes,150,clothing
+Unknown,WOMEN XL . 57 OLIVE . 182591,Unknown,clothing
+2022-02-25,160 SOFT ACCESS 10/L 4268874HB10 - 1060 - L,-415,clothing
+2022-02-25,Eyewear 691295J0740 - 1012 - U,450,clothing
+2006-04-07,START FLUID,1.42,transportation
+2006-04-07,POLISH RMVR,1.67,home/appliances
+2006-04-07,NAIL DRY,1.97,home/appliances
+2006-04-07,SPRAY BOTTLE,0.5,home/appliances
+2006-04-07,1PK LTR,0.97,home/appliances
+2006-04-07,91 ALCOHOL,1.94,entertainment/alcohol
+2017-01-02,LUGGAGE 449171KY9KN - 9886 - NOSIZ,Unknown,other
+Unknown,CUPS,699,home/appliances
+2019-11-02,Front and rear brake cables,100,transportation
+2019-11-02,New set of pedal arms,30,transportation
+2019-11-02,Labor 3hrs,15,other
+2022-06-11,Maultaschen Beilage,1190,food
+2022-06-11,Schnitzel Beilage,1450,food
+2022-06-11,Pommes Frites Bio-Qu,450,food
+Unknown,5,1,other
+2012-02-11,100 HANDBAGS 96/ /SUK,895,clothing
+,BORSE 499621KO5NG - 8745 - NOSIZ,98000,clothing
+2010-06-26,KRAFT DRESSING,1.49,food
+2010-06-26,KRAFT HSE ITALIAN,1.49,food
+2015-10-18,W15JKT Expedition,799,clothing
+2012-08-11,MENS SMLG,Unknown,clothing
+2012-08-11,UNISEX SMLG,Unknown,clothing
+2013-07-02,S 2100,5995,other
+Unknown,UP TOWEL,9.99,home/appliances
+2019-04-25,SPRAY PNT <A>,5.98,home/appliances
+2019-12-14,Nimbus Super Trainers,199.99,clothing
+2019-12-14,Nimbus Urban Assult,129.99,clothing
+Unknown,530 SUNGLASSES 24/ /GG 434093J0740 - 2470 -,79,clothing
+Unknown,120 WOMENS SMLG 9967/ /C 452362K6D1G - 9967,249,clothing
+Unknown,120 WOMENS SMLG 1000/ /0 510314CAOOG - 1000,499,clothing
+Unknown,150 WOMENS BELT 86/90B 4500000005 8659 -,199,clothing
+Unknown,200 WONENS SHOE 896 404015KO. 20 8960,Unknown,clothing
+Unknown,Cow.,,food
+Unknown,STEEL RANGES AND KITCHE Que L'/,,home/appliances
+2018-03-10,CG JKT HYBRIDGE,500,clothing
+Unknown,BANANA EACH,1.61,food
+Unknown,BAREBELLS CHOCOLATE DOUG,2.29,food
+Unknown,BAREBELLS CREAMY CRISP,2.29,food
+Unknown,BAREBELLS CARAMEL CASHEW,4.58,food
+Unknown,T SPINDRIFT ORANGE MANGO 8,7.49,food
+Unknown,T Bottle Deposit,0.4,other
+Unknown,MILK ORGANIC GALLON WHOL,6.79,food
+Unknown,CLASSIC GREEK SALAD,3.49,food
+Unknown,COBB SALAD,5.99,food
+Unknown,PEPPER BELL RED XL EACH,1.29,food
+Unknown,BAG FEE.,0.25,other
+2027-12-27,GU. G#03851,236,other
+2018-09-28,WIND-JACKET,49.99,clothing
+Unknown,AEO CREW SOCKS,4.99,clothing
+2018-07-04,SACS 498100DTDPT - 8975 - NOSIZ,1490,clothing
+2018-07-04,SACS 498100DTDPT - 8975 - NØSIZ,1490,clothing
+Unknown,LIGHTING STRIP PLU IT,Unknown,home/appliances
+Unknown,MESH HOODED SWTSRT M,Unknown,clothing
+Unknown,SPF3D 55ML SNSCRN,89.99,home/appliances
+2013-12-21,MIND BOGGLERS METAL PUZZLES,2.32,entertainment/alcohol
+2023-12-04,P-PIQUE SLIM TIPPING -INTL:613-BURGUNDY:X-LARGE,140,clothing
+2023-12-04,P-SS PIQUE NOVELTY TIPPING POLO - INTL:410-NAVY:,0,clothing
