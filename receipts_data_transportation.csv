@@ -1,0 +1,282 @@
+date,item,price,class
+2017-04-10,Cappuccino,3.5,food
+2017-04-10,Apple Pie,3,food
+2017-04-10,Brownies,3.5,food
+2025-04-19,Period,Unknown,other
+2019-11-08,SEAGRAMS,2.6,entertainment/alcohol
+2019-11-08,BNLS CHOPS,4.03,food
+2019-11-08,PLUG IN OIL,14.94,transportation
+2019-11-08,ITCH CREAM,4.97,home/appliances
+2019-11-08,OB FLOSS BAG,3.84,home/appliances
+2018-09-10,T-Shirt,21.9,clothing
+2018-09-10,Pants,35.99,clothing
+2018-09-10,Socks,4,clothing
+2023-12-12,Lorem wheat,1.5,food
+2023-12-12,Ipsum apple,3.75,food
+2023-12-12,Dolor banana,7.3,food
+2023-12-12,Sit meat,9.5,food
+2023-12-12,Amet candy,0.8,food
+2023-12-12,Consecteur coffe,1.2,food
+2023-02-28,Bigger Plate,Unknown,home/appliances
+2023-02-28,Unknown,Unknown,other
+2023-02-28,pack,Unknown,other
+2023-02-28,Sauce,Unknown,food
+2007-02-27,Australian Surfers,14.69,other
+2007-02-27,Paradise White Wine,Unknown,entertainment/alcohol
+2007-02-27,Chicken Risotto,8.81,food
+2007-02-27,Roast Lamb,8.81,food
+2018-09-10,Adobe,Unknown,other
+Unknown,Transportation Charges,140.87,transportation
+Unknown,Fuel Surcharge,41.68,transportation
+Unknown,Emergency Situation,1.6,transportation
+2018-01-01,Lorem,6.5,other
+2018-01-01,Ipsum,7.5,other
+2018-01-01,Dolor Sit,48,other
+2018-01-01,Amet,9.3,other
+2018-01-01,Consectetur,11.9,other
+2018-01-01,Adipiscing Elit,1.2,other
+2018-01-01,Sed Do,0.4,other
+2018-12-18,WINNIE-THE-POOH,14.99,entertainment/alcohol
+2018-12-18,FAIRY TIN,4,home/appliances
+2023-02-05,Lorem ipsum dolor sit,30,other
+2019-01-01,Green,Unknown,other
+2019-01-01,Brown,Unknown,other
+2019-01-01,Milk,15,food
+2019-01-01,Honey,Unknown,food
+2019-01-01,Orange Juice,5,food
+2019-01-01,White Potato,24.25,food
+2019-01-01,Tomato,15,food
+2019-01-01,AYellow,Unknown,other
+2019-01-01,White Bread,9.25,food
+2019-01-01,Purple Tomato,24.25,food
+2019-01-01,Fish,Unknown,food
+2019-01-01,Sweet Cake,Unknown,food
+2019-01-01,Green Apples,5.3,food
+2019-01-01,Candy,10.15,food
+2019-01-01,Brown Bread,9.25,food
+2014-08-25,Top up,Unknown,other
+2014-08-25,myki money,2,transportation
+2011-11-06,BREAD,2.88,food
+2011-11-06,GV PNT BUTTR,3.84,food
+2011-11-06,GV PARM 160Z,4.98,food
+2011-11-06,GV CHNK CHKN,1.98,food
+2011-11-06,12 CT NITRIL,2.78,home/appliances
+2011-11-06,FOLGERS,10.48,food
+2011-11-06,SC TWIST UP,0.84,food
+2011-11-06,EGGS,1.88,food
+Unknown,COTTON HOODIE,700,clothing
+2017-07-25,CHSYBACBREAD,2.31,food
+2017-07-25,CHSY BREADST,2.11,food
+2017-07-25,POTATO WEDGE,3.34,food
+2017-07-25,COOKIES,2.98,food
+2017-07-25,BBQ CHUNKS,6.76,food
+2017-07-25,COLE SLAW,2.17,food
+2017-07-25,DONUT HOLES,2.98,food
+2017-07-25,BANANAS,0.58,food
+2017-07-25,RUCK SACK,3.72,clothing
+2017-07-25,SINGLE ROLL,1.98,food
+2017-07-25,NOTEBOOK,1.97,home/appliances
+2001-12-18,Pack s/e 34*55 tempor #,Unknown,other
+2023-04-18,Ft Stockton (Stripes),Unknown,clothing
+2018-05-05,HASS AVOCADOS,2,food
+2018-05-05,LIMES,2,food
+2018-05-05,ROMA TOMATOES,0.48,food
+Unknown,APPLICATION FORMS,10461.25,other
+Unknown,CENER.,3.88,other
+Unknown,BOX:38355350,1.38,other
+2020-10-10,Class Im water,Unknown,food
+2020-10-10,Moecenos fruits,1.55,food
+2020-10-10,Cursus,Unknown,other
+2020-10-10,Vel tortor,Unknown,other
+2020-10-10,Quis,0.89,other
+2020-10-10,Vitoe duls congue,4.7,other
+2020-10-10,Molls ellt,14.4,other
+2020-10-10,Vitoe duis congue,Unknown,other
+2020-10-10,Nunc leo,Unknown,other
+2020-10-10,Fringilla,14.4,other
+2020-10-10,Mollis elit,Unknown,other
+2020-10-10,Consectetur diam,3.9,other
+2020-10-10,Soplen 0. 25,Unknown,other
+2020-10-10,Efficitur ml,2.25,other
+2020-10-10,Consectetur diom,Unknown,other
+2020-10-10,Fusce o sem,Unknown,other
+2020-10-10,Niş,1.9,other
+2020-10-10,Nis,7.99,other
+2020-10-10,Donec,Unknown,other
+2020-10-10,Proin onte,Unknown,other
+2020-10-10,Blondit,0.99,other
+2020-10-10,Eu conubia,4,other
+2020-10-10,Blondit 1.0,Unknown,other
+2020-10-10,Nullam,Unknown,other
+2020-10-10,Scelerisque ml,Unknown,other
+2020-10-10,Non sit amet,Unknown,other
+2020-10-10,Phoreto,Unknown,home/appliances
+2020-10-10,Porttitor,Unknown,other
+2020-10-10,Interdum orci,Unknown,other
+2020-10-10,Pellentesque,Unknown,other
+2020-10-10,Nunc,Unknown,other
+2020-10-10,Bibendum,Unknown,other
+2020-10-10,Semper vel tortor,Unknown,other
+2020-10-10,Accumson,0.25,other
+2020-10-10,Maximus eget,Unknown,other
+2020-10-10,Leo,Unknown,other
+2020-10-10,Nisi quis,Unknown,other
+2020-10-10,Conubia,Unknown,other
+2020-10-10,Class ligula,Unknown,other
+2020-10-10,Optent,0.99,other
+2020-10-10,Od litoro imperdiet,Unknown,other
+2020-10-10,Proin,6.99,other
+2020-10-10,Dictum,Unknown,other
+,HP JET PRINTER,27327,home/appliances
+2019-07-12,LG FLATSCREEN 65,899.99,home/appliances
+2019-07-12,SONY VIAO I7 6938,689.99,home/appliances
+2019-07-12,6FT HDMI CABLE BB,19.99,home/appliances
+2019-07-12,APPLE TV V4,Unknown,home/appliances
+Unknown,Arte Salad (carga),Unknown,food
+2019-09-19,gProtein Salad,9.99,food
+2019-09-19,legrino,2.49,food
+2019-09-19,Mrkt Plce Port,Unknown,entertainment/alcohol
+2019-09-19,Truffle MacN Chs,1.16,food
+2019-09-19,LEM Lemonade,13.41,food
+2024-05-01,Tarif taxi.,43.01,transportation
+2024-05-01,Pourboire,7.42,entertainment/alcohol
+2022-10-12,Melius,Unknown,other
+2022-10-12,Harum,Unknown,other
+2025-03-19,"Lyft fare (2.49mi, 12m Os)",Unknown,transportation
+2025-03-19,"Lyft fare (2.64mi, 20 0s)",9.75,transportation
+2018-07-29,CUCUMBER,1,food
+2018-07-29,ONIONS RED JUMBO,Unknown,food
+2018-07-29,LETTUCE ROMAINE,0.88,food
+2018-07-29,MUSHROOMS,Unknown,food
+2018-07-29,MUSHROOMS PORTABELLA,3.36,food
+2018-07-29,LONG GRAIN WHITE RIC,Unknown,food
+2018-07-29,ORGANIC GALA APPLES,2.07,food
+2018-07-29,1 LB STRAWBERRY W,2.97,food
+2018-07-29,REUSABLE BAG SAL,0.3,food
+2018-07-29,DARK CHOCOLATE PECAN,3.04,food
+2018-07-29,SILK COCONUT MILK UN,3.99,food
+2018-07-29,BARBARA'S JALAPENO C,3.19,food
+2018-07-29,EL PATO MEXICAN HOT,1.19,food
+2018-07-29,EMBASA CHIPOTLE PEPE W,2.49,food
+2018-07-29,SPROUTS HATCH CHILE,1.59,food
+2018-07-29,SIRLOIN TIP STEAK,6.69,food
+2018-07-29,BANANAS YELLOW,1,food
+2020-02-05,Pendus,380,other
+2020-02-05,Aurous,130,other
+2020-02-05,Tombus,210,other
+2020-02-05,Libero,8755,other
+2020-02-05,Tempore,5412,other
+2020-02-05,Cumsoluta,Unknown,other
+2020-02-05,Nobis,6312,other
+2020-02-05,Esteligen,107,other
+2020-02-05,Diptio,612,other
+2020-02-05,Cumque,7885,other
+2020-02-05,Nihil,758,other
+Unknown,Cow,,food
+Unknown,Cow.,,food
+Unknown,STEEL RANGES AND KITCHE Que L'/,,home/appliances
+2014-04-01,Charge,513.85,other
+2018-03-16,Handling:,Unknown,other
+2010-10-18,Iced Tea,2,food
+2010-10-18,Spinach Salad,10,food
+2010-10-18,Portobello Mushroom,2,food
+2001-12-18,Pack s/e 34*55 tempor,Unknown,other
+2023-05-03,Hand Luggage,Unknown,clothing
+2017-12-29,NCF,4.48,other
+2017-12-29,DRINKWARE,12,home/appliances
+Unknown,Cioss im woter,Unknown,food
+Unknown,Closs Im,4.7,other
+Unknown,Closs Im water,1.55,food
+Unknown,Muerenos fruits,1.55,food
+Unknown,Maecenas fruits,6.25,food
+Unknown,Vitae duls congue,0.89,other
+Unknown,Mois ellt,4.7,other
+Unknown,Duls,Unknown,other
+Unknown,Vitae duis conque,8.14,other
+Unknown,Mollis ellt,Unknown,other
+Unknown,Fringillo,3.9,other
+Unknown,Class im woter,Unknown,food
+Unknown,Moecends fruits,Unknown,food
+Unknown,Muecenos,6.25,other
+2022-01-04,CNDL 200Z HOLIDAY,Unknown,home/appliances
+2022-01-04,ST TREND STYLE PH,5.98,clothing
+2022-01-04,GA LINSEED REFINE,12.79,food
+Unknown,Trip Fare,6.93,transportation
+,Back Laced Dress,450,clothing
+2016-09-14,HNRY BPCR>PBB LEWHE ; OXB.,Unknown,other
+2016-09-14,HNRY BPCK PBB LEATHE;0XB,261.75,clothing
+2016-09-14,WHRN CTSR PEB BELT; BLK/D,51.75,clothing
+2013-12-12,VIP Adult,95,other
+2013-12-12,Adult,21.5,other
+Unknown,AQFNA WATER,1,food
+2018-12-18,3,Unknown,other
+,Hot Chocolate,160,food
+,Oreo Frappe,160,food
+,Chocolate Frapp160.00,160,food
+,Pineapple Juice,80,food
+,Mango Juice,95,food
+,Papaya Juice,90,food
+2021-02-11,Steak Taco,13.77,food
+2021-02-11,Shrimp Taco,7.98,food
+2021-02-11,Steak Burrito,23,food
+2022-04-26,Power XLAir fryer 6qts,9900,home/appliances
+2022-04-26,POWERFORCE BISSELL HELIX,5600,home/appliances
+2022-04-26,CUISINART 4-Slice Stainless Steel To##9 00,Unknown,home/appliances
+2021-10-02,CFA Biscuit,3.4,food
+2021-10-02,Hashbrowns,1.51,food
+2017-08-07,8.5 X 11 Copies,0.16,home/appliances
+2017-08-07,Mailing label,1,home/appliances
+2022-09-17,Vim animal,125,home/appliances
+2022-09-17,Inani oblique,100,other
+2022-09-17,Melius quaestio,78.5,other
+2013-04-23,LEG LTH PEN SHD PRSE; SV/,Unknown,clothing
+2019-11-04,Domestic/International,Unknown,transportation
+2019-11-04,Service Fee,Unknown,transportation
+2019-11-04,Optional Payment Charge,Unknown,other
+Unknown,cola,1.5,food
+Unknown,Grimbergen Blond,2.5,entertainment/alcohol
+Unknown,Fles cava,14,entertainment/alcohol
+Unknown,Vol-au-vent,14,food
+Unknown,Stoofvleed,42,food
+2015-10-18,W15JKT Expedition,799,clothing
+2015-05-20,OP CLIPPER CARD,75,other
+Unknown,Lorem ipsum,Unknown,other
+Unknown,Class aptent taciti,Unknown,other
+Unknown,Sed lacinia,0.64,other
+Unknown,Phasellus eu enim,9.99,other
+Unknown,Quisque,1.49,other
+Unknown,Phasellus magna,37,other
+Unknown,Phasellus,Unknown,other
+Unknown,Cras blandit,19,other
+Unknown,Morbi cursus mattis,9.85,other
+2018-01-02,Watches,299,clothing
+2020-01-11,2 MILK,1.79,food
+2020-01-11,FREEZER BAGS,4.66,home/appliances
+2020-01-11,OF REPLENISH,14.98,other
+2020-01-11,HE SH SF HN,5.97,other
+2020-01-11,NTG UG CM CL,8.22,other
+2020-01-11,MAY MASCARA,6.78,home/appliances
+2020-01-11,KING SIZE,1.48,home/appliances
+2020-01-11,M MS HZLNT,2.98,food
+2020-01-11,MUFFINS,2.48,food
+2020-01-11,OS STL CRUI,6.97,other
+2020-01-11,OS BDYWASH,4.97,home/appliances
+2020-01-11,QTIPS SWABS,5.88,home/appliances
+2020-01-11,CLG OW TP,7.96,home/appliances
+2020-01-11,TOOTHPASTE,4.83,home/appliances
+2020-01-11,SE FRESH 24,4.98,home/appliances
+2020-01-11,VIVA SIG 6D,9.98,home/appliances
+2020-01-11,RX -20 2IN1,2.97,home/appliances
+Unknown,LIGHTING STRIP PLU IT,Unknown,home/appliances
+Unknown,MESH HOODED SWTSRT M,Unknown,clothing
+Unknown,SPF3D 55ML SNSCRN,89.99,home/appliances
+2022-01-07,LOREM IPSUM DOLOR,Unknown,other
+2022-01-07,SIT AMET CONSECTETUER,Unknown,other
+,FRESH MILK,0.89,food
+,MJESLI,2.29,food
+,DARK CHOCOLATE,1.9,food
+2018-11-30,PBBL TURNLOCK EDIE CHINA2,395,home/appliances
+2021-11-18,Trip Charge,Unknown,transportation
+2021-11-18,Normal Fare,119.29,transportation
+2021-11-18,Surge x1.7,174.59,home/appliances
+2017-06-10,"Lyft fare (73mi, 110m 13s)",Unknown,transportation
