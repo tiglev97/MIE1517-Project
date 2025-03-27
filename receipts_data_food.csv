@@ -1,0 +1,2428 @@
+date,item,price,class
+Unknown,Large Eggs,6.17,food
+Unknown,Milk,1.8,food
+Unknown,Natural Yogurt,1.2,food
+Unknown,Cottage Cheese,1.64,food
+Unknown,Cherry Tomatoes 11b,3.82,food
+Unknown,Bananas 11b,0.68,food
+Unknown,Aubergine,2.15,food
+Unknown,Cheese Crackers,2.44,food
+Unknown,Chocolate Cookies,2.29,food
+Unknown,Canned Tuna 12pk,11.98,food
+Unknown,Chicken Breast,6.79,food
+Unknown,Toilet Paper,8.84,home/appliances
+Unknown,Baby Wipes,2.99,home/appliances
+2017-04-10,Cappuccino,3.5,food
+2017-04-10,Apple Pie,3,food
+2017-04-10,Brownies,3.5,food
+2023-02-20,Unknown,9.79,other
+2023-02-20,3PC Combo,Unknown,food
+2023-02-20,COKE LG 1130,75,food
+2022-07-01,BANANA ORGNU,30,food
+2022-07-01,CLEMENTINES,5.49,food
+2022-07-01,DRIS STRWBRY,2.88,food
+2022-07-01,KRO BREAD,1.59,food
+2022-07-01,THOMAS BAGELS,4.79,food
+2019-05-16,Tenders Combo,6.79,food
+2019-05-16,Md WldChyPep,Unknown,food
+2019-05-16,Side Only,3.99,food
+2011-11-06,BREAD,2.88,food
+2011-11-06,GV PNT BUTTR,3.84,food
+2011-11-06,GV PARM 160Z,4.98,food
+2011-11-06,GV CHNK CHKN,1.98,food
+2011-11-06,12 CT NITRIL,2.78,home/appliances
+2011-11-06,FOLGERS,10.48,food
+2011-11-06,SC TWIST UP,0.84,food
+2011-11-06,EGGS,1.88,food
+2019-09-19,gProtein Salad,9.99,food
+2019-09-19,legrino,2.49,food
+2019-09-19,Mrkt Plce Port,Unknown,entertainment/alcohol
+2019-09-19,Truffle MacN Chs,1.16,food
+2019-09-19,LEM Lemonade,13.41,food
+2016-03-06,UPUP HOUSEH,1.94,other
+2016-03-06,OREO COOKIE,5.98,food
+2016-03-06,NATVAL ENER,5.89,food
+2016-03-06,MOTTS FRTSN,1.5,food
+2016-03-06,Cartwheel MfrCpn,0.5,home/appliances
+2016-03-06,V8,4.19,food
+2016-03-06,OSCAR MAYER,2.5,food
+2016-03-06,NAKED,2.5,other
+2016-03-06,TOMATO,0.99,food
+2016-03-06,LETTUCE,1.49,food
+2016-03-06,KC MASTERPC,3.39,food
+2016-03-06,MARKET PANT,3.29,clothing
+2016-03-06,BC SDNLY SL,1.72,other
+2016-03-06,PEPPERIDGE,2.99,food
+2016-03-06,SMUCKERS,2.09,food
+2016-03-06,JENNIE-0,2.99,food
+2016-03-06,LEAN CUISIN,2.45,food
+2016-03-06,EVOL,5.59,other
+2016-03-06,BIRD SUBB H,4.09,food
+2016-03-06,MP EGGS,1.89,food
+2016-03-06,REDDI WIP,3.72,food
+2016-03-06,MP H AND H,1.41,food
+2016-03-06,CHOBANI,1,food
+2016-03-06,BREYERS,3.49,food
+2016-03-06,AQUAF 2PK,4.89,food
+2016-03-06,SONICARE,21.99,home/appliances
+2016-03-06,BISSELL,129.99,home/appliances
+2010-10-02,SMALL,4.29,other
+2010-10-02,22 OZ FOUNTAIN,1.59,food
+2016-12-12,BB,7.49,other
+2016-12-12,LTL FRY,2.89,food
+2017-10-29,BC,7.59,other
+2015-01-05,ME TANK TOP,5,clothing
+2015-01-05,ME TEE SHIR,7,clothing
+2015-01-05,MSC TANK TO,6,clothing
+2015-01-05,MB PULLOVER,9.98,clothing
+Unknown,KAGI,10.99,food
+Unknown,BRIOCHE,4.69,food
+2016-08-01,NFC 00 in Carafe,2.09,home/appliances
+2016-08-01,Lemons,3.49,food
+2016-08-01,Limes,1.29,food
+2016-08-01,Iodized Table Salt,0.45,food
+2016-08-01,Pure Maple Syrup,6.49,food
+2020-10-03,HYV LARGE EGGS,1.48,food
+2020-10-03,CHEEZ-IT SNAP'D DBL,3.28,food
+2020-10-03,GRIMES CHILI BEANS,1.29,food
+2020-10-03,HYV PRETZEL STICKS,2.5,food
+2020-10-03,MISSION CARB BAL SOF,1.25,food
+2020-10-03,STARKIST CHUNK LT TU,1.24,food
+2020-10-03,OEP FF REFRID BEANS,1.89,food
+2020-10-03,TOSTITOS CON QUESO,3.99,food
+2020-10-03,TRISCUIT REDUCED FAT,1.98,food
+2020-10-03,WELCHS 100% WHITE GR,4.99,food
+2020-10-03,NTRGNA MAKE UP WIPE,11.99,home/appliances
+2020-10-03,TYLENOL 8HR ARTHRITI,4.99,home/appliances
+2020-10-03,PELLEGRINO SPRKLNG,4.98,food
+2020-10-03,B EVANS MASHED POTAT,4.99,food
+2020-10-03,BF CHCK BNLS POT ROA,19.17,food
+2020-10-03,KRAFT FINE MEX 4 CHS,2.98,food
+2020-10-03,SMART CKN BNLS SKNLS,7.99,food
+2020-10-03,DOLE CELERY,1.49,food
+2018-04-25,MSC BALLET F,16.99,food
+2018-04-25,#NAME?,53.99,home/appliances
+2018-04-25,O SHEET SET,41.39,home/appliances
+Unknown,Ice,Unknown,food
+Unknown,Cucumber,0.15,food
+Unknown,Mint,2.25,food
+Unknown,Sugar,1.5,food
+Unknown,Melon,3.5,food
+Unknown,Cherry,1.4,food
+Unknown,Package,0.35,other
+2018-01-17,IPHONE X SPACE,1149,home/appliances
+2022-12-24,WINCO MULTIGRN,1.91,food
+2022-12-24,WNCO MLK WH GL,2.66,food
+2022-12-24,WINCO CTTGE CHS,7.08,food
+Unknown,Celebration Cheesecake,8.95,food
+Unknown,Chocolate Hazelnut Crunch,8.5,food
+Unknown,#1 Pepe,5.79,food
+Unknown,Med Fountain,1.79,food
+2022-01-04,CNDL 200Z HOLIDAY,6,food
+2022-01-04,ST TREND STYLE PH,5.98,clothing
+2022-01-04,GA LINSEED REFINE,12.79,food
+Unknown,ITEM 1,1,other
+Unknown,ITEM 2,1,other
+Unknown,ITEM 3,1,other
+Unknown,ITEM 4,1,other
+Unknown,ITEM 5,1,other
+Unknown,ITEM 6,1,other
+Unknown,ITEM 7,1,other
+Unknown,ITEM 8,1,other
+Unknown,ITEM 9,1,other
+Unknown,ITEM 10,1,other
+2018-05-05,HASS AVOCADOS,2,food
+2018-05-05,ROMA TOMATOES,0.48,food
+2013-06-15,31PC SHK KIT <A>,10.97,home/appliances
+2013-06-15,DYNAWHT5.5 <A>,3.98,home/appliances
+2013-06-15,5GL LID <A>,1.28,home/appliances
+2013-06-15,BT25/30PK <A>,6.99,home/appliances
+2013-06-15,1GPH MAN <A>,3.98,home/appliances
+2013-06-15,HOMER BUCKET <A>,2.6,home/appliances
+2013-06-15,RISER EXTNDR <A>,0.67,home/appliances
+Unknown,LUMBERJACK SLAM,10.89,home/appliances
+Unknown,LG JUICE,2.89,food
+Unknown,COFFEE,2.09,food
+Unknown,CFS & EGGS,10.89,food
+2023-12-04,OLIVGAR$50,,food
+2021-10-25,PW 10IN FRY,10.76,food
+2021-10-25,GV CRM CHKN,0.57,food
+2021-10-25,CRM MUSH 4PK,3.98,food
+2021-10-25,GRT VALUE,1.97,other
+2021-10-25,FIXODENT,11.98,home/appliances
+2021-10-25,HT SM UTILI,1.87,home/appliances
+2021-10-25,EQ LD 81MG,5.97,other
+2021-10-25,CETIR10MG14,4.36,other
+Unknown,BLOOMIN' ONION,9,food
+Unknown,OUTBACK SIRLOIN,16,food
+Unknown,OUTBACKER BURGER,10,food
+Unknown,CAESAR SALAD,5,food
+2024-02-21,Bacon Cheeseburger,11.79,food
+2024-02-21,Little Fry,5.19,food
+2024-02-21,Regular Soda,2.99,food
+2022-02-25,KIDS MEAL,3.89,food
+2022-02-25,Kids Cheeseburger,Unknown,food
+2022-02-25,Kids Toy,Unknown,entertainment/alcohol
+2022-02-25,10 Piece Nuggets,3.99,food
+2022-02-25,Medium Fries,4.58,food
+2022-02-25,MEDIUM COMBO,10.18,food
+2022-02-25,Jr Cheeseburger,0.99,food
+2016-11-07,SM BF&CHOR CLSC,6.99,food
+2021-10-29,GV CKD HAM,6.82,food
+2021-10-29,SMOKED BRATS,3.78,food
+2021-10-29,BNLS CK BRST,11.75,food
+2021-10-29,GVSHRFMOZ16,3.58,other
+2021-10-29,TP SNOWCH,8.5,home/appliances
+2021-10-29,RL CHOR BISC,4.98,food
+2021-10-29,THIN MULTI,5.18,food
+2021-10-29,GV WHOLE,3.24,food
+2021-10-29,GV HD BUNS,0.88,food
+2021-10-29,GV HAMB BUNS,0.88,food
+2021-10-29,BELL PEPPER,0.83,food
+2021-10-29,CHKN STUFFNG,1.98,food
+2021-10-29,SPEC K CINN,3.33,food
+2021-10-29,PREMIUM,2.88,other
+2021-10-29,MOM CEREAL,3.88,food
+2021-10-29,GREAT VALUE,2.84,other
+2021-10-29,DISINFECTANT,2.67,home/appliances
+2021-10-29,HEINZ GRAVY,1.98,food
+2021-10-29,GV CKN GRAV,0.86,food
+2021-10-29,COLA 12PK,3.14,food
+2021-10-29,DR THUNDER,3.14,food
+2013-10-14,TT-1P OR WING,5,food
+2020-02-21,ONE EGG & BAC,4.99,food
+2020-02-21,KID VEG PLATE,4.69,food
+2020-02-21,K PCAKE (1) MAPL,3.99,food
+2021-10-18,GV .5L WATER,4.38,food
+2021-10-18,CUIS BASKET,17.88,home/appliances
+2021-10-18,WOOD PELLETS,6.97,other
+2021-10-18,PAN SOBAO,1.98,food
+2021-10-18,FRENCH BREAD,1,food
+2021-10-18,SPREADS,2.42,food
+2021-10-18,SOUR CREAM,1.37,food
+2021-10-18,BROWNTE,1,food
+2021-10-18,CHOCOLATE S,0.5,food
+2021-10-18,BUFF WING SC,2.48,food
+2021-10-18,BWW PARMGRLC,3.18,food
+2021-10-18,GV MILD WIN,1.98,food
+2021-10-18,RANCHO RTD,8.98,food
+2021-10-18,SV SUPER B,7.88,home/appliances
+2021-10-18,YODA HAND S,2.96,home/appliances
+2021-10-18,FISHING LURE,2.23,entertainment/alcohol
+2021-10-18,JEGGING,12.88,clothing
+2017-01-02,ICED TEA UNSWEET,2.39,food
+2017-01-02,FF TROUT LEM GR,10.29,food
+2017-01-02,ICED TEA SWEET,2.39,food
+,Large Irn Bru,1.18,food
+,Gov Bag Charge,0.1,other
+2021-09-23,BOUNTY SAS,18.98,home/appliances
+2021-09-23,ICED BROWNIF,4.98,food
+2021-09-23,MM HALF HALF,4.98,food
+2021-09-23,NV WAFER F,10.46,food
+2021-09-23,KODIAKPWRCKF,11.88,food
+2021-09-23,AVOCADO,5.12,food
+2021-09-23,15 GRAIN,4.74,food
+2021-09-23,KODIAKPWRCK,3.5,food
+2012-01-26,N/P 100 WH WHT,2.48,food
+2012-01-26,F/E 50/50 MIX,1.78,food
+2012-01-26,C/P S C ON CHP,1.88,food
+2012-01-26,THOMAS MINI BAG,4.1,food
+2012-01-26,RESER FLOUR TO,1.68,food
+2012-01-26,HY-TOP 1% MILK,1.88,food
+2012-01-26,TWIX CARAMEL SN,0.68,food
+2012-01-26,TOBLERONE MILK,2.07,food
+2012-01-26,CANDY,0.68,food
+2012-01-26,SNICKERS PB SOR,0.68,food
+2012-01-26,"APPLES, RED DEL LG",1.82,food
+2012-01-26,BANANAS,Unknown,food
+2012-01-26,"CARROTS,PETITE",1.48,food
+2012-01-26,TAI-PEI OR/CHIX,3.98,food
+2012-01-26,HY-TOP CRM CHS,1.61,food
+2012-01-26,R/B STNE HEARTH,3.38,home/appliances
+2012-01-26,H/T ALUM FOIL,6.1,home/appliances
+2012-01-26,PPS CUBB CROUTN,2.48,food
+2023-05-08,Mommas French Toast,11.19,food
+2023-05-08,Bacon (2),3.09,food
+2007-08-19,SINGAPORE SLING,17.98,entertainment/alcohol
+2007-08-19,BLOOM,15.99,food
+2007-08-19,GR SHRIMP,16.99,food
+2007-08-19,FILET 8 OZ,48.99,food
+2007-08-19,KID CHEZ BURG,12.99,food
+2007-08-19,KID SUNDAE,9.98,food
+2007-08-19,BUD,11.98,entertainment/alcohol
+2021-02-05,SS ELEVATE FLOATING VANIT,249,home/appliances
+2017-05-06,BAJA RT.VEGF,7.98,food
+2017-05-06,DCFLOUNDER,11.88,food
+2017-05-06,TRIPLE BERRF,7.58,food
+2017-05-06,DEERPARK WTF,4.98,food
+2017-05-06,CHOC CHIPS,9.98,food
+2017-05-06,RESTBLKPEPPF,4.98,food
+2017-05-06,BAI VARIETYF,19.98,food
+2017-05-06,BROC FLORETI,5.98,food
+2017-05-06,TORTELLINI,8.98,food
+2017-05-06,B/S BREAST,14.02,food
+2017-05-06,DUBLINERIYHF,11.3,other
+2017-05-06,RTC B/S CKM:,11.98,other
+2017-05-06,LAMB,,food
+2017-05-06,GREEK YOGURT,4.98,food
+2017-05-06,HEINZ 2-4405,7.48,food
+2017-05-06,PORK LOIN,7.48,food
+2017-05-06,BAKING SODAF,6.98,home/appliances
+2017-05-06,NB FIG BAR F,7.88,food
+2023-11-30,APPLE WATCH 42MM 55 BLACK SPORT-,Unknown,home/appliances
+2023-11-30,USA,Unknown,other
+2023-10-10,BLUE HAWAIIN SIG,7.75,entertainment/alcohol
+2023-10-10,BONELESS,8.99,food
+2025-11-17,Whopper- Bacon & Cheese Meal,15.18,food
+2017-07-25,CHSYBACBREAD,2.31,food
+2017-07-25,CHSY BREADST,2.11,food
+2017-07-25,POTATO WEDGE,3.34,food
+2017-07-25,COOKIES,2.98,food
+2017-07-25,BBQ CHUNKS,6.76,food
+2017-07-25,COLE SLAW,2.17,food
+2017-07-25,DONUT HOLES,2.98,food
+2017-07-25,RUCK SACK,3.72,home/appliances
+2017-07-25,SINGLE ROLL,1.98,food
+2017-07-25,NOTEBOOK,1.97,home/appliances
+2006-11-16,LATTE-VENTI,2.49,food
+2006-11-16,"PANINI, TUNA MELT",3.85,food
+2017-12-24,Hamburger,2.3,food
+2017-12-24,Lg Soft Drink,1.8,food
+2023-12-12,Lorem wheat,1.5,food
+2023-12-12,Ipsum apple,3.75,food
+2023-12-12,Dolor banana,7.3,food
+2023-12-12,Sit meat,9.5,food
+2023-12-12,Amet candy,0.8,food
+2023-12-12,Consecteur coffe,1.2,food
+Unknown,3PC TENDER COMBO,8.29,food
+2011-11-28,MEIJER EGGS,3.58,food
+2011-11-28,CEREAL,3.29,food
+2011-11-28,MEIJER FF MILK,5,food
+2011-11-28,WELCHS JUICE,3,food
+2019-09-02,LEMON GROCERY CHOBANI,4.99,food
+2019-09-02,CANTALOUPE,Unknown,food
+2019-09-02,CHANNA MASALA,Unknown,food
+2019-09-02,DRAGON FRUIT,2.95,food
+2019-09-02,PALAK PANEER,2.29,food
+2019-09-02,POTATO SWEET EACH,2.99,food
+Unknown,DOUBLE LOBSTER TAILS,3999,food
+Unknown,TEMPURA,Unknown,food
+Unknown,CANADIAN SNOW CRAB LEGS,25.99,food
+Unknown,CRISPY THAI,13.99,food
+Unknown,NASHVILLE,Unknown,other
+Unknown,WALT'S FAVOURITE,16.49,food
+2019-07-12,LG FLATSCREEN 65,899.99,home/appliances
+2019-07-12,SONY VIAO I7 6938,689.99,home/appliances
+2019-07-12,6FT HDMI CABLE BB,19.99,home/appliances
+2019-07-12,APPLE TV V4,89.99,home/appliances
+2018-04-13,Colorado,10.49,other
+2018-04-13,NYDSZ Pan,1.79,home/appliances
+2018-04-13,810 Staak,10.49,food
+2018-04-13,REAL EDOS,0,food
+2017-12-09,KISSES,1,food
+2017-12-09,BUTTERFINGER,9,food
+2017-12-09,FOOD COLOR,2.99,food
+2017-12-09,UP UP,3.59,other
+2017-12-09,CONAIR HEADB,3.99,home/appliances
+2017-12-09,CONAIR CLIPS,4.79,home/appliances
+2017-12-09,CHAPSTICK 2,1.98,home/appliances
+2007-02-27,Australian Surfers,14.69,other
+2007-02-27,Paradise White Wine,Unknown,entertainment/alcohol
+2007-02-27,Chicken Risotto,8.81,food
+2007-02-27,Roast Lamb,8.81,food
+2014-07-29,COM 3PC SET,9.44,home/appliances
+2014-07-29,COM 3PK BDS,7.24,home/appliances
+2014-07-29,COM BDS,7.24,home/appliances
+2014-07-29,DR SMITHS,7.97,home/appliances
+2014-07-29,COM 2PK HAIR,4.97,home/appliances
+2014-07-29,COM 4PK SOCK,4.97,home/appliances
+2014-07-29,1P OPU G 0/3,2,other
+2014-07-29,PAMPERS,24.94,home/appliances
+2014-07-29,B BRNMSANML,1.48,other
+2014-07-29,AW PATROL,6.97,entertainment/alcohol
+2017-04-08,K GrlChz Sdw,4.29,food
+2017-04-08,Greek Quinoa,8.99,food
+2017-04-08,Gon Goddess Cobb Chx,9.49,food
+Unknown,Cheeseburger,9.66,food
+Unknown,Regular Fry,11.42,food
+Unknown,Muf - Fruit Explosion,2.29,food
+Unknown,Muf - Choc Chip,Unknown,food
+Unknown,Dnt - Sour Crm Glazd,1.34,food
+Unknown,Dnt - Choc Glazd,Unknown,food
+Unknown,Dnt - OF Glazed,1.34,food
+Unknown,Dnt - Boston Cream,Unknown,food
+Unknown,SM Original Blend,1.99,food
+Unknown,Tbit - Choc Glazd,0.33,food
+Unknown,Tbit - Sour Crm Glazd,0.33,food
+Unknown,Tbit - Honey Dip,0.33,food
+2021-08-19,Bluetooth Care,122.34,home/appliances
+2021-08-19,Dinning Table,422.99,home/appliances
+2021-08-19,Wine Bottle,9.99,entertainment/alcohol
+2021-08-19,Beer Case,19.9,entertainment/alcohol
+2015-02-08,SS AGED CHDR XSHRP,10.49,food
+2015-02-08,LUC SHRP CHDR,8.99,food
+2015-02-08,AVOCADOS,4,food
+2015-02-08,SFY FARMS MSHRM S+,1.89,food
+2015-02-08,BASKET J4U DISCOUNT,3,home/appliances
+Unknown,Organic Whole Milk,2.89,food
+Unknown,Brown Flax Seed,1.89,food
+Unknown,Organic Ketchup,1.59,food
+Unknown,Quick Bread Mix,1.47,food
+Unknown,Org Baby Spinach,1.89,food
+Unknown,Wheat Tortillas,1.25,food
+Unknown,Bananas LRW,0.93,food
+Unknown,Coconut Water,3.29,food
+Unknown,Organic Avocados,3.19,food
+Unknown,Organic Pears,3.79,food
+Unknown,Org Pink Lady,4.39,food
+Unknown,Play-Doh Pack,4.99,entertainment/alcohol
+Unknown,String Cheese,2.22,food
+Unknown,Strawberries,2.25,food
+Unknown,"16"" Pep Deli Pizza",3.79,food
+2018-07-29,ONIONS RED JUMBO,Unknown,food
+2018-07-29,LETTUCE ROMAINE,0.88,food
+2018-07-29,MUSHROOMS,Unknown,food
+2018-07-29,MUSHROOMS PORTABELLA,3.36,food
+2018-07-29,LONG GRAIN WHITE RIC,Unknown,food
+2018-07-29,ORGANIC GALA APPLES,2.07,food
+2018-07-29,1 LB STRAWBERRY W,2.97,food
+2018-07-29,REUSABLE BAG SAL,0.3,food
+2018-07-29,DARK CHOCOLATE PECAN,3.04,food
+2018-07-29,SILK COCONUT MILK UN,3.99,food
+2018-07-29,BARBARA'S JALAPENO C,3.19,food
+2018-07-29,EL PATO MEXICAN HOT,1.19,food
+2018-07-29,EMBASA CHIPOTLE PEPE W,2.49,food
+2018-07-29,SPROUTS HATCH CHILE,1.59,food
+2018-07-29,SIRLOIN TIP STEAK,6.69,food
+2018-07-29,BANANAS YELLOW,1,food
+2010-04-23,CM PROMOTION,0,other
+2010-04-23,CAPRI SUN,1.63,food
+2010-04-23,NBC FUDGE CREME,6.57,food
+2010-04-23,MAC N CHEESE,12.45,food
+2010-04-23,Vendor Coupon,-1,other
+2023-04-28,STRAW/KIWI LEM,3.49,food
+2023-04-28,ICE WATER,0,food
+2023-04-28,AU JACOB CR R SH,21.98,other
+2023-04-28,COKE,3.49,food
+2023-04-28,BRING BREAD,0,food
+2023-04-28,6 FILET,25.99,food
+2023-04-28,"ALICE, - loaded mash",21.49,food
+2023-04-28,OB BURGER,12.99,food
+2023-04-28,18 BONE RIBEYE,30.99,food
+2023-04-28,CROCK FO,3,food
+2023-04-28,NA BEV REFILL,0,food
+2023-04-28,THUNDER,10.49,food
+2023-04-28,TIM TAM CAKE,Unknown,food
+2022-03-17,TC 30LB 24/7,7.98,food
+2022-03-17,ONEBITESUPRM,5.86,food
+2022-03-17,ONEBITESMEAT,5.86,food
+2022-03-17,SSG VEG PIZZ,7.13,food
+2022-03-17,NAT PEP,6.48,food
+2022-03-17,CRN BF POINT,14.79,food
+2022-03-17,SIMPLY LEMON,4.18,food
+2022-03-17,CHEETOS,4.48,food
+2022-03-17,AVOCADO BAG,4.63,food
+2021-03-19,BA EDGE,18.98,home/appliances
+2021-03-19,STRAWBERRY,3.98,food
+2021-03-19,CREAMER,6.98,food
+2021-03-19,GREEN GRAPEF,7.98,food
+2021-03-19,HELLMANNS MF,6.98,food
+2021-03-19,STEAK STRIPF,9.98,food
+2021-03-19,MMBUFFALOCKF,6.98,food
+2021-03-19,KINDPOWERPKF,16.11,food
+2021-03-19,PKLD SAUSAGF,17.68,food
+2021-03-19,BRG PEPERONF,5.76,food
+2021-03-19,BRAD'S KALEF,4.98,food
+2021-03-19,HELLMANNS M,2,food
+Unknown,6PC HONEY BBQ-BEV,10.98,food
+Unknown,BAC/CHZ DBL,6.59,food
+Unknown,REG CHEESE CURDS,5.69,food
+Unknown,MD SHAKE,5.29,food
+Unknown,TORUNTO,Unknown,other
+Unknown,DOPPIO ESPRESSO,2.1,food
+Unknown,KF SNART CARB PITA,2.99,food
+Unknown,SWISSCHARD GREEN,1.75,food
+Unknown,PACIFIC FOODS BR,2.99,food
+Unknown,CARLNA L/G RICE,1.79,food
+Unknown,PARSLEY PLAIN,0.99,food
+Unknown,MURRYS CHICK LEGS,2.61,food
+Unknown,KEY CHICK PEAS,0.89,food
+2019-06-22,D.CRML SPHERE F - G,,food
+2019-06-22,SR 2ND GRANDE 5,-14.5,food
+2020-05-09,Asiatic Lily,6,home/appliances
+2020-05-09,BR:POISELiner26/22,4.29,home/appliances
+2020-05-09,ChsGranaFlaked125g,3.49,food
+2020-05-09,Butter Unsalt 250g,2.79,food
+2020-05-09,Butter Unsalt 500g,4.99,food
+2020-05-09,Capsicum Red /kg,4.04,food
+2020-05-09,Eggplant /kg,5.61,food
+2020-05-09,Zucchini 500g,3.49,food
+2020-05-09,Cast Alu Pot 24cm,22.99,home/appliances
+2020-05-09,*Cast Alum Roaster,19.99,home/appliances
+2019-12-01,WHOLE GRAINS,2.99,food
+2019-12-01,VEGETABLES,2.5,food
+2019-12-01,JAR PEANUT BUTTER,3.29,food
+2015-06-18,3PC ALC 0/R,3.79,other
+2019-04-26,NCM - $3.49 Any 6inch,3.49,food
+2012-09-08,CANDLE LIGHTER,3.99,home/appliances
+2012-09-08,CANDLES,3.99,home/appliances
+2012-09-08,ROSE BOUQUET,14.99,home/appliances
+2012-09-08,10 HANDTIED ROSES,19.99,home/appliances
+2012-09-08,TROJAN CONDOMS,2.83,home/appliances
+2012-09-08,TROJAN MINI,13.89,home/appliances
+2012-09-08,ASTROGLIDE,7.14,home/appliances
+Unknown,2 APPLE PIES,2,food
+Unknown,$10 TENDERS BOX,10,food
+2015-11-22,Sh Clovr Paradeisi,5.4,home/appliances
+2015-11-22,Cup Fund Donation,0.45,other
+2021-09-19,20oz. Sport Cap,3.99,clothing
+2021-09-19,12 pk Diet Cola,2.99,food
+2021-09-19,Parmesan Cheese,2.99,food
+2021-09-19,Light Sour Cream,0.99,food
+2021-09-19,Yellow Onions,1.49,food
+2021-09-19,Sweet Potatoes,2.49,food
+2021-09-19,FreshGround Turkey,2.99,food
+2021-09-19,Chicken Tenderloin,6.73,food
+2021-09-19,Mixed Nuts14.75 oz,4.99,food
+2021-09-19,Grape Tomatoes 1pt,1.89,food
+2021-09-19,Red Grapes,5.54,food
+2021-09-19,Baby Carrots,1.25,food
+2021-09-19,Asian Salad Kit,2.49,food
+2021-09-19,Sprd Cheese Wedges,1.29,food
+2021-09-19,Garden Salad,0.89,food
+2021-09-19,Garlic,0.85,food
+2021-09-19,SweetandSaltyBars,1.39,food
+2021-09-19,Turkey Meatballs,4.39,food
+2021-09-19,Swt Chili/Sriracha,4.99,food
+2021-09-19,Zucchini,1.69,food
+2021-09-19,Seedlss Watermelon,2.99,food
+2009-03-10,ALB GARBANZO BEANS,1.04,food
+2009-03-10,MC MASALA BLEND,4.89,food
+2009-03-10,PEP ANAHEIM,0.57,food
+2021-10-27,MOUTHWASH,5.58,home/appliances
+2021-10-27,BINDER,2.17,home/appliances
+Unknown,Store Coupon,25.46,other
+2020-07-22,RED FLAG,0,other
+2020-07-22,Bun,0.25,food
+2020-07-22,CFA Sauce,0,food
+2020-07-22,Frst Lmnde SM,3.69,food
+2020-07-22,CFA CARD,0,other
+2020-07-22,Mngo Pass Tea Lem LG,2.49,food
+2020-02-15,Spicy Chk Sand Combo,8.29,food
+2020-02-15,CLASSIC CHK SAND,3.99,food
+2020-02-15,SPICY CHK SAND,3.99,food
+2020-02-15,4 BtrMilk Bsc Shrmp,2.49,food
+2020-02-15,A La Carte,Unknown,food
+2020-02-15,4 BUTTERMILK BISC SHRIMP,Unknown,food
+2018-11-27,CEC Bagel,1.99,food
+2018-11-27,Dt Coke LG,2.35,food
+2018-11-27,Lmnde LG,Unknown,food
+Unknown,"12"" Veggie Delite Sub",7.59,food
+2016-12-14,Economy,63.05,transportation
+2016-12-14,SWEDEN - Zone 7,Unknown,transportation
+Unknown,Chicken Bowl,9.1,food
+Unknown,Chips,1.85,food
+Unknown,Lorem ipsum,Unknown,other
+Unknown,Consectetur,9.85,other
+Unknown,Class aptent taciti,Unknown,other
+Unknown,Sed lacinia,0.64,other
+Unknown,Phasellus eu enim,9.99,other
+Unknown,Quisque,1.49,other
+Unknown,Phasellus magna,37,other
+Unknown,Phasellus,Unknown,other
+Unknown,Cras blandit,19,other
+Unknown,Morbi cursus mattis,9.85,other
+2018-09-10,T-Shirt,Unknown,clothing
+2018-09-10,Pants,Unknown,clothing
+2018-09-10,Adobe,Unknown,other
+2012-05-19,23/32 BC PINE ULX EXTERIO,31.97,clothing
+2012-05-19,"15/32""X4X8 3 PLY SHTG 32/",52.41,clothing
+2012-05-19,"3/8""X4'X8' RATED SHEATHIN",14.17,clothing
+Unknown,TILITY BIN,7.99,home/appliances
+Unknown,A MED COLANDE,2.99,other
+Unknown,A TUMS EX 96C,4.59,home/appliances
+Unknown,A DULCOLAX,5.89,home/appliances
+Unknown,A TRSH CAN W,12.58,home/appliances
+Unknown,EGAR,8.79,other
+2020-09-20,WATER,0,food
+2020-09-20,WAT-,Unknown,food
+Unknown,1st Dose,Unknown,home/appliances
+Unknown,COVID-19,Unknown,home/appliances
+Unknown,Other,Unknown,other
+2023-01-07,Vt Icd Americano,3.95,food
+2023-01-07,Vt Carml Frapp,5.95,food
+2020-11-25,14pc Wicked Shrimp CB,6,food
+2020-11-25,TENDER SPICY,4.47,food
+2019-11-20,Tacos Del Mal Shrimp,14.98,food
+2019-11-20,Especial Salad Chicken,12.5,food
+2019-11-20,Fountain Beverage,1.99,food
+Unknown,MAHATMA JASM,5.48,food
+Unknown,SWEETARTS,1.48,food
+Unknown,BNLS BRST MD,9.52,food
+Unknown,NY STRIP THN,15.95,food
+Unknown,ONIONS,0.97,food
+Unknown,POTATOES,1.58,food
+Unknown,BROC CROWNS,1.91,food
+Unknown,GREEN ONIONS,0.78,food
+Unknown,SRIRACHA SCE,3.48,food
+Unknown,HOISIN SAUCE,3.67,food
+Unknown,GR PEPERCRN,1.86,food
+Unknown,WM SEA SALT,1.86,food
+Unknown,OYSTER SAUCE,2.57,food
+Unknown,ACOCADO OIL,10.98,food
+Unknown,SESAME OIL,2.98,food
+Unknown,SUSHI CHEF,2.98,food
+Unknown,SESAME SEED,2.96,food
+Unknown,EQ DUO PACK,4.97,food
+Unknown,SOY SAUCE,2.48,food
+Unknown,EGG BEST ORG,4.67,food
+2018-12-20,Bean Burrito,2.78,food
+2018-12-20,Cinnabon 2 Pack,Unknown,food
+2018-12-20,Lrg Drink,1.005,food
+2018-12-20,Nachos,1.59,food
+2013-05-18,VS Fantasies,Unknown,clothing
+2013-05-18,VSF_8.4ZBL_SNSLB,8,other
+2013-05-18,GN_8.4ZMST_MNGTM,6,other
+2013-05-18,BRC_VLLPGLSS_CP,4,home/appliances
+Unknown,SOY SAUCE 2L,11.49,food
+Unknown,TPD KIKK SOY SAUCE,2,food
+Unknown,PORK SPARE RIBS,30.12,food
+Unknown,TPD SPARE RIB,6,food
+Unknown,QUKES,9.99,food
+Unknown,DRAGON FRUIT 8 PK,34.99,food
+Unknown,HLTH ATTK CRPY FRT,12.99,food
+Unknown,POPCORNERS 24PK,20.99,food
+Unknown,GLICO POCKY DUO,12.99,food
+Unknown,DAWN DISH LIQ2.66L,15.99,home/appliances
+Unknown,TPD-DAWN PLAT 2.66,3,home/appliances
+Unknown,KS ORGANIC SEAWEED,14.99,food
+Unknown,KARA-AGE CHICKEN,28.99,food
+Unknown,CAULI BLOSSOM,6.99,food
+Unknown,PURPLE BROCCOLINI,7.99,food
+Unknown,DJ&A S/BERRY 100G,10.99,food
+2019-04-27,DNZN CARGO S,24.99,clothing
+2019-04-27,DUNKINDONUTS,18.98,food
+2019-04-27,MP 2 PC MILK,4.78,food
+2023-02-01,>Chick-fil-a Chicken Sandwic,8.09,food
+2023-02-01,Chick-fil-a Nuggets,Unknown,food
+2023-02-01,Meal-CFASan,7.99,food
+2023-02-01,Nugget 12ct,0,food
+Unknown,PERR LMN SPRKLNG W,23,food
+Unknown,SP SPK MN WTR33.8Z,23,food
+2011-11-28,MEIJER SALT,0.49,food
+2011-11-28,CHILI POWDER,0.69,food
+2011-11-28,KA WHTE W WHT F,3.99,other
+2011-11-28,MEIJER CONT FF,1.07,other
+2011-11-28,HRSY RSS CH CHP,2,food
+2014-01-10,Sh Wht Mocha,3.25,food
+2022-06-22,FLAMETHROWER SGL,6.19,home/appliances
+2022-06-22,flame sauce on side,0,food
+2022-06-22,REG FRY,3.19,food
+2022-06-22,FLAMETHROWER DBL,6.99,home/appliances
+2022-06-22,REG ONION RINGS,3.79,food
+2023-09-03,FUN 5 PERSONAL 5,7.25,other
+2023-09-03,PLASTIC BAG,0.2,home/appliances
+Unknown,Texas BBQ®,20.99,food
+Unknown,GATORADE FRUIT PUNCH,1.78,food
+2006-04-07,START FLUID,1.42,transportation
+2006-04-07,POLISH RMVR,1.67,home/appliances
+2006-04-07,NAIL DRY,1.97,home/appliances
+2006-04-07,SPRAY BOTTLE,0.5,home/appliances
+2006-04-07,1PK LTR,0.97,other
+2006-04-07,91 ALCOHOL,1.94,entertainment/alcohol
+Unknown,RENEGADE SIRLOIN',Unknown,food
+Unknown,FLAT IRON STEAK*,Unknown,food
+Unknown,RIBEYE-,Unknown,food
+Unknown,NEW YORK STRIP,Unknown,food
+Unknown,"""FLO'S",Unknown,food
+Unknown,PRIME RIB*,Unknown,food
+2013-10-07,NTRGRN32VARF,8.78,food
+2013-10-07,NUTELA35.30F,6.65,food
+2013-10-07,EGGOWAFFLESF,9.98,food
+2013-10-07,ALMOND MILKF,7.98,food
+2013-10-07,ZOOANIMALCRF,7.98,food
+2013-10-07,OLIVE OIL 2F,13.48,food
+2013-10-07,CH 16CT HAMF,2.56,food
+2013-10-07,B/S CKI BRSF,17.58,food
+2013-10-07,GRND TURKEYF,12.95,food
+2013-10-07,BIGSEXY 100,11.98,home/appliances
+2013-10-07,DP 32 PACK F,7.98,home/appliances
+Unknown,ITEM,1,other
+Unknown,3,1,other
+2018-05-08,Organic Brown Eggs,3.49,food
+2018-05-08,Mini Bagged Donuts,1.69,food
+2018-05-08,Cabbage,1.19,food
+2018-05-08,101b Russet Potato,3.69,food
+2018-05-08,Deli Sliced Cheese,1.79,food
+2018-05-08,Organic Spring Mix,3.79,food
+2018-05-08,Hot Dog Buns,0.85,food
+2023-05-19,SmokeShack Single,11.8,food
+2023-05-19,Fries,4.8,food
+2023-05-19,Chicken Bites 6 Count - BBQ Sauce,6.7,food
+2011-11-22,FROZEN ONIONS,1.98,food
+2011-11-22,MEIJER KETCHUP,1.59,food
+2011-11-22,ICE CREAM,599,food
+2011-11-22,TORTILLA CHP,2.99,food
+2011-11-22,COCACOLA,550,food
+2011-11-22,DEPOSIT,4.8,other
+Unknown,WINDSHIELD STICKER,Unknown,home/appliances
+Unknown,CHILD SAFETY FUND,50.75,other
+Unknown,A 4 QUARTER-POUND CHEESEBURGERS,19.99,food
+Unknown,CHICKEN CRITTERS' (16,19.99,food
+Unknown,GRILLED CHICKEN,22.99,food
+Unknown,PULLED PORK (2 LBS.),24.99,food
+Unknown,SIRLOIN STEAKS,34.99,food
+Unknown,"BEEF TIPS (2 LBS ., COOKED MEDIUM)",39.99,food
+Unknown,RIBS (THREE HALF SLABS),39.99,food
+Unknown,"RIBEYES (THREE - 12 OZ. CUTS, COOKED MEDIUM).",44.99,food
+2015-06-18,3PC ALC O/R,3.79,entertainment/alcohol
+2017-04-07,Chocolate Chip Cooki,5,food
+2017-04-07,Lava Cake,4,food
+2008-10-20,BANANA EC,1.54,food
+2008-10-20,HAIRCOLOR,7.94,home/appliances
+2008-10-20,JACKASS NUM,4,other
+2008-10-20,DONUTS,3.5,food
+2021-01-12,Name of produe!,15,other
+2021-01-12,Name of product,15,other
+2021-01-12,Name of produc!,Unknown,other
+2021-01-12,25 SETS/PACK,Unknown,other
+2021-01-12,Nome of product,Unknown,other
+Unknown,CAPRI CHERRY 10PK,Unknown,food
+Unknown,BARILLA GRLC ALFRD,1.37,food
+Unknown,EX CAPRI CHERRY 10PK,2.89,food
+Unknown,$5 SUSHI WEDNESDAY,Unknown,food
+Unknown,KG/ADE GLACIER CHER,13.98,food
+2013-03-23,Chicken & Gnocchi,7.75,food
+2013-03-23,Kids Chicken Fingers,-6.95,food
+2013-03-23,Salad,Unknown,food
+,FRESH MILK,0.89,food
+,MJESLI,2.29,food
+,DARK CHOCOLATE,1.9,food
+2019-07-23,ChixHan Wrap Drink,4.25,food
+2019-07-23,Chrixtaf w Egg Meal,5.4,food
+2019-07-23,Small Ided Milo,0.8,food
+2019-07-23,Chixkam Mrap-Drink,4.25,food
+2019-07-23,Tea with Milk,5.4,food
+2019-07-23,Small Iced Milo,0.8,food
+2019-06-13,SM Calamari,11.98,food
+2019-06-13,Lobster Roll,25,food
+2019-06-13,Kale Salad - Shrimp,18,food
+2019-06-13,Snapper Entree,28,food
+2022-02-27,COMBO,8.79,food
+2022-02-27,L-0100-OFF COMBO 8-,-1,food
+Unknown,FLOUR 12 LBan,18.79,food
+Unknown,KS BATH,12.49,home/appliances
+Unknown,KS ORG A2 PR,14.49,food
+Unknown,KS CHEWY PRO,18.49,food
+Unknown,BEER BAT COD,14.99,food
+Unknown,KS BACON,7.99,food
+Unknown,BAGELS,11.99,food
+Unknown,SMKD TURKEY,4.19,food
+Unknown,CAGE FREE,249.99,food
+Unknown,MANTLE CLOCK,44.89,home/appliances
+Unknown,BULLEIT 7 YR,Unknown,entertainment/alcohol
+Unknown,KS MALBEC,6.99,entertainment/alcohol
+Unknown,PURE VANILLA,11.99,food
+Unknown,MF QN SHEETS,15.99,home/appliances
+Unknown,KS DISH PACS,10.79,home/appliances
+2015-04-01,W AM Z RISER E E,5.6,home/appliances
+2018-01-01,Lorem,6.5,other
+2018-01-01,Ipsum,7.5,other
+2018-01-01,Dolor Sit,48,other
+2018-01-01,Amet,9.3,other
+2018-01-01,Adipiscing Elit,1.2,other
+2018-01-01,Sed Do,0.4,other
+2015-01-05,small Boneless,10.49,food
+2015-01-05,Veggie Boat,1.99,food
+2015-01-05,BASKET FRIES,7.98,food
+2015-01-05,KID DOG,4.49,food
+2015-01-05,KID TENDERS,4.79,food
+2015-01-05,SIDE MACARONI,6.58,food
+2015-01-05,Snack Boneless,16.58,food
+2015-01-05,MED BAR SOFT BEV,1.99,food
+2019-08-14,Donut,1.19,food
+2019-08-14,Ht Cof SM OrigBind,1.79,food
+Unknown,Hot Dog,7.09,food
+Unknown,Little Cheeseburger,8.69,food
+,TAGLIATELLE 500G,0.69,food
+,PINE/PUMPKIN SEEDS,1.45,food
+,CREME FRAICHE 200G,0.89,food
+,SPINACH BABY,0.49,food
+,MUSHROOM 433G,1.39,food
+2022-09-24,202 Corn Dog,401.98,food
+2022-09-24,Tender,0,food
+2018-05-24,TH - ICED COFFEE,2.24,food
+2018-05-24,TH - DONUT,0.99,food
+2022-05-02,Beef Crunchy Taco,3.78,food
+2022-05-02,NO Sauce Packet,0,food
+2009-01-26,TAMPONS,Unknown,home/appliances
+2009-01-26,LIP COLOR,7.97,home/appliances
+2009-01-26,GUM,1.99,food
+2009-01-26,FLOSS,3.69,home/appliances
+2009-01-26,SHRED CHEESE,1.89,food
+2009-01-26,SNK CRACKER,2,food
+2009-01-26,MIR WIP LIGH,2.5,food
+2009-01-26,GRIN SCAMPI,Unknown,food
+2009-01-26,EXTRA COUPON,Unknown,other
+Unknown,Shack Stack,Unknown,food
+Unknown,Avocado Bacon Chicken,Unknown,food
+Unknown,Chicken Bites,Unknown,food
+Unknown,CRINKLE,Unknown,food
+2023-10-26,"12"" #23 PepSal2xChz Sub",9.99,food
+2017-04-30,voilog r.mutes,11.98,other
+2017-04-30,EASTER CANDY,0.9,food
+Unknown,'AAA' 32 PK,15.99,home/appliances
+Unknown,"40PK ""AA""",15.99,home/appliances
+Unknown,CKN BRST MT,11.99,food
+Unknown,ORGANIC CEL,3.49,food
+Unknown,DURACELLD/14,15.99,home/appliances
+Unknown,ROMAINE,3.99,food
+Unknown,KS SLCD HAM,8.93,food
+Unknown,KS RST TRKEY,11.92,food
+Unknown,CUCUMBERS,3.29,food
+Unknown,TNB PEP,8.99,food
+Unknown,JARLBG WEDGE,12.18,food
+Unknown,MIXED PEPPER,5.99,food
+Unknown,BEEF RIB EYE,44.46,food
+Unknown,KS CF EGGS,3.69,food
+2020-04-28,SthPnt Mosct 750ml,4.99,entertainment/alcohol
+2022-11-01,SNACK BOX,5,food
+Unknown,L CLASS Simply cheese,8.74,food
+Unknown,L CLASS Chicken Suprem,8.74,food
+Unknown,BRD Cheesy GB,8.74,food
+Unknown,Ea Chocolate Mousse,8.74,food
+Unknown,Desserts,Unknown,food
+2023-10-24,GP Cavit Pinot Grigio,12.75,entertainment/alcohol
+2023-10-24,Soup & Salad,12.49,food
+2023-10-24,Minestrone,Unknown,food
+2019-03-29,OSTEO BIFLE,28.47,home/appliances
+2019-03-29,MM POTASSIU,5.98,home/appliances
+2019-03-29,MM'S JEANS,12.98,clothing
+2019-03-29,PYREX 20PC,14.81,home/appliances
+2019-03-29,MM B/S BRSTF,10.49,clothing
+2019-03-29,GROUND BEEFF,21.47,food
+2019-03-29,RBK8PKQTRSO,9.98,other
+2019-03-29,3RBK PERF B,12.98,home/appliances
+2019-03-29,BEEF ROUNDSF,24.67,food
+2019-03-29,BILA TOP,16.44,clothing
+2019-03-29,SALSA,6.98,food
+2019-03-29,FROSTEDFLAKF,6.98,food
+2019-03-29,CHERRY TRNVF,4.98,food
+2019-03-29,40CTMAPLEOAF,7.98,food
+2019-01-01,Green,Unknown,other
+2019-01-01,Brown,Unknown,other
+2019-01-01,Honey,Unknown,food
+2019-01-01,Orange Juice,5,food
+2019-01-01,White Potato,24.25,food
+2019-01-01,AYellow,Unknown,other
+2019-01-01,White Bread,9.25,food
+2019-01-01,Purple Tomato,24.25,food
+2019-01-01,Fish,Unknown,food
+2019-01-01,Sweet Cake,Unknown,food
+2019-01-01,Green Apples,5.3,food
+2019-01-01,Brown Bread,9.25,food
+2007-12-24,ALL THE PRETTY H,14.95,entertainment/alcohol
+2009-07-17,ROSEMARY SOURDGH,3.99,food
+2009-07-17,TORTILLA FLOUR 10C,1.99,food
+2009-07-17,KETA SLMN PORTIONS,2.73,food
+2009-07-17,VENDOR,-0.5,other
+2009-07-17,SPCD SWT POTA CHIP,3.69,food
+2009-07-17,ONN GRL YKN GLD CH,3.19,food
+2009-07-17,CER OG PR CIN HVST,3.99,food
+2009-07-17,365 PASTA ELBOWS,1.39,food
+2009-07-17,CHOC SANDWCH CREME,3.49,food
+2009-07-17,CHOC CHIP GRANOLA,3.99,food
+2009-07-17,PLAIN CRM ON TOP,2.99,food
+2009-07-17,SALTED TOTOPOS CHP,Unknown,food
+2009-07-17,LIMEADE,1.5,food
+2009-07-17,SIN YG ORG LF RASP,-0.99,food
+2009-07-17,CRMY PEANUT BTTR,2.39,food
+2009-07-17,ORGANIC UHT WHOLE,3.99,food
+2009-07-17,STN OG WHITE CHOC,0.99,food
+2009-07-17,SIN YGT ORG LF LMN,0.98,food
+2009-07-17,SOY SILK VANILLA,3.49,food
+2009-07-17,MEDIUM BROWN EGGS,3.99,food
+2009-07-17,FLOUR ALL PURPOSE,2.99,food
+2009-07-17,365 PECANS CINNMN,4.99,food
+2009-07-17,SOY SILK CHOCOLATE,3.29,food
+2009-07-17,GOLD RIM ICE CRM,5.99,food
+2009-07-17,WSR BLK FRST HAM,4.49,food
+2009-07-17,HNY MAPLE TURKEY,4.99,food
+2009-07-17,N365 HSMKD BACON,4.99,food
+2009-07-17,CHKN BRST CUTLET,4.71,food
+2009-07-17,CHAN BRST OUTLET,4.95,food
+2009-07-17,CHIN BRST CUTLET,4.71,food
+2009-07-17,PRK SRLN THIN PPK,6.92,food
+2009-07-17,CHEDDAR,4.33,food
+2009-07-17,DOMESTIC MUENSTER,3.98,food
+2020-02-02,MMKS BATH,16.99,home/appliances
+2020-02-02,WMKS TOWELMM,16.99,home/appliances
+2020-02-02,KLXTRUS CARE,19.49,home/appliances
+2020-02-02,"40PK AA""",16.99,home/appliances
+2020-02-02,QUINOA SALAD,9.87,food
+2020-02-02,ROM JUICE,9.59,food
+2020-02-02,CAPE COD RF,6.29,food
+2020-02-02,DAVE'S 21 WG,7.99,food
+2020-02-02,SIMMER SAUCE,13.69,food
+,McDouble,Unknown,food
+,2,1.75,other
+,Hot&Spicy McChicken,1.75,food
+,L Sprite,1,food
+2023-03-11,Classic Chk Sand Combo,8.99,food
+2019-11-08,MAI THAA RICE,6,food
+2019-11-08,M UNSMOKED BACON,2.25,food
+2019-11-08,M BEST CHIPOLATAS,2.5,food
+2019-11-08,M RTS COMBI CUSTARD,0.7,food
+2019-11-08,M CHICKEN THIGHS,2.35,food
+2019-11-08,M PORK RIBS,3.45,food
+2019-11-08,M BRIT S/SKIM MILK,0.8,food
+2019-11-08,M LARGE GARLIC,0.5,food
+2019-11-08,M RED GRAPES,4,food
+2019-11-08,M SALAD PEPPERS,1.25,food
+2019-11-08,M ROYAL GALA APPLES,1,food
+2019-11-08,M SALAD TOMATOES,0.75,food
+2019-11-08,M GINGER,0.05,food
+2019-11-08,M SALMON PORTIONS,4,food
+2019-11-08,MSALAD ONIONS,0.55,food
+2019-11-08,M WONKY LEMONS,0.8,food
+2019-11-08,M BANANAS,0.71,food
+2019-11-08,M S/F+PUMPKIN BREAD,1,food
+2019-11-08,M FREE RANGE EGGS,1.7,food
+Unknown,FV ICE COFF,10.98,food
+Unknown,NY DEP FEE,0.05,food
+Unknown,CHOC,2.48,food
+Unknown,600g,4.99,other
+Unknown,CKr Rice Crig 100g,0.89,food
+Unknown,Yog BBerry 150g,,food
+Unknown,Tomato Bellino200g,4,food
+Unknown,Raspberries 125g,3.99,food
+Unknown,Onion Brown 1kg,49,food
+Unknown,Brioche Slider12pk,6.99,food
+Unknown,Wmeal Slc Brd 650g,2.49,food
+Unknown,Shepard Avo 5pk,5.49,food
+Unknown,Strawberries 500g,,food
+Unknown,NevelOrange per kg,79,food
+Unknown,Asparagus bunch,1.99,food
+Unknown,CIROCERIES 10%,20.6,food
+Unknown,Almonds 750g,8.99,food
+Unknown,Muesli Bars 185g,1.99,food
+Unknown,Capsicums 750g,6.99,food
+Unknown,Yog Strawberry150g,1.29,food
+Unknown,Yog Van 150g,Unknown,food
+Unknown,Red Onion per kg,0,food
+Unknown,Cusumb Leb per kg,0.44,food
+2019-09-15,POPCORN SHRIMP COMBO,8.99,food
+2019-09-15,5PC BONELESS WINGS,2.99,food
+Unknown,SKIPPY PNT BIR,4,food
+Unknown,LUCERNE FINE SHRD,1.99,food
+Unknown,MIX VEGETABL,1.5,food
+2021-06-06,Smoked Brisket Meal,9,food
+2021-06-06,RB Double Meal,8,food
+2021-06-06,Cherry Turnover,,food
+Unknown,WHOPPER CHS,8.99,food
+2023-12-11,Berry Waffle Slam,15.29,food
+2023-02-05,Lorem ipsum dolor sit,30,other
+Unknown,PRESSED ORGANIC GRE,5.99,food
+Unknown,GREEN PT JUICE,1.99,food
+Unknown,ICE SHOT TURMERIC,3.98,food
+Unknown,AG FEE,Unknown,other
+2020-04-27,BELKIN SCREE,24.99,home/appliances
+2020-04-27,EVUTEC CASE,39.99,home/appliances
+2020-07-15,VDAGER 2% RF MILK,2.39,food
+2020-07-15,BLM CHARGE,0.59,food
+Unknown,DOZ FREE RANGE EGG,3.89,food
+Unknown,GV ORGANIC MILK 2%,4.19,food
+Unknown,SBUX FRENCH ROAST WL,8.99,food
+2023-10-26,Large Soda,3.09,food
+2014-09-18,COLD FOOD BAR NP,4.85,food
+2018-07-19,SALSA ESPECIAL MILD,2.99,food
+2018-07-19,ORG GARBANZO BEANS,0.99,food
+2018-07-19,ORG BLACK BEANS,0.99,food
+2018-07-19,WHOLE KERNEL CORN SWEET & CRSP,0.89,food
+2018-07-19,RICE BROWN MEDLEY,1.99,food
+2018-07-19,AVOCADO EACH HASS,2.78,food
+2018-07-19,HERB CILANTRO BUNCH,1.99,food
+2018-07-19,SHREDDED MILD CHEDDAR,2.99,food
+2018-07-19,GREENS KALE 10 OZ,2.29,food
+2018-07-19,ORG WHITE CORN TORTILLA CHIPS,2.69,food
+2014-06-08,Nacho Bgrnde Bf,2.99,food
+2014-06-08,Chalupa Spr Chk,2.99,food
+2014-06-08,Cinnamon Twist,0.89,food
+2014-06-08,HH Beverage,1,food
+2020-07-28,Ice Cof MD OrigBlnd,5.38,food
+2014-10-10,SILVER EARS,4.97,clothing
+2014-10-10,HSY SNACK SZ,2.5,food
+2014-10-10,GLDFSH BULK,7.48,food
+2014-10-10,COV LSHBLST,6.94,home/appliances
+2014-10-10,PAPER TOWEL,5.47,home/appliances
+2023-08-28,ORGANIC,Unknown,food
+2023-08-28,SQU,64.99,other
+2023-08-28,CANDY SNAP,7.99,food
+2018-08-17,^ LYSOL,5.99,home/appliances
+2018-08-17,MFR COUPON,Unknown,other
+2018-08-17,^ TIDE 2X,11.99,home/appliances
+2018-08-17,CATEGORY COUPON,15,other
+1994-10-08,GROCERY,1.56,food
+1994-10-08,MAPLE SYRUP,-18.62,food
+1994-10-08,CAYENNE,,food
+1994-10-08,SEA SALT,,food
+1994-10-08,TOL MOLASSES BLA,,food
+1994-10-08,MTN SUN JCE APPL,-4.99,food
+2013-05-23,HY TOP 2% MILK,1.76,food
+2013-05-23,KING KELLY ORG.,2.82,food
+2013-05-23,HY TOP TOMATOES,1.16,food
+2013-05-23,H/T OLIVE OIL,2.98,food
+2013-05-23,DARIGOLD BUTTER,2.38,food
+2013-05-23,HY TOP DJ MUST,0.91,clothing
+2013-05-23,ITE NY SSG,2.98,other
+2013-05-23,AMERICAN HERT.C,1.28,other
+2013-05-23,COOL WHIP 8 OZ,1.22,food
+2013-05-23,PILLS SUGAR CKY,5,food
+2013-05-23,PER PZA TOPPIN,1.98,food
+2013-05-23,H/T LT CRM CHS,1.08,food
+2013-05-23,CANTECA TORTILL,1.78,food
+2013-05-23,DOLE PINEAPPLE,1.38,food
+2013-05-23,PETALUMA 18CT L,2.14,other
+2013-05-23,H/I SHRD CLBYJK,1.48,food
+2013-05-23,HUNTS MANWICH,0.98,food
+2013-05-23,HY TOP VEG OIL,1.79,food
+2013-05-23,HY TOP RAISINS,1.81,food
+2013-05-23,ROMAINE LETTUC,1.48,food
+2013-05-23,KALE,1.28,food
+2013-05-23,H/T SHARP CHDDR,2.78,food
+2013-05-23,ROSARITA BEANS,0.88,food
+2013-05-23,EL PATO TOMATO,0.55,food
+2013-05-23,1#\STRAWBERRIES6919740402,1.98,food
+2013-05-23,KIWI FRUIT,1.92,food
+2013-05-23,"LEMONS, LARGE",1.36,food
+2013-05-23,"COFFEE, BULK BNS",5.72,food
+2013-05-23,"ONIONS,RED",1.35,food
+2013-05-23,"SUGAR, BROWN",1.78,food
+2013-05-23,"FLOUR, UNBLEACHED",1.22,food
+2013-05-23,"POPCORN, YELLOW",3.33,food
+2013-05-23,"CHIPS, IMIT CHOC",85,food
+2013-05-23,PANKO BRD CRMBS,22,food
+2013-05-23,PAPRIKA SMK HOT,44,food
+2013-05-23,CHIPS. REESES,63,food
+2013-05-23,"PSTA,ELBOW MAC",60,food
+2013-05-23,"CASHEWS, WHOLE",0.96,food
+Unknown,.disiwna 09 Del Fee,2.5,transportation
+Unknown,MEIJER MILK,Unknown,food
+Unknown,CHEEZ-IT,Unknown,food
+Unknown,MJR SSG LINK,3.29,food
+Unknown,TAV BACON,9.18,food
+2017-04-26,"JIMMY DEAN SAUSAGE, EGG & CHEES",10.98,food
+2017-04-26,SARGENTO SWEET BALANCED BREAKS,13.98,food
+2017-04-26,JIMMY DEAN MEAT LOVERS BOWLS (8,Unknown,food
+2017-04-26,MM WATER 45/16.9 OZ,6.72,food
+2017-04-26,USDA CHOICE ANGUS RIBEYE STEAK |,26.9,food
+2017-04-26,MEMBER'S MARK 2% REDUCED FAT M,4.76,food
+2020-01-11,2 MILK,1.79,food
+2020-01-11,FREEZER BAGS,4.66,home/appliances
+2020-01-11,OF REPLENISH,14.98,other
+2020-01-11,HE SH SF HN,5.97,other
+2020-01-11,NTG UG CM CL,8.22,other
+2020-01-11,MAY MASCARA,6.78,home/appliances
+2020-01-11,KING SIZE,1.48,home/appliances
+2020-01-11,M MS HZLNT,2.98,food
+2020-01-11,MUFFINS,2.48,food
+2020-01-11,OS STL CRUI,6.97,food
+2020-01-11,OS BDYWASH,4.97,home/appliances
+2020-01-11,QTIPS SWABS,5.88,home/appliances
+2020-01-11,CLG OW TP,7.96,home/appliances
+2020-01-11,TOOTHPASTE,4.83,home/appliances
+2020-01-11,SE FRESH 24,4.98,food
+2020-01-11,VIVA SIG 6D,9.98,home/appliances
+2020-01-11,RX -20 2IN1,2.97,home/appliances
+2019-01-20,COLD BEVERAGE,2.99,food
+2019-01-20,"6 FILT &RG SHRP,",27.99,food
+2010-05-26,LARGE AA EGGS,1.59,food
+2010-05-26,CPN LUCERNE LARGE,9.95,food
+2010-05-26,CPN OM MEAT HOT DO,4,food
+2010-05-26,SCANNED COUPON,1,other
+2010-05-26,MC SCANNED COUPON,1,other
+2010-05-26,MO SCANNED COUPON,1,other
+2019-12-29,MeisterShack,6.5,food
+2019-12-29,Cheese Fries,4,food
+2019-12-29,Choc Shake,4.95,food
+2014-11-23,S/2 Knox Yellow Sconces,150,home/appliances
+2016-11-07,SM BF&CHDR CLSC,Unknown,food
+2016-11-07,SM MOZZ,Unknown,food
+2016-11-07,SM PEPSI,Unknown,food
+Unknown,Pretzel Tubs,Unknown,food
+Unknown,Banana WE,1.09,food
+Unknown,OS Kitchen 45 Ct,4.99,food
+Unknown,Garlic/CheeseToast,1.69,food
+Unknown,Flour Tortillas,1.89,food
+Unknown,Cheese Snack Stick,1.59,food
+Unknown,2-Ply FacialTissue,1.19,home/appliances
+Unknown,ToasterTart,Unknown,food
+Unknown,Fabric Soft. Sheet,Unknown,home/appliances
+Unknown,Ricotta Cheese,1.99,food
+Unknown,aster Tarts,Unknown,food
+Unknown,Alfredo Sauce,0.79,food
+Unknown,Dinos & Sharks Snk,Unknown,food
+Unknown,Skim Milk,Unknown,food
+Unknown,AlmondMilk,2.49,food
+Unknown,Brown Sugar,1.19,food
+Unknown,Iceberg Lettuce,0.89,food
+Unknown,Condensed Milk,1.39,food
+Unknown,2-21y Facial Tissue,1.59,home/appliances
+Unknown,Mini Morsels,Unknown,food
+Unknown,Chili Beans,0.59,food
+Unknown,Heavy whipping CRM,1.89,food
+Unknown,Swiss Rolls,1.05,food
+Unknown,Prem Liq Ldry Det,5.99,home/appliances
+Unknown,Juice Pouches,Unknown,food
+Unknown,Cheese Curls,0.99,food
+Unknown,Pita Chips,1.99,food
+Unknown,Wavy Potato Chips,1.49,food
+Unknown,Cheese Puffs,Unknown,food
+Unknown,Sliced Pepperoni,1.99,food
+Unknown,Veg Chips/Straws,1.89,food
+Unknown,Cream Cheese,0.89,food
+Unknown,Iced Brownies,2.99,food
+Unknown,Hummus,1.99,food
+Unknown,Gal. Twinlock Bags,1.99,home/appliances
+Unknown,Mini Muffins,1.99,food
+Unknown,Bronze Cut Pasta,1.29,food
+Unknown,Cheese Shreds Cup,1.99,food
+Unknown,Honey Nut Oats,1.69,food
+Unknown,4502 VegOil Spread,1.79,food
+Unknown,Powdered Sugar,1.99,food
+Unknown,Quart Twinlock Bag,Unknown,home/appliances
+Unknown,MIN Muffins,1.45,food
+Unknown,Unsalted Butter,1.89,food
+Unknown,Mint Muffins,1.99,food
+Unknown,Fruity&Cocoa Rice,1.79,food
+Unknown,CinnCrunch Squares,0,food
+Unknown,Split Top Wht Bra,0.99,food
+2016-03-06,JENNIE-O,2.99,other
+2020-07-15,KDAGER 2% RF MILK,2.39,food
+2022-05-29,MOZZ STICKS 8PC,2.79,food
+2022-05-29,2 BIG KING MIX,5,food
+2015-09-18,HULA HAWAIIAN 11,8,food
+2015-09-18,HNR PEPPERONI 11,5,food
+Unknown,WHOPPER JR,Unknown,food
+Unknown,RODEO BURGER,Unknown,food
+Unknown,GHST PEP NUG 8PC,1.49,food
+Unknown,MD FRY,2.29,food
+2023-03-25,PYSFR11,599,transportation
+2023-03-25,830026Z,36.99,home/appliances
+2023-03-25,830022Z,36.99,home/appliances
+2021-09-06,4 1b. Sugar,8.08,food
+2022-05-04,Stück Relaxed Fit Cotton short,19.99,clothing
+2022-05-04,Stück Baumwoll-T-Shirt Relaxed Fit,9.99,clothing
+2022-05-04,Stück Sneaker aus Canvas,19.99,clothing
+2022-05-04,Stück Sweatshirt Relaxed Fit,12.99,clothing
+2017-11-13,6 WING PLATE,3.98,food
+2017-11-13,ASST 27,4.88,other
+2017-11-13,CUTIE CAR,12.88,home/appliances
+Unknown,Chocolate Chunk Cookie,1.99,food
+Unknown,#9 Italian Club,7.19,food
+Unknown,Jalapeno Chips,1.5,food
+Unknown,Thinny Chips,1.5,food
+Unknown,Diet Coke (med),1.79,food
+2017-08-10,DR PEPPER,13.44,food
+2017-08-10,PRNA DRY CAT,799,other
+2017-08-10,FRESH STEP,11.79,food
+2017-08-10,POTATO CHIPS,3.98,food
+2017-08-10,LACROIX WATER,7.98,food
+2017-08-10,ARNOLD PALMER,7.98,entertainment/alcohol
+2017-08-10,MAC & CHEESE,3,food
+2017-08-10,DRY CAT FOOD,3.5,home/appliances
+2017-08-10,Voilos mutert,-1.5,other
+2024-03-23,Chkn Noodle Soup,1.98,food
+2024-03-23,Large Chkn Noodle Soup,1.98,food
+2024-03-23,Larg Sweet Peas,1.98,food
+2024-03-23,Chic Sweet Peas,0.64,food
+2024-03-23,Chic,0.64,food
+2024-03-23,Chi( Sweet Peas,Unknown,food
+2024-03-23,Sweet Peas,0.64,food
+2024-03-23,Chi Sweet Peas,0.64,food
+2024-03-23,Chi,Unknown,food
+2024-03-23,Ch Sweet Peas,0.64,food
+2024-03-23,Pol,Unknown,food
+2024-03-23,Po Sweet Peas,0.64,food
+2017-02-07,SKINNYPOP,4.98,food
+2017-02-07,MMCARAMELS,7.86,food
+2017-02-07,CINN ROLLS,6.78,food
+2017-02-07,SW SALAD,2.58,food
+2017-02-07,2# KR COLBY,6.98,food
+2017-02-07,ASIAN SALADI,2.58,food
+2017-02-07,CRACKERS IF,6.62,food
+2017-02-07,GREEN GRAPEI,7.98,food
+2018-06-22,FAMILY PACK PEPPERS,1.09,food
+2018-06-22,QUARTERPOUNDERS,1.99,food
+2018-06-22,FRESH CHICKEN THIGHS 1,1.65,food
+2018-06-22,ROCKET LOLLIES,1.09,food
+2018-06-22,CHARCOAL BRIQUETTES 5K,2.89,home/appliances
+2018-06-22,SWEETCORN,1.15,food
+2018-06-22,SLICED WHITE ROLLS,0.85,food
+2018-06-22,BRASSERIE SHANDY,1.49,clothing
+2018-06-22,CHEESY SINGLES,0.69,food
+2018-06-22,MARINADE SAUCES,0.85,food
+2018-06-22,SALAD CREAM,0.62,food
+2018-06-22,TOMATO KETCHUP,0.45,food
+2018-06-22,SEASON ALL SEASONING,0.55,food
+,PNT REG MT GALOR,17.9,food
+,SPICY SFD PARCHM,14.9,food
+Unknown,880 Sauce,0,food
+2012-08-22,#5 Vito,4.25,food
+Unknown,TYRLS VINGR SEA,2.75,food
+Unknown,ČP CARRIER BAG,0.05,home/appliances
+2015-02-22,"#8 CHICK STRIPS,",7.89,food
+2015-02-22,"SPEC BAN SPLIT,",4.29,food
+2018-12-23,CHEESE,10.99,food
+2018-12-23,"CHX TENDERS PLAT,",14.99,food
+2018-12-23,TILAPIA,13.49,food
+2018-12-23,GRILL COBB SAL,14.49,food
+2018-12-23,LOADED MASH,3.99,food
+2018-12-23,STEAKHOUSE MAC,4.99,food
+2018-09-09,ROMAINE LETTUCE,0.45,food
+2018-09-09,YELLOW BANANAS,3.99,food
+2018-09-09,ORGANIC RAW ALMONDS,2.64,food
+2018-09-09,EZEKIEL 4:9 BREAD,0.5,food
+2018-09-09,1LB PKG STRAWBERRIES,5,food
+2018-09-09,ANGEL SWEET TOMATOES,5.98,food
+2018-09-09,ASPARAGUS,9.02,food
+2018-09-09,CAULIFLOWER,2.87,food
+2018-09-09,CELERY STALKS,2.98,food
+2018-09-09,GALA APPLES,2.47,food
+2018-09-09,GREEN LEAF LETTUCE,1.29,food
+2019-06-12,6pc Hash Brown,0.99,food
+2023-12-04,DEIT COLD DAD,9.44,other
+Unknown,TEXAS TONION,Unknown,food
+Unknown,WILD WEST,Unknown,other
+2006-12-23,REG LIMES,1.32,food
+2006-12-23,BELL PEPPERS,3.96,food
+2006-12-23,ONIONS YELLOW JUMB,,food
+2006-12-23,COCONUT,1.99,food
+2006-12-23,TRAD TURKEY DINNER,37.99,food
+2006-12-23,PRETZEL CRISPS,2.99,food
+2006-12-23,PUMPKIN CHS SPREAD,3.5,food
+2011-07-20,WEB SITE X5 EVO,500,other
+2010-03-04,TWO X 2 × 2,8.99,other
+2010-03-04,3 EGGS & BACON,9.49,food
+2010-03-04,HOT TEA,4.98,food
+Unknown,BBQ,Unknown,food
+Unknown,JACK,Unknown,other
+Unknown,Applesauce,3.99,food
+Unknown,$10 TENDERS B,Unknown,food
+2010-07-29,ROTINI WHL WHT,2,food
+2010-07-29,SFWY BRD 100% WHT,1.5,food
+2010-07-29,GREEN BELL PEPPERS CardSav .79,0.5,food
+2010-07-29,RED BELL PEPPERS CardSav 1.00,0.5,food
+2010-07-29,YELLOW ONION,2.99,food
+2022-02-28,VZ S21UW GRA,664.99,home/appliances
+2022-02-28,ANKER PORT,29.99,home/appliances
+Unknown,GOYA LENTILS,2.19,food
+Unknown,GOYA BLACK BEANS,1.58,food
+Unknown,8PK/7.50Z CN COKE,3.34,food
+Unknown,4PK CN CITZ DRTY CID,13.99,other
+Unknown,BOTTLE DEPOSIT,0.4,entertainment/alcohol
+Unknown,ORG GRAPE TOMATOES,2.99,food
+2002-07-18,Chkn Tenders 8,2.59,food
+2002-07-18,Hershey Pie,1.39,food
+2002-07-18,Med/ Coke,1.25,food
+2012-05-15,*ARTICHOKES,97,food
+Unknown,FLAT,Unknown,other
+Unknown,RIBEYE*,Unknown,food
+Unknown,NEW YORK STRIP*,Unknown,food
+2019-04-29,COMBO #2,5.99,food
+2019-04-29,SOUP CUP,1.99,food
+2019-04-29,BB SNACK STRWBRY CHE,2.88,food
+2019-04-29,SIMPLY CLNR W/BLEACH,2.49,home/appliances
+2019-04-29,JENNIE-0 85/15 GRND,5,food
+2019-04-29,GNP JUST BARE B/S TH,5.99,home/appliances
+2019-04-29,JUST BARE DRUMSTICKS,2.99,food
+2019-04-29,BROCCOLI FLORETTES,3.56,food
+2019-04-29,CALIFORNIA GIANT STR,1.54,food
+2019-04-29,DOLE BANANAS,0.83,food
+2019-04-29,HASS LARGE AVOCADO,5,food
+2019-08-29,CMR HALLOUMI BGR,5.99,food
+Unknown,*PEPSI COLA*,10.99,food
+Unknown,SWIFR WET 64,15.79,home/appliances
+Unknown,KS FAB SOFT,8.99,home/appliances
+Unknown,DAWN PLATINM,9.99,home/appliances
+Unknown,TIDEOXIPODS,24.49,home/appliances
+Unknown,WOODBRG MERL,53.94,entertainment/alcohol
+Unknown,WHOLE MILK,3.35,food
+Unknown,KS ORG EVOO,9.49,food
+Unknown,10LB SUGAR,5.59,food
+Unknown,DM GRN BEAN,9.69,food
+Unknown,ORG STRAWBRY,8.99,food
+Unknown,VIENNA SAUSG,7.99,food
+Unknown,CHOC3PKBAR,5.99,food
+Unknown,BOUNCE 320CT,9.99,home/appliances
+Unknown,NAE POT PIE,10.89,food
+Unknown,KS CAGE FREE,3.39,food
+Unknown,PANTENESHAMP,9.99,home/appliances
+Unknown,POLSKA KIELB,11.79,food
+Unknown,PANTENE COND,9.99,home/appliances
+Unknown,KS CRMB BCN,8.89,food
+Unknown,MIXED VEGG,5.89,food
+Unknown,RUMMO-8PK,9.99,food
+Unknown,CREST SCOPE,12.99,home/appliances
+Unknown,ORAL-B CROSS,14.99,home/appliances
+Unknown,KS GRD PEPPR,3.99,food
+Unknown,KS IBU 2X500,9.99,home/appliances
+Unknown,FR ONIONSOUP,9.99,food
+Unknown,VRTYMIXFRUIT,7.99,food
+2017-06-14,no tomatoes,Unknown,food
+2017-06-14,got,Unknown,other
+2017-06-14,#2 Big John,4.95,other
+2017-06-14,#3 Totally Tuna,4.95,food
+2018-08-18,OIKOS YOG,Unknown,food
+2018-08-18,GV HF HF,1.48,other
+2018-08-18,TS TOP,14.97,clothing
+2018-08-18,TS SHORT,9,clothing
+2018-08-18,HOUSE,13.88,other
+2018-08-18,BEEF STICKS,14.42,food
+2018-08-18,7.5 OZ SLIC,2.84,food
+2018-08-18,90 COCO BR,2.68,food
+2018-08-18,ORIG BRK SG,3.5,other
+2018-08-18,WRIGHT 2402,8.98,home/appliances
+2018-08-18,THEATER BOX,0.98,home/appliances
+2018-08-18,DC PAM SUP,3.58,home/appliances
+2018-08-18,RED GRAPE,4.57,food
+2018-08-18,HCRISP APPLE,8.46,food
+2018-08-18,ORG CARROTS,1.56,food
+2018-08-18,ORG BLUBERRY,2.86,food
+2018-08-18,CARD BRTHDAY,4.57,entertainment/alcohol
+2018-08-18,GU 4PK 8OCT,4.97,home/appliances
+2018-08-18,GV 338 DS C,7.88,home/appliances
+Unknown,HS TRKY 20-24 LB,0,food
+2020-07-27,PHILIPS,17,home/appliances
+2020-07-27,"Samsung 65""",499.99,home/appliances
+2020-07-27,SQUARETRADE,75,other
+2018-09-07,MY Capp Glace Automne,3.69,food
+2018-09-07,Bgn - Glace Choc,0.99,food
+2018-09-07,Bgn - Glace Miel,0.99,food
+Unknown,CF01N24D-SS,249,home/appliances
+2010-05-24,WACKY MAC PASTA,1,food
+2018-05-18,REDUCED FO,3.98,other
+2018-05-18,PINEAPPLE CUP,2,food
+2018-05-18,FRUIT MEDLEY CUP,2,food
+2018-05-18,FRSH EXPSLAW KIT,1.99,food
+2023-05-23,J.J.B.L.T.,15.96,food
+2023-05-23,ADD roast beef,4.2,food
+2023-05-23,ADD ham,4.2,food
+2023-05-23,NO bacon,Unknown,food
+2023-05-23,ADD cheese,1.76,food
+2023-05-23,BBQ Chips,7.04,food
+Unknown,RIGLEY GUM,1.29,food
+Unknown,JC WHOLE MILK,3.99,food
+Unknown,WFAT MILK,,food
+Unknown,C YOGURT VAN,2.29,food
+2012-09-03,HANDTIED ROSES,19.99,entertainment/alcohol
+2012-09-03,FRUIT BOWL,Unknown,food
+2012-09-03,WINE,11.98,entertainment/alcohol
+2017-12-29,NCF,4.48,other
+2017-12-29,DRINKWARE,12,home/appliances
+2018-12-19,CRYSTAL GEYSER 288 PC PLT,1.09,home/appliances
+2018-12-19,HEB BASMATI RICE,3.26,food
+2018-12-19,GRILLED SALMON DINNER FOR,8.99,food
+2018-12-19,QUINOA SALAD W SWEET POT,2.17,food
+2018-12-19,CM BUTTER CHICKEN,3.98,food
+2020-01-27,FRIED CHKN TENDERS,2,food
+2020-01-27,SEASON POTATO WEDG,0.6,food
+2020-01-27,CRAYLA CHALK,0.99,entertainment/alcohol
+2022-02-27,2X8-10 <A>,37.28,home/appliances
+2022-02-27,3/8X2 REBAR <A>,14.68,home/appliances
+2021-07-14,DRIS STRAWBERRY,2.5,food
+2021-07-14,KROGER EGGS,1.59,food
+2021-07-14,MEGA BLOKS,3.99,entertainment/alcohol
+2013-12-21,MIND BOGGLERS METAL PUZZLES,2.32,entertainment/alcohol
+2010-11-30,SBC16R,,home/appliances
+2010-11-30,HamChEM dr,,food
+2006-11-19,7LAYER,69,other
+2006-11-19,BEAN,9,food
+2018-08-19,Imp Fillet Co,17,food
+2018-08-19,Mojito Krahr R/Pepsi,3,entertainment/alcohol
+2018-08-19,Kids Ckn Bar W/Cokie,11,food
+Unknown,AQFNA WATER,1,food
+2017-03-31,CLARITIN,19.98,home/appliances
+2017-03-31,RX# 6078653,11.93,home/appliances
+2017-03-31,RX# 6037209,10,home/appliances
+2017-03-31,RX# 6078655,41.98,home/appliances
+2017-03-31,RX# 6078654,32.17,home/appliances
+2015-03-03,ShackBurger,5.19,food
+2015-03-03,Smoke Shack,6.69,entertainment/alcohol
+2015-03-03,REG Soda,5.5,food
+2015-03-03,REG Iced Tea,2.25,food
+2023-02-04,MIGHTY 4 ONE,9.99,food
+2023-02-04,DELIVERY FEE,2.99,transportation
+2023-02-04,SERVICE FEE,0.99,transportation
+Unknown,VEG&CHEESEfr,3.99,food
+Unknown,VEG&CHEESE6r,2.49,food
+2010-05-31,BROCCOLI CROWNS,60,food
+2020-06-14,"MD BLIZZ, 2 oreo",9.58,food
+Unknown,Cob Corn 400g,Unknown,food
+Unknown,GkKalamanolive350g,,food
+Unknown,RaspYogPouch110g,4,food
+Unknown,FR Chk Drmstk Rw Crisps 350g,Unknown,food
+Unknown,Cowboy Mix 500g,5.35,food
+Unknown,Buna Chunkose,1.99,food
+Unknown,Chporgcorn200g,Unknown,food
+Unknown,Apple PLady per kg SalmonPinkS&B130g Tuna Chunk YF 185g,2.99,food
+Unknown,GratedParmChs 100g,3.72,food
+Unknown,Baby,,other
+Unknown,GratedParmChe 100g,Unknown,food
+Unknown,Sour,4.49,food
+Unknown,Pesto Basil 190g,3.19,food
+Unknown,Cucumber Cont ea,1.79,food
+Unknown,Corn Cakes 150g,1.99,food
+Unknown,ChipsChedr&Chv200g,1.89,food
+Unknown,PPreztel Salt 180g,2.99,food
+Unknown,Saltd Peanuts 350g,3.49,food
+Unknown,Banana Cav per kg,2.99,food
+Unknown,Ckr BR Miti 100g,Unknown,food
+Unknown,GFBiscuitAsstd180g,Unknown,food
+Unknown,Effervescent Tabs,0.9,home/appliances
+Unknown,Mayo Authenic 475g,Unknown,food
+Unknown,Yog FF Greek 1kg,Unknown,food
+Unknown,HiProYog140g,13,food
+Unknown,Dark Rosted PB375g,Unknown,food
+Unknown,Paracetamol 20pk,3,home/appliances
+Unknown,Corn Flakes 700g,Unknown,food
+Unknown,Pecans 400g,2,food
+Unknown,HBMiniFruit9pk450g,10,food
+Unknown,Whml Lebanese 375g,Unknown,food
+Unknown,Blueberries 170g,1,food
+Unknown,Milk UHTFullCrm 1L,0,food
+Unknown,AlmndCshwSprd 240g,1,food
+Unknown,Frz LambShanks 1kg,Unknown,food
+Unknown,Chs Manchego 150g,15.99,food
+2023-12-12,Dolor,234,other
+2023-12-12,Sir amet,9.96,other
+2023-12-12,Sit salad,,other
+2023-12-12,Pharetra,99,other
+2023-12-12,Etiam bibendum,Unknown,other
+2023-12-12,Justo pulvinar,817,other
+2023-12-12,Ullamcorper,1126,other
+2023-12-12,Mauris mauris,390,other
+2023-12-12,In feugiat,1510,other
+2013-10-19,"SALAMI""",10,food
+2020-10-09,GOGO SQUEEZ,7.49,food
+2020-10-09,NESTLE,5,food
+2020-10-09,CAMPBELLS,2.49,food
+2020-10-09,GG RTE RICE,1.59,food
+2020-10-09,QUAKER CHEWY,1.74,food
+2020-10-09,GG,1.79,other
+2020-10-09,OLD EL PASO,2.99,food
+2020-10-09,GG OIL,5.99,transportation
+2020-10-09,GG CONDIMENT,3.78,food
+2020-10-09,SPARKLNG ICE,0.95,food
+2020-10-09,SO DELICIOUS,1.52,food
+2020-10-09,Target Circle10%,Unknown,other
+2020-10-09,PROGRESSO,1.59,food
+Unknown,RB Double Meal (VOID),8.99,food
+Unknown,RB Half Pound,0,food
+Unknown,RB Half Pound (VOID),6.99,food
+Unknown,Small Drink,6.99,food
+Unknown,Small Drink (VOID),1.99,food
+Unknown,Bnc Double Meal,9.59,food
+2013-06-27,AMEX RELOAD,1000,other
+2013-06-27,AMEX FEE,3,other
+2021-05-02,Classic Cheese,5,food
+2021-05-02,Crazy Combo,4.19,food
+2021-05-02,Caesar Wings,4.99,food
+2021-05-02,Italian Cheese Bread,8.99,food
+2021-05-02,Hula Hawaiian,11.99,food
+2021-05-02,Ultimate Supreme,0.99,food
+2021-05-02,Cheezy Jalapeno Dip,Unknown,food
+2015-08-16,Instant Brown Rice,1.49,food
+2015-08-16,0J FC w/ Calcium,1.69,home/appliances
+2015-08-16,Old Fashioned Oats,2.39,food
+2015-08-16,Steam Mix Veg,0.95,food
+2015-08-16,Chocolate Milk,2.19,food
+2015-08-16,Gatorade 32oz,0.94,food
+2015-08-16,Plain NF Greek Yog,3.69,food
+2015-08-16,Fresh WholeChicken,5.47,food
+2015-08-16,Crispy Oats,1.69,food
+2015-08-16,Kiwi,1.49,food
+2015-08-16,Dice Tom w/GrnChl,0.59,food
+2015-08-16,Black Beans,0.59,food
+2015-08-16,Whole Wheat Tortilla,1.39,food
+2015-08-16,6 Pack Raisins,1.29,food
+2015-08-16,Creamy Peanut Btr,1.49,food
+2015-08-16,Pineapple Chunks,0.99,food
+2015-08-16,Organic Quinoa,4.49,food
+2015-08-16,Nectarines,1.18,food
+2015-08-16,Fruit Squeezies,1.49,food
+2015-08-16,Idared Apples,2.89,food
+2015-08-16,CrunchyGranolaBars,1.79,food
+2015-08-16,Fruit Medley/Pinea,1.49,food
+2015-08-16,Fig Bars,0.89,food
+2015-08-16,Straw/Rasp Strips,1.99,food
+2018-01-11,HING COMBO,8.19,food
+Unknown,FINISH,2.5,other
+Unknown,P C CA S B MC MG H M SC C G,Unknown,other
+Unknown,B P C CA S B V MC MGH M SC C G,5.95,other
+Unknown,R B C. CA. S. B.V. MC MG H [M. SCC G,6.35,other
+2020-07-15,KROGER 2% RF MILK,2.39,food
+2020-07-15,CHANGE SHORTAGE,0.59,other
+2020-07-15,DAGER 2% RF MILK,2.39,food
+2012-07-26,DME 200 COOKIES,89,food
+2012-07-26,DME JELLIED CRANBR,97,food
+2012-07-26,DME LG RICE 3LB,1.56,food
+2012-07-26,DME HOMESTYLE BREA,1.05,food
+2009-04-13,NO SAUCE,Unknown,food
+2009-04-13,10 MCNUGGETS,Unknown,food
+2009-04-13,BIG N TASTY,,food
+2009-04-13,BIG N TASTY MEAL,5.5,food
+2009-04-13,LRG ICED COFFEE,1.99,food
+2009-04-13,MED DIET COKE,1.29,food
+Unknown,TEXAS TONION',9.49,food
+Unknown,"WILD WEST SHRIMP""",11.79,food
+Unknown,80 12 Donuts,Unknown,food
+Unknown,Cof,959.2,food
+,OLY ZOOM TO,189.99,home/appliances
+,KODAK GOFILM,23.99,home/appliances
+,COMPART TOM,3.59,home/appliances
+2008-04-19,Easy #1,Unknown,other
+2008-04-19,HAMB,2.5,food
+2018-09-13,Regular Cheese Slice,2200,food
+2018-09-13,Sicilian Cheese Slice,300,food
+2018-09-13,20oz Bottle,200,food
+2017-11-15,CELLUL,799.99,home/appliances
+Unknown,UP TOWEL,9.99,home/appliances
+2011-07-21,PROCESSING FEE,5.95,other
+2011-07-21,MASTERCARD,100,other
+Unknown,""" McRoyale",87.7,food
+Unknown,Double McRoyal,0.9,food
+2010-07-23,MONT JACK,1.99,food
+2010-07-23,KRAFT SHREDDED CH,1.99,food
+2010-07-23,PRODUCE,3.49,food
+2010-07-23,RED ROMA TOMATOES,Unknown,food
+2010-07-23,SCANNED,1,other
+2010-07-23,4C SCANNED COUPON,1,other
+2010-05-23,KRAFT MAC & CHSE,1.25,food
+2010-05-23,SFY APPLES GALA BA,3.99,food
+2010-05-23,FE GREEN&CRISP ROM,1,food
+2010-05-23,MC FREE COUPON,1.25,other
+2010-10-13,EX BACONft,82,food
+2010-10-13,DRK-21oz,,food
+2018-12-10,Happy Meal 6 Pc,4.89,food
+2018-12-10,Snack Oreo McFlurry,2.69,food
+2010-10-14,HALF HALF,1.68,food
+2010-10-14,GU BRWN RICE,0.76,food
+2010-10-14,GV LONG RICE,1.28,food
+2010-10-14,GV 2 RF MLK,3.08,food
+2010-10-14,RAMEN-BEEF12,1.82,food
+2016-07-29,Veggie Bowl,Unknown,food
+2013-06-14,MFG CPN,Unknown,other
+Unknown,Lrg Htt,16.99,food
+Unknown,New Yorker,9.99,food
+2019-02-02,CARGO MAT,19.98,home/appliances
+2019-02-02,MM CHICKEN,19.98,food
+2019-02-02,FIRE EXTING,29.98,home/appliances
+2019-02-02,SALMON PORT,25.98,food
+2019-02-02,IWI OMEGA- 3,19.88,home/appliances
+2019-02-02,ZIPLOC STOR,14.78,home/appliances
+2019-02-02,CLEANVIEW R,99.98,home/appliances
+2019-02-02,MM BLACK FL,19.98,other
+2013-11-19,ChTeriFt fr,6,other
+2013-11-19,SrirachStkfr,7.5,food
+2013-11-19,Bottled Drink,1.9,food
+2014-03-13,AND TOOL SET,Unknown,home/appliances
+2014-03-13,POOF -SLINKY,3,entertainment/alcohol
+2014-05-30,WEG ORG PEANUT BUT,55.86,food
+2019-03-06,Munchkins,7.99,entertainment/alcohol
+2017-10-28,ODOULS BTL,4.15,entertainment/alcohol
+2017-10-28,PRESTO GAME 19,1.99,entertainment/alcohol
+2017-10-28,2 FOR $20,20,other
+2017-10-28,$ LSM,-1.99,other
+2017-10-28,PERF MARG,8.99,other
+2016-04-20,FF BS BREAST,23.99,food
+2016-04-20,KS DICED TOM,6.49,food
+2016-04-20,JACKORGSALSA,2.97,food
+2016-04-20,18CT EGGS,12.87,food
+2016-04-20,GRAPE TOMATO,6.29,food
+2016-04-20,ECO HALF PAN,6.49,home/appliances
+2016-04-20,GRND TURKEY,18.47,food
+2016-04-20,CHPD ONION,3.59,food
+2016-04-20,MONT JACK 2#,4.45,food
+Unknown,18 ALBUQUERQO78832813450,15,other
+Unknown,OIL 2 CY160Z,6.82,transportation
+Unknown,TRIMMER LINE,2.88,home/appliances
+Unknown,RXEXPB16-1,9.94,home/appliances
+Unknown,RX EXP B22-1,9.94,home/appliances
+Unknown,YZ. HANGERS,1,home/appliances
+Unknown,LUNCHBAG,1.96,home/appliances
+Unknown,YZ HANGERS,1,home/appliances
+Unknown,ANTHEM CRMR,1,food
+Unknown,FIREANT,10.38,other
+Unknown,ACCESSORY,9.77,clothing
+Unknown,HT H2510 TR,74,home/appliances
+Unknown,2YRPROTECTPL,6,home/appliances
+2012-04-07,CHOC COVERED,1.79,food
+2012-04-07,BTCH CT BF PATTY,Unknown,food
+2019-04-05,PHILIPS TV,299,home/appliances
+2019-04-05,RECYCLE FEE,7,other
+2019-04-05,3YRPROTECTPL,26,home/appliances
+2021-12-27,MAKERS MARK,10.49,entertainment/alcohol
+2021-12-27,Chicago Style,1.85,food
+2021-12-27,DOUBLE DOUGH,0.65,food
+2021-12-06,SS Dbl Chz,5.89,food
+2021-12-06,SS Dbl BacChz,6.69,food
+2021-12-06,Lg Fries,2.79,food
+2021-12-06,Med Onion Rings,2.79,food
+2021-12-06,Med Hot Fudg Shk,4.19,food
+2021-12-06,Med Choc Shk,4.19,food
+2020-04-28,CREDIT SURCHARGE,Unknown,other
+2014-06-22,Large Boneless,18.79,food
+2014-06-22,Ranch,0,food
+2014-06-22,Bskt Fry,4.49,food
+2012-05-04,LHB,4.09,other
+2012-05-04,HB,5.29,other
+2012-05-04,Cajun,2.89,food
+2012-05-04,Reg. Drink,2.09,food
+,SWEET ONIONI,3.48,food
+,COORSLIT36P,20.69,entertainment/alcohol
+,BLEACH,8.98,home/appliances
+,SLICED SWISF,8.98,food
+,BODDINGTONS,5.96,entertainment/alcohol
+,MUSHROOM,3.98,food
+,BLACK BOX 3,13.98,home/appliances
+,TOMATOES,6.27,food
+,BETSY FARMS,14.86,food
+,FIBER1BROWNF,7.98,food
+,MM WIPES,8.98,home/appliances
+,DAWN 90 OZ,8.28,home/appliances
+,FREE & CLEA,13.98,home/appliances
+,CARTERS SLP,7.44,clothing
+,DURA AAA24P,12.48,home/appliances
+2020-08-16,COMFORT AIRE 10K BTU WIND,334.99,home/appliances
+2020-08-16,10.1-OZ ALEX PAINTERS WHI,1.78,home/appliances
+2021-09-19,Chicken Tender loin,6.73,food
+2021-04-16,SPECIALORDEF,19.98,food
+2015-05-30,Smokehouse Turkey,7.69,food
+2012-12-04,DBL Smoke Shack,8.5,food
+2012-12-04,LRG Lemonade,6.1,food
+2012-12-04,ShackMeister Ale (DRFT),10,entertainment/alcohol
+2021-10-29,BELL PEPPER:,0.83,food
+Unknown,SPRITE_,3.19,food
+Unknown,STRAW LEM,3.59,food
+Unknown,CHIPS & DIPS,5.99,food
+Unknown,CK PASTA,14.49,food
+Unknown,TRIO_FAJ_,20.29,food
+Unknown,SHR12,Unknown,food
+Unknown,SIRLOIN 10,20.99,food
+Unknown,CUP_CH,5.19,home/appliances
+2009-10-02,23oz Shock Top,4.75,home/appliances
+2009-10-02,12 Wings,18.58,food
+2009-10-02,23oz Widmer Hef N/C,Unknown,entertainment/alcohol
+2009-10-02,23oz Amberbock,10.5,entertainment/alcohol
+Unknown,2-21y FacialTissue,1.59,home/appliances
+Unknown,4532 VegOil Spread,1.79,food
+Unknown,Horay Nut Oats,1.69,food
+Unknown,Powopred Sugar,1.99,food
+Unknown,Quert Twinlock Bag,Unknown,home/appliances
+2018-07-29,ORGANIC GALA APPLES W,2.07,food
+2018-07-29,1 LB STRAWBERRY,2.97,food
+2020-12-16,Beefy 5 Layer Bur,11.16,food
+2020-12-16,Mild Sauce,0,food
+2020-12-16,Hot Sauce,0,food
+2023-10-21,ChLeatherSandals,16.99,clothing
+2023-10-21,Trolli Burger 50g,1.79,food
+2023-10-21,BBQGrillMrnde375ml,3.99,food
+2023-10-21,TunaTreatCrkrs112g,2.09,food
+2023-10-21,Garlic Bread 450g,2.29,food
+2023-10-21,LmbShldBoneless RW,19.12,food
+2023-10-21,Milo Bars 6pk 160g,4.19,food
+2023-10-21,Chk Sausages 500g,7.99,food
+2017-04-16,CD SM SUGAR HAM,7.99,food
+2014-08-10,Sft Taco Bf Spr,4.77,food
+2014-08-10,Burrito Spr,5.38,food
+2014-08-10,Sml Drink,2.78,food
+2014-08-10,BF FSTA TACO SLD,4.89,food
+2014-08-10,Enchirito Bf,2.09,food
+2014-01-03,CMSM CHICKEN,5.19,food
+2014-01-03,CMSM 5PC CHICKEN STRIPS,6.99,food
+2011-02-09,1X2X8 PREMIUM FURRING STR,0.92,home/appliances
+Unknown,CMLG DBL WHOPPER CHS,12.34,food
+Unknown,*DBL WHOPPER CHS,Unknown,food
+Unknown,*LG FRY,Unknown,food
+Unknown,*OREO SHAKE,0.9,food
+2019-02-05,HOTDOG COMB,1.5,food
+2006-07-31,CD BOOMBOX,68.42,home/appliances
+Unknown,BYO Beef Burger,8.59,food
+Unknown,Egg (ala carte),1.69,food
+Unknown,Sig Diner Blend,2.15,food
+2015-09-01,Rx 1776195,72.48,home/appliances
+Unknown,KS DOG FOOD,34.49,food
+2018-11-11,STB ALL PIN,0.78,home/appliances
+2018-11-11,CABLE POUCH,3.5,home/appliances
+2018-11-11,TRVL PILLOW,9.97,home/appliances
+2012-05-11,BUNS,3.69,food
+2012-05-11,*SUPER CHILL SODA,1,food
+2012-05-11,AVOCADO HASS PERU,0.99,food
+2012-05-11,CUPCAKES,3.99,food
+2019-04-22,McChicken,1,food
+2019-04-22,L StrawBan Smoothie,4.49,food
+2019-04-22,S French Fries,0,food
+2015-10-31,Sliced,0,food
+2015-10-31,You Pick 2,Unknown,other
+2015-10-31,Toasted Bag & CC,0,food
+Unknown,365WFM OG BERRY CRSP PLLW,Unknown,food
+Unknown,365WFM OG HZLNUT CO PLLW,4.99,food
+Unknown,KETTL POTATO CHIP,4.99,food
+Unknown,KETTL HBNERO LIME CHIPS,3.49,food
+Unknown,365WFM OG REDUCED FAT MK,3.49,food
+Unknown,365WFM ORANGE NO PULP,3.69,food
+Unknown,365WFM OG VDK PASTA SC,4.49,food
+Unknown,BF CHK STEW MEAT PSTR S4,3.49,food
+Unknown,365WFM OG HEAVY CREAM,3.99,food
+Unknown,SALMON FILLET,10.19,food
+Unknown,KSGGIO ORIGINALE CUBES,8.09,food
+Unknown,WFM OG CHICKEN SAUSAGE,6.99,food
+Unknown,ENGLISH CUCUMBER,2.29,food
+Unknown,365WFM OG WHT SLCD MSHRM,3.99,food
+Unknown,365WFM ALMOND TORTILLAS,6.99,food
+Unknown,365WFM CASSAVA TORTILLAS,6.99,food
+Unknown,OLD TIMER'S BREAKFAST,Unknown,food
+Unknown,"CRACKER BARREL'S COUNTRY BOY BREAKFAST""",Unknown,food
+Unknown,BREAKFAST®,Unknown,food
+Unknown,COUNTRY MORNING BREAKFAST,Unknown,food
+2020-05-17,BISCUIT DLV b,1.19,food
+2020-05-17,BISCUIT DLV,1.19,food
+2020-05-17,REG COLE SLAW DLV,2.59,food
+2020-05-17,"SPICY CHKN SND CBO ""DLV",8.39,food
+2019-05-07,SMALL.COMBO.MEAL.,6.5,food
+Unknown,AMNO,34.97,other
+2012-03-15,Bloody Mary,40.75,entertainment/alcohol
+2012-03-15,fresh oyster,12.5,food
+2012-03-15,Fudge Cake,4.25,food
+2024-06-13,Sofritas Burrito,8.75,food
+2024-06-13,Extra Steak,10.4,food
+2024-06-13,Sofritas Quesadilla,9.3,food
+2017-07-15,Marsala,17.29,food
+2022-09-21,12 Donuts,181.86,food
+2022-09-21,Box Hot Orig Cof,186.89,food
+2022-09-21,Box Orig Hot Choc,71.96,food
+Unknown,Teriyaki Chicken Breast,Unknown,food
+Unknown,Shooters,Unknown,food
+Unknown,Drunken Shooters,12.99,entertainment/alcohol
+Unknown,Captain's Platter,Unknown,food
+Unknown,Calamari,Unknown,food
+Unknown,Rings,Unknown,food
+Unknown,Mozzarella Cheese,Unknown,food
+2019-03-21,"#2 1/2 FLAME BRG, reg fry,",6.89,food
+2019-03-21,"#3 1/3 DBL CHZ, reg fry,",5.79,food
+2019-03-21,"#1 B/C BURG, reg fry,",6.19,food
+2019-03-21,"KID ML BURG, kid fry,",4.98,food
+2019-03-21,LRG CHZ CURDS,Unknown,food
+2016-09-30,Combo #07 Footlong -Lg,6.88,food
+2016-09-30,Combo #11 Ckn Dinner -Med,Unknown,food
+2016-09-30,Chicken Strip Dinner,Unknown,food
+2016-09-30,ROOT BEF Large,Unknown,food
+2015-03-21,UNDERWEAR,11.49,clothing
+2015-03-21,MUCINEX TAB,11.49,home/appliances
+2015-03-21,BOK CHOY,2.07,food
+2015-03-21,GRN CHILIES,1.09,food
+2015-03-21,TODDLER SNACK,1.49,food
+2015-03-21,GRB BABYFOOD,1.99,food
+2015-03-21,GRB FOOD,1.99,food
+2015-03-21,ORGANIC TOFU,5.38,food
+2015-03-21,ROMAINE HRTS,2.99,food
+2015-03-21,MUM MUM BABY AP,2.99,food
+2016-04-14,CAKE CHOCOLATE SNG,11.99,food
+Unknown,PEEPS PARTY CAKE,1.25,food
+Unknown,CHICK PEEPS,1.25,food
+Unknown,Carrots 1kg,1.79,food
+Unknown,Banana Cay Aka,2.13,food
+Unknown,*Lamp Floor Hal,9,home/appliances
+Unknown,Onion Brown Iky,Unknown,food
+2021-12-27,TONIC,7.49,entertainment/alcohol
+2021-12-27,Chicken Parmigiana,Unknown,food
+2021-12-27,SAUSAGE,12.49,food
+2021-12-27,Cream $2.50,6.29,food
+2021-12-27,Ice Cream $2.50,6.29,food
+2021-12-27,Kids Pizza,-2.19,food
+2024-01-30,#9 Club Meal,16.79,food
+2024-01-30,SB Char,8.99,other
+2001-12-18,Pack s/e 34*55 tempor #,Unknown,other
+2021-12-05,Organic Straw/Blue,5.59,other
+2021-09-30,NUTRIGRAIN3,178.4,food
+2021-09-30,MTS FRT SNC,29.61,food
+2021-09-30,LANCECHEDDA,31.1,food
+2021-09-30,LANCETOASTC,30.6,food
+Unknown,DBL JR,Unknown,food
+Unknown,WHOPPER,Unknown,food
+Unknown,ChKing SCM,Unknown,food
+Unknown,Med FRIES,2.69,food
+2015-09-18,PEBBLE SMAR,99.99,home/appliances
+Unknown,LCLFLK HONEY BBQ,4.99,food
+Unknown,LCLFLK MILD GARDEN SALSA,Unknown,food
+Unknown,LCLFLK APPLE BUTTA BBQ,11.58,food
+Unknown,3WSHS CABERNET SAUVIGNON,2.99,food
+Unknown,LCLFLK KETCHUP,19.16,food
+Unknown,ORGVLL OG ITALIAN DRSSNG,4.49,food
+2015-08-07,FLAV LEMONADE,3.59,food
+2015-08-07,BIG DIPPER APP,11.99,food
+2015-08-07,SMOKY MIN CHICKN,13.59,food
+2015-08-07,APPLE CRUM FLAT,6.99,food
+2015-08-07,HICKORY SALMON,16.59,food
+2015-08-07,LT LEMONADE,2.69,food
+2015-08-07,RIBS & TENDERS,17.99,food
+2015-08-07,SMOKEHSE BURGR,9.99,food
+2010-12-06,Vt Icd Bl Tea Shk,2.45,food
+2010-12-06,Org Sidama 1/21b,18,food
+2012-05-20,SHV KITCHEN BAGS,1,home/appliances
+2012-05-20,SHV PAPER TOWELS,1,home/appliances
+2012-05-20,ESTNL CREAM CHEESE,,food
+2012-05-20,*CHALLENGE BUTTER,3.79,food
+2012-05-20,DRISCOLL STRAWBERY,3.49,food
+2012-05-20,*PEP JALAPENO,0.09,food
+2012-05-20,BANANA TOTE BAG,0.99,clothing
+2012-05-20,BRUSS SPROUT,2.27,food
+2012-05-20,VEG LAND POTATOES,4.99,food
+2012-05-20,CABBAGE GRN,1.87,food
+2012-05-20,CC CHEESE,4.99,food
+Unknown,SP MODERN :W CLASSIC SHORT,66,clothing
+Unknown,ZINFANDEL BLUSH,3.69,home/appliances
+Unknown,PASSATA,0.35,food
+Unknown,CARROTS 500G,0.29,food
+Unknown,MIXED BEANS/CANNELLINI,0.42,food
+Unknown,FRUIT & BARLEY 1L,0.69,food
+Unknown,ROAST/PEPPERED BEEF,1.49,food
+Unknown,SCOTTISH SALMON FILLET,3.29,food
+Unknown,LEAFY MIXED SALAD,0.59,food
+Unknown,TENDER STEM BROCCOLI,1.49,food
+Unknown,NAW BRITISH HONEY HAM,1.09,food
+Unknown,WHITE SEEDLESS GRAPES,1.39,food
+Unknown,JIVE,0.65,other
+Unknown,CREAM CRACKERS,0.4,food
+Unknown,CHUTNEY,0.99,food
+Unknown,FLAVOURED SAUSAGES,1.69,food
+Unknown,PREMIUM QUICHE,1.99,food
+Unknown,GREEK LAYERED YOGURT,0.99,food
+Unknown,FLATBREAD THINS,0.99,food
+Unknown,LUXURY TOILET TISSUE 4,1.45,home/appliances
+Unknown,FRUIT & GRAIN,0.89,food
+Unknown,LIGHT & DARK BROWN SUG,0.69,food
+Unknown,LIGHTER MATURE CHEESE,1.49,food
+Unknown,MICRO RICE,0.49,food
+Unknown,FRENCH MARBLE BRIOCHE,1.49,food
+Unknown,TRIO OF FOCACCIA,1.99,food
+Unknown,TANGERINES,1.59,food
+Unknown,SALT & VINEGAR/VARIETY,0.75,food
+Unknown,FARMHOUSE SEEDED BATC,0.79,food
+Unknown,HALF COATED COOKIES,0.99,food
+Unknown,PEPPER & SEA SALT GRIN,0.89,food
+Unknown,ISB DEMI BAGUETTE,0.19,food
+Unknown,SO MALTY MALT LOAF,0.49,food
+Unknown,WHITE ROLLS,0.45,food
+Unknown,MEDIUM FREE RANGE EGGS,0.79,food
+2018-04-13,81g Steak,10.49,food
+2018-04-13,REAL EGGS,0,food
+2017-12-01,BOSS RPTR BRW,6.99,food
+2017-12-01,LIT $1 MUG,1,food
+2017-12-01,SPIN DIP,4.25,food
+2018-05-24,Quarter Cheese,4.99,food
+2010-10-13,BLT,82,food
+2022-08-10,MM MULTI SO,27.98,other
+2022-08-10,MM OMEP,12.98,other
+2022-08-10,OMEP,12.98,other
+2019-04-09,SFHI,0.89,other
+2019-04-09,Sig Diner Coffee,3.59,food
+2019-04-09,Doubleberry Pnckes Bfs,18.79,food
+2019-01-01,HX Bite Golf Balls,299.99,entertainment/alcohol
+2022-07-12,Sausage McMfn EVM,5.19,food
+2019-08-02,Lobster Artichoke Dip,Unknown,food
+2019-08-02,Seaside Shrimp Trio,19.99,food
+2019-08-02,Coconut Shrimp,15,food
+2019-08-02,Crab Lovers Dream,29.99,food
+2021-06-19,SK DIME XT,22.88,home/appliances
+2021-06-19,CARD,4.67,other
+2021-06-19,TISSUE,1.48,home/appliances
+2021-06-19,BAG,2.98,home/appliances
+2022-10-21,"12"" #8 RChik & Bacon Sub",Unknown,food
+2014-04-15,VALUE FRY,0.99,food
+2014-04-15,JR CHZ DELUXE,1.19,food
+2014-04-15,JR CHEESEBGR,1.98,food
+2014-04-15,VALUE ICED TEA,0.99,food
+2014-04-15,VALUE COKE,0.99,food
+2014-04-15,CRISPY CHICKEN,0.99,food
+2014-04-15,2 VALUE COKE,1.98,food
+2009-01-26,LIPCOLOR,7.97,home/appliances
+2009-01-26,Coupon,Unknown,other
+Unknown,LC-HOUSE-SALAD,Unknown,food
+Unknown,CHICKEN-CRISPERS,5.5,food
+Unknown,KID CHZ BURG BITE,1,food
+Unknown,Piece Nuggets,0.99,food
+Unknown,Value Fries,0.99,food
+2021-11-21,** Delivery Uber **,0,transportation
+2021-11-21,M Fruitopia Orange,4.98,food
+2021-11-21,"Spicy Habanero McCknoquese""",6.39,food
+2021-02-06,Cake Pop,2.25,food
+2021-02-06,Chocolate Croissant,2.95,food
+2021-02-06,Hot Chocolate,2.95,food
+2021-02-06,Caffe Mocha,3.95,food
+2020-12-08,ELECTRC SMKR <A>,299,home/appliances
+2020-12-08,100SS DOOR <A>,139,home/appliances
+2020-12-08,1×4X8PRIME <A>,19.74,other
+2018-11-11,EGG (1),Unknown,food
+Unknown,CRETORS MIX,5.89,food
+Unknown,KS WHEAT BRD,3.99,food
+Unknown,SKINNYPOP 14,5.39,food
+Unknown,PORK EGGROLL,7.59,food
+Unknown,KINGS BOWL,10.99,food
+Unknown,KS TRAIL MIX,12.89,food
+Unknown,YAKISOBA,11.49,food
+2018-12-01,REG_ FRIES,3.79,food
+2018-12-01,WINGS LARGE,21.29,food
+Unknown,OIL DRAIN PN,2.74,home/appliances
+Unknown,KRO WATER,0.76,food
+Unknown,PC RYND WRAP QC,3.49,home/appliances
+Unknown,KRO ALLUMNM,2.99,home/appliances
+Unknown,SARG CHEESE,9.98,food
+2019-01-05,KS ORG SUGAR,8.49,food
+2019-01-05,DC FIGS,4.97,food
+2019-01-05,DRIED PLUMS,8.99,food
+2019-01-05,HERSHEY NUGG,11.75,food
+2019-01-05,KS ORG CHERY,7.99,food
+2019-01-05,KS WHL PEPER,4.99,food
+2019-01-05,KS PURE SALT,2.79,food
+2019-01-05,KS GRINDER,6.89,home/appliances
+2019-01-05,KS ORG EGGS,6.49,food
+2019-01-05,ORGANIO CHIP,5.89,food
+2020-09-03,Vie 12pk,0.6,food
+2020-09-03,Bel Bottle Deposit .60,1.19,other
+2020-09-03,medium Salsa,Unknown,food
+2020-09-03,munk Tuna In Oil,0.68,food
+2020-09-03,Chunk Tuna In Oil,0.68,food
+2020-09-03,chunk Tuna Water,0.68,food
+2020-09-03,FarfllXTri-Clr Rot,0.75,other
+2020-09-03,Cranberry Cocktail,1.29,entertainment/alcohol
+2020-09-03,Snak Sak,1.95,food
+2020-09-03,Macaroni & Cheese,0.34,food
+2020-09-03,Pork & Beans,,food
+2020-09-03,Big Dipper Chips,0.89,food
+2020-09-03,Steam Asian Blends,1.79,food
+2020-09-03,Gourmet Deli/,4.49,food
+2020-09-03,Fruit & Grain Bar,1.39,food
+2020-09-03,WhiteTortillaChips,0.89,food
+2020-09-03,Itln/Zst Izlm Dres,0.89,other
+2020-09-03,Deluxe Amer Slices,1.99,food
+2020-09-03,Cinnamon Bagels,1.49,food
+2020-09-03,12 Grain Bread,1.28,food
+2012-09-28,LUCERNE BUTTERMILK,2,food
+2012-09-28,LUCERNE CHOC MILK,2,food
+2012-09-28,RUSSET POTATO,3.99,food
+2021-11-09,BIC WO TAPE,1.97,home/appliances
+2021-11-09,RIBBON,10.44,home/appliances
+2021-11-09,SE REG JEAN,10.44,clothing
+2021-11-09,REG JEAN,Unknown,clothing
+2021-11-09,GE REG JEAN,10.44,clothing
+2015-07-14,Sides,1,food
+2021-07-07,SCHUR ICE,1.99,food
+2021-07-07,CHKRS/RALLY FRIES PC,2.99,food
+2021-07-07,LETTUCE HEAD,1.39,food
+2021-07-07,PRSL XL WHT SND BNPC,2,other
+2021-07-07,KRO VEG OIL,5.79,food
+2020-10-01,The Travis Scott Meal for $6 Daily Deal,1,food
+2015-01-13,LIME,1.4,food
+2015-01-13,"ORANGES, NAVEL",1.37,food
+2015-01-13,FRNZ 100% WW BR,1.98,food
+2015-01-13,MARUCHAN SOUP,2.56,food
+2015-01-13,MARUCHAN RAMEN,3.68,food
+2015-01-13,QUAKER OATS,2.98,food
+2015-01-13,F/L DORITOS,2.47,food
+2015-01-13,SMUKR JELLY GRA,1.68,food
+2015-01-13,WINCO BRN SUGAR,0.71,food
+2015-01-13,F/L DIP BEAN,1.88,food
+2022-11-12,Tandoori Chicken,2990,food
+Unknown,endor Coupon,-2,other
+Unknown,andor Coupon,-2,other
+Unknown,ndor Coupon,-2,other
+2014-02-08,IFG CPN,Unknown,other
+2014-02-08,BONUS CPN,Unknown,other
+2014-02-08,STR CPN & KRO PLUS,Unknown,other
+2021-09-11,Blue Moon Small,5.99,entertainment/alcohol
+2021-09-11,9oz Filet,27.79,food
+2021-09-11,Steamed Asparagus,2.29,food
+2023-01-14,Filet-O-Fish,6.69,food
+2023-01-14,Filet-O-Fish Patty,1.4,food
+2023-01-14,Bacon QPC Meal,16.89,food
+2023-01-14,S Premium Roast,3.09,food
+2012-10-16,DOUBLE-DOUBLE,4,food
+2012-10-16,Lg T-Shirt,5,clothing
+Unknown,NATURE VLLY GR B7,0,food
+Unknown,6M CHEERIOS CREAL,3.98,food
+Unknown,NV NUL LOVERS,3.98,food
+Unknown,FAGE TOTAL 2% YOGU,1.25,food
+Unknown,GREEN BELL PEPPERS,1,food
+Unknown,MEDIUM CELERY,0.5,food
+2018-04-17,GAS TABLETS,5.48,transportation
+2018-04-17,COMP GLOVE,6.92,home/appliances
+2018-04-17,KBF DC COCOA,2.78,food
+2019-03-03,M Coke,1,food
+2019-03-03,L Shamrock Shake,4.19,food
+2010-06-17,GILLETTE BW,0,home/appliances
+2010-06-17,GILL BW,4.49,home/appliances
+2019-05-11,4PC TENDER CBO,6.49,food
+2019-10-10,BLCK CJN SALMN,18.49,food
+2019-10-10,EX HONEY MUST,0,food
+2019-10-10,BRD STCK,0.99,food
+2019-10-10,$ADD 1 BRD STCK,0.99,food
+2022-07-03,SERV & EQUIP,5,other
+2022-07-03,Store Network Charges - BDSL 0518,75.23,other
+2022-07-03,ADFUND 4.06% 0518,,other
+2022-07-03,CLOUD EMAIL 0518,2.43,other
+2022-07-03,BOOKKEEPING & PAYROLL FEE,165,other
+2022-07-03,SUPERANNUATION PROCESSING,10,other
+2022-07-03,DEVELOPING MARKET SUBSIDY 1% 98518,54394,other
+2022-07-03,GPS PLATFORM FEE 0518,25.38,other
+2022-07-03,HELPDESK WEEKLY CHARGE 0518,29.3,other
+2022-07-03,LEASE FEE 0518,26.2,other
+2022-07-03,MICROSOFT LICENSE FEE 0518,,other
+2022-07-03,NATPROD 1.3% FUND 0518,707.12,other
+2022-07-03,PULSE ENHANCEMENT FEE 0518,19.1,other
+2022-07-03,ROYALTY DPE 7.0% 0518,3807.57,other
+2022-07-03,CHARGEBACKS ADFUND REFUND 5.36% 0518,-1.39,other
+2022-07-03,CHARGEBACKS ROYALTY REFUND 5% 0518,-1.29,other
+2022-07-03,RENT/0518/Rent,Unknown,other
+2022-07-03,OUTGS/0518/Mgt Fee JUL22,372.04,other
+2022-07-03,OUTGS AJR PROPERTY/0518/STRATA,606.05,other
+2022-07-03,Mandoe Music Licence - Jun-22,70.52,other
+2022-07-03,MONTHLY MANDOE BRD RENTAL Jun-22,70,other
+2022-07-03,GPS Delivery Fees. 925 Deliveries- WE,33.64,transportation
+2022-07-03,Pub. Liability Ins and Store Cover JUN 22,362.35,other
+2022-07-03,M/V,Unknown,other
+2022-07-03,Chargeback,2586,other
+2022-07-03,Fees,1380,other
+2022-07-03,Fees Paypal,20.36,other
+2022-07-03,IMPRESSU,9392,other
+2022-07-03,Estore,Unknown,other
+2022-07-03,My,11.3,other
+2022-07-03,Adyen,237.12,other
+2020-01-22,HOT BAR,11.09,food
+2024-06-27,Shredded Parmesan,2.19,food
+2024-06-27,Dish Detergent,2.09,home/appliances
+2018-08-14,TOSTINOS PIZZA,1.19,food
+2018-08-14,KRO IT SSAGE,2.99,food
+2018-08-14,TACO HUMMUS,3.99,food
+2018-08-14,SABRA HUMMUS W/PRTPC,1,food
+2018-08-14,KROGER TORT CHIPS,1.49,food
+2018-08-14,CMFRTS BABY POWDER,1.69,home/appliances
+2018-08-14,SAS GRANULATED,1.89,food
+2018-08-14,DOVE BAR SOAP,1.99,home/appliances
+2018-08-14,EVOLVE STYLN BRUSH,2.99,home/appliances
+2020-03-17,PUMPKIN PIE,0.5,food
+2020-03-17,KFT SINGLES,5.57,food
+2020-03-17,PRG ORG,1.44,other
+2020-03-17,GV YOGURT,1.84,food
+2020-03-17,PREM BF HAM,3.98,food
+2020-03-17,BBQ VIENNA,0.56,food
+2020-03-17,BUENDIACFFEE,4.48,food
+2020-03-17,1 MILK,2.27,food
+2020-03-17,PRKY SPRY,2.08,home/appliances
+2020-03-17,EGGS 12CT,1.07,food
+2020-03-17,SITE MERCH,2.98,clothing
+2020-03-17,FRCH SLCE,1,food
+2020-03-17,BRIOCHE MAR,3.98,food
+2020-03-17,MUG,0.94,home/appliances
+2020-03-17,BOWL,0.94,home/appliances
+2020-03-17,160Z CINN FT,1.64,food
+2020-03-17,GV APPLESCE,1.62,food
+2020-03-17,CMTSPAGETTI,1.98,food
+2020-03-17,CMPLT CHICKN,1.98,food
+2015-07-23,"LG BLIZZ,",6.17,food
+2018-12-07,GATORADE FRT PUNCH,1.34,food
+2018-12-07,CHOC CHP MINI MFFN,4.99,food
+2018-12-07,GM CHOCOLATE CHEX,3.89,food
+2018-12-07,JELL-O SF CHOCOLAT,2.35,food
+2018-12-07,AQUAFINA WATER,5.99,food
+2018-12-07,YOBABY 6PK BAN/MGO,3.99,food
+2018-12-07,HS/F DS HNY TK BRS,4.49,food
+2018-12-07,RITZ W/PNT BTR,4.49,food
+2018-12-07,CAFE BUSTELO,5.69,food
+2018-12-07,KELL RICE KRISP BA,4.99,food
+2018-12-07,PHIL CC VEGETABLE,3.25,food
+2018-12-07,PHIL CREAM CHEESE,5.69,food
+2018-12-07,H/DZ BAR SS,5.69,food
+2018-12-07,DIET COCA-COLA,4.99,food
+2018-12-07,SMARTFOOD W/CH POP,3.99,food
+2018-12-07,SMARTFOOD CRM CHDR,3.99,food
+2018-12-07,FNGLE-A-BGL 5 CT,3.49,food
+2018-12-07,LENDERS PLAIN,1.97,food
+2018-12-07,RUFF CHED/SR CRM,4.29,food
+2018-12-07,MM APPLE JU 10PK,3.99,food
+2018-12-07,SILK ALMOND UNSWEE,2.96,food
+2018-12-07,HOR MILK DHA WHOLE,5.59,food
+2018-12-07,HOAGIE ROLLS 4 CT,2.99,food
+2018-12-07,APPLE GRANNY SMITH,5.99,food
+2018-12-07,GM CHOC PB CHEERIO,4.19,food
+2018-12-07,CM COOKIES & CREAM,2.5,food
+2018-12-07,G/ADE X-FCTR FRT P,5.89,food
+2018-12-07,PROPEL ZERO BLK/CH,4.29,home/appliances
+2018-12-07,DANIMALS POUCH STR,3.99,food
+2018-12-07,DC Big G Cereals,-1,food
+2018-12-07,DANIMALS POUCH BAN,3.99,food
+2018-12-07,DANIMALS CTTN CNDY,3.99,food
+2023-10-13,Cmlg Ghst Pep Whp,17.09,food
+2023-10-13,Ghst Pep Whp,Unknown,food
+2022-12-23,SIDE Kickin Ranch,0.73,food
+,FONT SIZE/pt,8.5,other
+,PAPER WIDTH/mm,78.82,home/appliances
+,PRINTER WIDTH/mm,80,home/appliances
+,INCLUDED CHARS,145,other
+,PRINTED DAY,31,other
+,PRINTED MONTH,5,other
+,PRINTED YEAR,2019,other
+,PRINTED HOUR,8,other
+,PRINTED MINUTE,47,other
+,FONT PRICE/dollars,Unknown,other
+,MASS 72,5.95,other
+2022-02-17,Freshly Brewed Coffee-Grande,,food
+2022-02-17,Choice of size: GRANDE,4.5,food
+Unknown,BUITONI RAVIOLI,3.49,food
+Unknown,RANA RAVIOLI,3.99,food
+Unknown,LNDR BAGELS,1.79,food
+Unknown,IMPR MARGRNE,0.99,food
+Unknown,KRO SOURCRM,1,food
+Unknown,KROGER 2% MILK,1.69,food
+Unknown,BTL DEPOSIT,0.1,other
+Unknown,FAYGO SODA,1,food
+Unknown,TOSTITO CHIPS,3.29,food
+Unknown,TMTS CAT TREAT,1.67,food
+Unknown,PURINA CAT CHOW,4.99,food
+Unknown,KRO POTATO,2.79,food
+Unknown,PRGO SAUCE,2.19,food
+Unknown,ACT II POPCRN,2.99,food
+Unknown,GRAPES,3.88,food
+Unknown,KRO JCE CKTL,1.88,entertainment/alcohol
+Unknown,PEACHES YLW,2.18,food
+Unknown,MRSG SOUP MIX,2.39,food
+Unknown,MILKYWAY,1,food
+Unknown,SNCKRS FUN SIZE,1,food
+Unknown,YOO HOO DRINK,2,food
+Unknown,KRO PARM CHS,2.5,food
+2016-05-18,Bwl Creamy Tomato Soup,5.29,food
+2016-05-18,You Pick Two,Unknown,other
+2016-05-18,Candy Cookie,2.09,food
+2016-05-18,Flip Flop Cookie,2.59,food
+2009-01-26,FLUSS,3.69,food
+2009-01-26,FROZEN PIZZA,4.79,food
+2018-07-30,Combo 10,6.89,other
+2018-07-30,NACHO FRIES,1.39,food
+2022-07-04,Cola,3.19,food
+2022-07-04,No Beverage,Unknown,food
+2022-07-04,Ultimate Endless Shrimp,18.99,food
+2022-07-04,3 Course Meal,18.99,food
+2008-10-10,OP FREE COUPON,Unknown,other
+2008-10-10,MC OP FREE COUPON,6.99,other
+Unknown,NES Grocerx,Unknown,food
+Unknown,NFS Grocery,3.25,food
+Unknown,BUTER CROISS,5.99,food
+Unknown,AVOCADOS 5CT,7.99,food
+Unknown,MINI WONTONS,9.49,food
+Unknown,KS CANOLA,8.49,food
+Unknown,KS U/S QTRS,8.69,other
+Unknown,KS 5DZ 2GG,8.99,other
+Unknown,RASPBERRIES,5.99,food
+Unknown,BLUEBERRIES,5.99,food
+Unknown,SPINACH,4.99,food
+Unknown,ECOS LAUNDRY,12.99,home/appliances
+Unknown,PINEAPPLE,2.99,food
+Unknown,KS ULTRA LIQ,15.99,home/appliances
+2022-06-27,$6.99 5PC BIC,16.69,food
+2015-02-21,CEREAL HONEST O ORIG 8 OZ,3.49,food
+2015-02-21,STRAW TWSTD FRUIT,2.99,food
+2015-02-21,WDSTK CORN,4.39,food
+2015-02-21,OV SHRDDED MOZZARELA,3.49,food
+2015-02-21,ORG BROWN SUGAR,3.08,food
+2015-02-21,CARROTS BUNCHED,2.49,food
+2015-02-21,ORANGE GELS,2.99,home/appliances
+2015-02-21,BUTTER SALTED,4.99,food
+2015-02-21,ORG CREAM CHEESE B,2.79,food
+2015-02-21,ORG SOUR CREAM,2.99,food
+2015-02-21,ORG SWEET YELLOW,1.99,food
+2015-02-21,APPLES GALA,3.95,food
+2015-02-21,SLD CLM WFM SPRING,2.5,food
+2015-02-21,MILD CHEDDAR SHRED,99,food
+2015-02-21,ANGIES POPCRN BMCH,2.5,food
+2015-02-21,ANNIE BNY GRHM CHC,3.99,food
+2015-02-21,ANNIE CHDR BUNNIES,99,food
+2015-02-21,BAKNA 100% APL JC,4.99,other
+2015-02-21,BAKNA 100%JC F/P,5.89,other
+2015-02-21,SPCTTM MAYO ORG,Unknown,food
+2015-02-21,KLND HEATH BAR 6CT,3.99,food
+2015-02-21,APPLE GALA ORGANIC,4.99,food
+2015-02-21,MANDARINES ORGANIC,Unknown,food
+2015-02-21,ORGANIC TOMATO GRP,4.99,food
+2015-02-21,ROMAINE HEART ORG,Unknown,food
+2011-08-18,D-SM SODA,1.49,food
+2011-08-18,MD ICD ORIG BLEN,1.99,food
+2016-09-30,Combo: #07 Footlong -Lg,6.88,food
+Unknown,KRO EGGS LRG,1.59,food
+Unknown,PRKY MARGRNE,1,food
+Unknown,M&MS,0.5,food
+2010-03-26,DT DR PEP CH,1.49,food
+2010-03-26,CUPHOOKS,3.96,home/appliances
+2010-03-26,SINGLE ROD,8.94,home/appliances
+2010-03-26,SINGER,7.96,other
+2010-03-26,5OCT BANDED,3.99,home/appliances
+,Mkt Turkey,5.39,food
+,*** TO- GO ***,0,food
+2015-05-20,OP CLIPPER CARD,75,other
+Unknown,#480 Chocolate Chip Cookie Dough,4.99,food
+Unknown,Cookie Dough,4.99,food
+Unknown,#102 Pepsi 1.5L Bottle,2.92,food
+Unknown,#400 Dips Garlic Dip,0.49,food
+2008-06-22,ATT 25,24.99,other
+2008-06-22,NINTENDO DS,9.99,entertainment/alcohol
+2008-06-22,SKULLCANDY,14.99,home/appliances
+2008-06-22,AIPTEK A HD,119.99,home/appliances
+2008-04-23,SUBMELT fr,,food
+2021-07-23,MENTOS GUM FRSHMNTPC,5.99,food
+2021-07-23,GHIR CHOCOLATE,4.39,food
+2021-07-23,KRO VITAMIN D MILK,3.29,food
+2021-07-23,KRO CREAMER PC,2.29,food
+2021-07-23,COFFEEMATE CREAMERPC,3.49,food
+2017-04-04,Concrete Single,4.69,home/appliances
+Unknown,VM SM WHP-CHS,6.49,food
+Unknown,*MEDIUM ICE TEA,0.2,food
+2013-02-25,AMMO,34.97,other
+2012-07-30,Grande Meal,9.9,food
+2012-07-30,Sft Tac Party Pk,10,food
+2012-07-30,Taco Party Pack,10,food
+2012-07-30,Med Drink,43.94,food
+2012-07-30,Supreme Pizza,11.97,food
+2012-07-30,Pepperoni Pizza,11.07,food
+2012-07-30,Cheese Pizza,10.47,food
+2023-07-31,RECALL AMOUNT,855.4,other
+Unknown,IRACER 2% RF MILK,2.39,food
+2009-08-06,BAGEL TOASTER,19.99,food
+2009-08-06,WALL ART,14.97,home/appliances
+2024-01-24,RING/LINKED,749.99,home/appliances
+2022-03-22,HORM FC BACF,17.47,food
+2012-08-13,WATERMELON,Unknown,food
+2012-08-13,ARROWHEAD,4.15,food
+2012-08-13,CRACKERS,7.48,food
+2012-08-13,SPRING MIX,3.98,food
+2012-08-13,BLUEBERRIESI,5.98,food
+2012-08-13,LC GARLIC&HF,6.98,food
+2012-08-13,EB18CT GR AF,3.24,other
+2012-08-13,MULTI GRAINF,5.38,food
+Unknown,TRESEMME,4.39,home/appliances
+2013-08-01,"6"" Spicy Italian",2.5,food
+2013-08-01,"6"" Subway Club",4.5,food
+2013-08-01,Fountain Drink - 21oz,1.5,food
+2013-08-01,$4LPgmCA1,0,other
+2010-06-22,YOPLAIT FIBER YOGU,2,food
+2010-06-22,Mfr. eCoupon,Unknown,other
+2010-06-22,YOPLAIT FIBER ONE,2,food
+2012-05-31,FREE Pantene Style,Unknown,home/appliances
+2018-12-18,PPK SRF ZEST A FIESTA PAR,2.99,food
+2018-12-18,SFP SUPREME 8IN,7,food
+2021-07-24,Chicken Ceasar Wrap,Unknown,food
+2021-07-24,LIL JOHN #5 Vito,8.49,entertainment/alcohol
+2021-07-24,LIL JOHN #1 Pepe,3.59,entertainment/alcohol
+2021-07-24,#4 Turkey Tom,6.49,food
+,Go Large,7.69,food
+,DIP POT,Unknown,home/appliances
+,LARGE FRI,0.4,food
+2014-04-23,CPN,Unknown,other
+2020-06-16,Small Cone,0.94,food
+Unknown,EGG BEATERS 152,49,home/appliances
+Unknown,MC GROCERY,Unknown,food
+Unknown,MC REY REC FOILSOF MI,0.75,home/appliances
+Unknown,MC REY REC FOIL5OF,1.5,home/appliances
+Unknown,MC MARCALTWL 302.5,1.5,home/appliances
+Unknown,MC MARIE YGRT DRSG,1,food
+Unknown,MC MILK BITE 6.152,0.75,food
+Unknown,DOUBLED COUPON,0.75,other
+2003-11-13,Bottle Refund,-2.3,other
+2017-08-31,1/2 Strw-Popoy Chxsal,Unknown,food
+2018-08-19,Ice Cof MD OrigBind,2.69,food
+2018-08-19,AddTurboShot,0.99,food
+2018-08-19,Bagel w/CC,2.49,food
+Unknown,Facilisis,9.1,other
+Unknown,elit.,Unknown,other
+Unknown,Excepteur sint,Unknown,other
+Unknown,Ultricies tristique nulla aliquet,Unknown,other
+Unknown,Tristique nulla,Unknown,other
+2014-07-26,CO,0.56,other
+2014-07-26,DP,1,other
+2014-07-26,MC OP SCANNED COUPON,1,other
+2021-11-21,** Delivery Uber,0,transportation
+2021-11-21,Spicy Habanero McCkn,6.39,food
+2019-01-26,HOTDOG COMO,1.5,food
+2019-01-26,HOTDOG CamB,1.5,food
+2019-01-26,HOTDOG CONB,1.5,food
+2023-06-25,Iced Caffè Latte,5.45,food
+2020-01-01,CORN FLAKES,5.49,food
+2020-01-01,KLLGG RAISIN BRAN,5.99,food
+2020-01-01,HD & SHLDRS SHMPOO,9.99,home/appliances
+2020-01-01,SUSHI CA R,13.98,food
+2020-01-01,SUSHI SHRIMP ROLL,8.99,food
+2020-01-01,BYO SANDWICH REG,6.99,food
+2020-02-21,Grande Americano,2.89,food
+2020-02-21,Fresh Squeezed Juice,2.99,food
+2021-10-16,GRILL COVER,14.97,home/appliances
+2021-10-16,FIBER CHOICE,12.94,food
+2021-10-16,CELERY HEART,2.48,food
+1996-11-08,FRY,0.25,food
+Unknown,Fresh Broccoli,Unknown,food
+Unknown,Baked,Unknown,food
+Unknown,French Fries,Unknown,food
+Unknown,Mashed Potatoes,Unknown,food
+Unknown,Crispy Dragon Broccoli,Unknown,food
+Unknown,Side Caesar Salad,Unknown,food
+2013-12-17,"CEREAL BOWL, GREEN",5.99,food
+2013-12-17,MUG GREEN,5.99,home/appliances
+2019-02-01,EQ PINK GR,3.48,other
+2017-11-15,CELLU,Unknown,other
+Unknown,PREPAY CR #03,30,other
+2020-06-15,HYV 1% LF MILK,Unknown,food
+2020-06-15,TOTINOS TRIPLE CHS,Unknown,food
+2020-06-15,ORBIT SWEET MINT,Unknown,food
+2020-06-15,DR PEPPER CHERRY,Unknown,food
+2020-06-15,P FARM HOAGIE SEEDED,Unknown,food
+2020-06-15,AE 1% VANILLA YOGURT,Unknown,food
+2020-06-15,HYV SLTD BIR QTRS,Unknown,food
+2020-06-15,RAGU CHNKY SAUTEED,Unknown,food
+2020-06-15,OUI LAYER NESSRT CAR,2.25,food
+2020-06-15,SARA LEE DLGHTFUL MG,Unknown,food
+2020-06-15,SIMPLY ZIP SANDWICH,3.99,food
+2020-06-15,BERTOLLI CHIANTI RED,,entertainment/alcohol
+2020-06-15,CHEEZ-IT WHITE CHEDD,Unknown,food
+2020-06-15,DUNBARS RSTD PC,Unknown,food
+2020-06-15,GARDETTO,Unknown,food
+2020-06-15,CARANDO ITLN MEAT,Unknown,food
+2020-06-15,FARM RAISED ATL,Unknown,food
+2020-06-15,FARM RATCE,Unknown,food
+2014-05-28,4 LB. Sugar,1.89,food
+2014-05-28,Bagged lemons,1.69,food
+2014-05-28,Beans and Wieners,0.79,food
+2014-05-28,Brie Cheese Round,2.99,food
+2014-05-28,Condensed Tom Soup,0.59,food
+2014-05-28,Corned Beef,3.49,food
+2014-05-28,Deli Mustards,0.79,food
+2014-05-28,Enhanced Water,0.89,food
+2014-05-28,Fair Trade Coffee,3.99,food
+2014-05-28,G Bears& Hppy Cola,0.95,food
+2014-05-28,Hand Select Fruit,2.19,food
+2014-05-28,Inst Choc Pudding,0.45,food
+2014-05-28,Mangoes,1.19,food
+2014-05-28,Maraschino Cherrie,1.49,food
+2014-05-28,Med EZ Peel Rw Shp,7.99,food
+2014-05-28,M Roth Flavor Coll,1.99,food
+2014-05-28,Mussels Assort.,2.99,food
+2014-05-28,Organic Apples,4.89,food
+2014-05-28,OrganicChkn/Lentil,1.99,food
+2014-05-28,Oyster Crackers,0.89,food
+2014-05-28,Peppers Multi - Color,0.99,food
+2014-05-28,Prem NFC OJ,2.39,food
+2014-05-28,Radishes,1.29,food
+2014-05-28,Sauerkraut,1.69,food
+2014-05-28,Smoked Polish,3.99,food
+2014-05-28,Spanish Olives,1.19,food
+2014-05-28,Vienna Sausage,0.39,food
+2014-05-28,White Vinegar,0.99,food
+2014-05-28,Whole Oysters,1.99,food
+2014-05-28,Wild Caught Salmon,4.49,food
+2009-09-16,GSB CHK,3.79,other
+2016-10-03,4 for $4 JBC Meal Sm,4,food
+2014-10-17,HC Crisp,14.99,food
+2014-10-17,Ribs,23.39,food
+2014-10-17,Dinner House Sal w/Entree,3.99,food
+2014-10-17,Spinach Dip,10.29,food
+2014-10-17,Mango Tea,3.79,food
+2014-10-17,Beverage,3.29,food
+2019-03-15,Super Slampler,5.99,food
+2010-07-22,PKG MEAT MARKDOWN,1.99,food
+2020-07-07,GON RELOAD,3.74,other
+2020-07-07,AMOUNT,100,other
+Unknown,365WFM CHED JACK SHRED,6.49,food
+2023-10-12,Alph/ChocChpCookie,,food
+2023-10-12,Turtle Crackers,,food
+2023-10-12,Choc Butter Cookie,,food
+2023-10-12,Filled Pasta,1.99,food
+2023-10-12,Assorted Ravioli,1.99,food
+2023-10-12,Filled Gnocchi,2.49,food
+2023-10-12,Jarred Soups,3.69,food
+2023-10-12,Avocado Oil,5.79,food
+2023-10-12,Aged White Cheddar,2.75,food
+2023-10-12,Cracker Cuts,2.99,food
+2023-10-12,Whole Kernel Corn,,food
+2023-10-12,MooTubes Asst Var,,food
+2023-10-12,Southwest Sald Kit,,food
+2023-10-12,GF Dog Treats,,food
+2023-10-12,Pretzel Pieces,,food
+2023-10-12,Cosmic Crisp Apple,3.49,food
+2023-10-12,Sweet Onions 21b,1.99,food
+2023-10-12,Dia de los Muertos,,other
+2023-10-12,Peanut Butter,3.89,food
+2023-10-12,3 oz. Cat Treats,1.25,food
+2023-10-12,Sartori Cheddar,3.99,food
+2023-10-12,Prem Rst Coffee,6.39,food
+2023-10-12,Gourmet Medley Tom,3.29,food
+2023-10-12,Mini Sweet Peppers2.97,3.19,food
+2023-10-12,Blackberries 3,1.99,food
+2023-10-12,F&A Rice Cakes,2.99,food
+2023-10-12,"Seedless Cucumber),",0.95,food
+2023-10-12,12 pk GT Cola,3.99,food
+2023-10-12,4 Roll 1000ct Bath,2.99,home/appliances
+2023-10-12,GROUND SIRLOIN,12.48,food
+2023-10-12,Cauli Crust Pizza,,food
+Unknown,RED LEAF LETTUCE,0.98,food
+Unknown,SMALL NAVEL ORANGES,2.3,food
+Unknown,SR CRM KTL CHIPS,1.5,food
+Unknown,LG VEG A FED EGGS,3.99,food
+Unknown,BLK RSP GELATO,3.99,food
+Unknown,TALENTI GELATO,399,food
+Unknown,DEPARTMENT,Unknown,other
+Unknown,USED BAG CREDIT,-10,other
+2018-08-09,PATRN PERF MARG,10.59,other
+2018-08-09,AYCE RIBLETS,12.99,food
+2024-04-20,Medium Drink,2.89,food
+2021-09-19,Kent Cherry wood Baby Brush,Unknown,home/appliances
+2021-02-01,Everspring,2.79,food
+2021-02-01,Command,11.99,other
+2021-02-01,Bright Box,4.99,home/appliances
+2021-02-01,DAWN,10.89,home/appliances
+2021-02-01,UTILITY TUB,10.99,home/appliances
+2008-05-16,SIDE SALAD,1,food
+Unknown,D893 Free MD Iced Cof w/p,2.79,food
+2008-04-24,TUNA,,food
+2014-07-01,AQUAFINA,0.79,food
+2014-07-01,OXI CLEAN,3.99,home/appliances
+2020-02-26,CLASSIC CHKN SANDWICH,3.99,food
+2020-02-26,CLASSIC CHKN SANDWICH CBO,6.99,food
+2020-02-26,*COKE 32,0.5,food
+2001-06-20,MAXELL T120,1.79,home/appliances
+2001-06-20,SONY T160,2.59,home/appliances
+2001-06-20,ESQUIRE,2.7,entertainment/alcohol
+2001-06-20,ROLLERBALL,3.99,home/appliances
+2001-06-20,SNICKERS,0.44,food
+2001-06-20,STEERING WC,7.99,home/appliances
+2001-06-20,UTILITY MAT,3.99,home/appliances
+2021-06-21,365WFM ORIGINAL OATMILK,3.99,food
+2021-06-21,TOPO MINERAL WATER,1.99,food
+2021-06-21,SUJA OG GRN DELIGHT JUICE,7.98,food
+2021-06-21,SINGLE DONUT,0.99,food
+2021-06-21,365WFM OG SOURDOUGH BREAD,3.99,food
+2021-06-21,CROISSANT 4 COUNT,4.99,food
+2021-06-21,WFM OG BLD ORNG SODA,-2.79,food
+2021-06-21,BMEAT ALTERNATIVE BURGER,5.99,food
+2021-06-21,365WEM SLC NONDAIRY CHDDR,3.99,food
+2021-06-21,BMEAT HOT PLANT SAUSAGE,8.99,food
+2021-06-21,WFM PAD THAI,4.79,food
+2021-06-21,OG CILANTRO BUNCH,1.29,food
+2021-06-21,OG BANANA,1.42,food
+2021-06-21,DRMC CHICKEN RAMEN,2.69,food
+2021-06-21,CHOLV ORNG PL CHC BAR,2.99,food
+2021-06-21,JSTINC PLANT BASED EGG,3.99,food
+2021-06-21,365WFM OG EXTR FRM TOFU,1.79,food
+2021-06-21,KITHL VANILLA ALMD YGRT,1.99,food
+2021-06-21,KITHL ALMD MLK YOGURT,1.99,food
+2021-06-21,KITHL ALMND MLK YOGRT,1.99,food
+2021-06-21,E&S BOULLN CHKN CUBE,2.99,food
+2021-06-21,BICOLOR CORN,1,food
+2021-06-21,365WFM ELECTROLYTE WTR,1.19,food
+2023-05-01,DBL CHS BURGER,5.98,food
